@@ -1,0 +1,857 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Al Quran - Complete Surah List</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <style>
+    :root {
+            --primary-color: #8e44ad;
+            --secondary-color: #27ae60;
+            --text-color: #2c3e50;
+            --light-text: #7f8c8d;
+            --bg-color: #f8f5f0;
+            --card-bg: #ffffff;
+            --border-color: #e1e1e1;
+        }
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+    body {
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            line-height: 1.6;
+        }
+
+    .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            padding-bottom: 100px; /* Space for player */
+        }
+
+    header {
+            text-align: center;
+            margin-bottom: 30px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid var(--border-color);
+            position: relative;
+        }  
+    
+    h1 {
+            color: var(--primary-color);
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            font-weight: 700;
+            
+        }
+        
+    .header-decoration {
+            position: absolute;
+            bottom: -10px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 100px;
+            height: 3px;
+            background: linear-gradient(90deg, var(--primary-color), var(--secondary-color));
+            border-radius: 3px;
+        }
+        .search-container {
+            margin-bottom: 20px;
+            position: relative;
+        }
+
+        #search-input {
+            width: 100%;
+            padding: 12px 15px 12px 45px;
+            border: 1px solid var(--border-color);
+            border-radius: 25px;
+            font-size: 1rem;
+            outline: none;
+            transition: all 0.3s;
+            background-color: var(--card-bg);
+        }
+
+        #search-input:focus {
+            border-color: var(--primary-color);
+            box-shadow: 0 0 8px rgba(142, 68, 173, 0.2);
+        }
+
+        .search-icon {
+            position: absolute;
+            left: 15px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: var(--light-text);
+        }
+
+    .surah-list {
+            background-color: var(--card-bg);
+            border-radius: 10px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+            overflow: hidden;
+            margin-bottom: 30px;
+        }
+
+    .surah-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 15px 20px;
+            border-bottom: 1px solid rgba(0,0,0,0.05);
+            transition: all 0.2s;
+            position: relative;
+        }
+
+    .surah-item:last-child {
+      border-bottom: none;
+    }
+
+    .surah-item:hover {
+            background-color: rgba(142, 68, 173, 0.03);
+        }
+
+    .surah-number {
+            color: var(--primary-color);
+            font-weight: bold;
+            width: 30px;
+            text-align: center;
+            font-size: 1.1rem;
+        }
+    .surah-name {
+            flex-grow: 1;
+            padding: 0 20px;
+            font-size: 1.1rem;
+            font-weight: 500;
+        }
+
+        .surah-name-en {
+            display: block;
+            font-size: 0.8rem;
+            color: var(--light-text);
+            margin-top: 3px;
+        }
+
+        .surah-duration {
+            color: var(--light-text);
+            font-size: 0.9rem;
+            width: 70px;
+            text-align: right;
+        }
+
+    .play-btn {
+            background: none;
+            border: none;
+            color: var(--primary-color);
+            font-size: 1.2rem;
+            cursor: pointer;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.2s;
+            margin-left: 10px;
+        }
+      .download-btn {
+            background: none;
+            border: none;
+            color: var(--primary-color);
+            font-size: 1.2rem;
+            cursor: pointer;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.2s;
+            margin-left: 10px;
+        }
+
+    .play-btn:hover {
+            background-color: rgba(142, 68, 173, 0.1);
+            transform: scale(1.1);
+        }
+        .no-results {
+            padding: 30px;
+            text-align: center;
+            color: var(--light-text);
+            display: none;
+        }
+
+        p{
+          text-align: center;
+          font-weight: bold;
+          }
+  </style>
+</head>
+<body>
+  <div class="container">
+  <header>
+  <h1>Al Quran</h1>
+  <div class="header-decoration"></div>
+    </header>
+
+  <div class="search-container">
+        <i class="fas fa-search search-icon"></i>
+        <label for="search-input"></label><input type="text" id="search-input" placeholder="Search surah by name or number...">
+  </div>
+
+  <div class="surah-list" id="surah-list">
+        <div class="no-results" id="no-results">
+            <i class="fas fa-search" style="font-size: 2rem; margin-bottom: 10px;"></i>
+            <p>No surahs found matching your search</p>
+        </div>
+    </div>
+  <footer>
+        <p>© 2025 AL Quran Web App | All Rights Reserved</p>
+        <p>Created by Mohammed Karim</p>
+    </footer>
+</div>
+  <script>
+    const surahs = [
+        {
+          number: 1,
+          name: "الفاتحة",
+          nameEn: "Al-Fatihah",
+          duration: "00:00:51"  },
+        {
+          number: 2,
+          name: "البقرة",
+          nameEn: "Al-Baqarah",
+          duration: "02:06:15"  },
+        {
+          number: 3,
+          name: "آل عمران",
+          nameEn: "Aal-e-Imran",
+          duration: "01:18:45"  },
+        {
+          number: 4,
+          name: "النساء",
+          nameEn: "An-Nisa",
+          duration: "01:19:57"  },
+        {
+          number: 5,
+          name: "المائدة",
+          nameEn: "Al-Ma'idah",
+          duration: "01:03:01"  },
+        {
+          number: 6,
+          name: "الأنعام",
+          nameEn: "Al-An'am",
+          duration: "01:12:30"  },
+        {
+          number: 7,
+          name: "الأعراف",
+          nameEn: "Al-A'raf",
+          duration: "01:23:15"  },
+        {
+          number: 8,
+          name: "الأنفال",
+          nameEn: "Al-Anfal",
+          duration: "00:30:38"  },
+        {
+          number: 9,
+          name: "التوبة",
+          nameEn: "At-Taubah",
+          duration: "01:00:24"  },
+        {
+          number: 10,
+          name: "يونس",
+          nameEn: "Yunus",
+          duration: "00:45:12"  },
+        {
+          number: 11,
+          name: "هود",
+          nameEn: "Hud",
+          duration: "00:46:25"  },
+        {
+          number: 12,
+          name: "يوسف",
+          nameEn: "Yusuf",
+          duration: "00:42:04"  },
+        {
+          number: 13,
+          name: "الرعد",
+          nameEn: "Ar-Ra'd",
+          duration: "00:20:30"  },
+        {
+          number: 14,
+          name: "إبراهيم",
+          nameEn: "Ibrahim",
+          duration: "00:20:27"  },
+        {
+          number: 15,
+          name: "الحجر",
+          nameEn: "Al-Hijr",
+          duration: "00:15:54"  },
+        {
+          number: 16,
+          name: "النحل",
+          nameEn: "An-Nahl",
+          duration: "00:42:23"  },
+        {
+          number: 17,
+          name: "الإسراء",
+          nameEn: "Al-Isra",
+          duration: "00:33:17"  },
+        {
+          number: 18,
+          name: "الكهف",
+          nameEn: "Al-Kahf",
+          duration: "00:33:30"  },
+        {
+          number: 19,
+          name: "مريم",
+          nameEn: "Maryam",
+          duration: "00:21:22"  },
+        {
+          number: 20,
+          name: "طه",
+          nameEn: "Taha",
+          duration: "00:27:07"  },
+        {
+          number: 21,
+          name: "الأنبياء",
+          nameEn: "Al-Anbiya",
+          duration: "00:26:24"  },
+        {
+          number: 22,
+          name: "الحج",
+          nameEn: "Al-Hajj",
+          duration: "00:29:32"  },
+        {
+          number: 23,
+          name: "المؤمنون",
+          nameEn: "Al-Mu'minun",
+          duration: "00:24:59"  },
+        {
+          number: 24,
+          name: "النور",
+          nameEn: "An-Nur",
+          duration: "00:30:40"  },
+        {
+          number: 25,
+          name: "الفرقان",
+          nameEn: "Al-Furqan",
+          duration: "00:18:21"  },
+        {
+          number: 26,
+          name: "الشعراء",
+          nameEn: "Ash-Shu'ara",
+          duration: "00:30:46"  },
+        {
+          number: 27,
+          name: "النمل",
+          nameEn: "An-Naml",
+          duration: "00:26:12"  },
+        {
+          number: 28,
+          name: "القصص",
+          nameEn: "Al-Qasas",
+          duration: "00:31:43"  },
+        {
+          number: 29,
+          name: "العنكبوت",
+          nameEn: "Al-Ankabut",
+          duration: "00:21:25"  },
+        {
+          number: 30,
+          name: "الروم",
+          nameEn: "Ar-Rum",
+          duration: "00:19:31"  },
+        {
+          number: 31,
+          name: "لقمان",
+          nameEn: "Luqman",
+          duration: "00:11:55"  },
+        {
+          number: 32,
+          name: "السجدة",
+          nameEn: "As-Sajdah",
+          duration: "00:08:43"  },
+        {
+          number: 33,
+          name: "الأحزاب",
+          nameEn: "Al-Ahzab",
+          duration: "00:29:17"  },
+        {
+          number: 34,
+          name: "سبإ",
+          nameEn: "Saba",
+          duration: "00:19:02"  },
+        {
+          number: 35,
+          name: "فاطر",
+          nameEn: "Fatir",
+          duration: "00:17:36"  },
+        {
+          number: 36,
+          name: "يس",
+          nameEn: "Ya-Sin",
+          duration: "00:17:39"  },
+        {
+          number: 37,
+          name: "الصافات",
+          nameEn: "As-Saffat",
+          duration: "00:24:24"  },
+        {
+          number: 38,
+          name: "ص",
+          nameEn: "Sad",
+          duration: "00:17:49"  },
+        {
+          number: 39,
+          name: "الزمر",
+          nameEn: "Az-Zumar",
+          duration: "00:27:09"  },
+        {
+          number: 40,
+          name: "غافر",
+          nameEn: "Ghafir",
+          duration: "00:26:22"  },
+        {
+          number: 41,
+          name: "فصلت",
+          nameEn: "Fussilat",
+          duration: "00:19:20"  },
+        {
+          number: 42,
+          name: "الشورى",
+          nameEn: "Ash-Shura",
+          duration: "00:19:29"  },
+        {
+          number: 43,
+          name: "الزخرف",
+          nameEn: "Az-Zukhruf",
+          duration: "00:20:28"  },
+        {
+          number: 44,
+          name: "الدخان",
+          nameEn: "Ad-Dukhan",
+          duration: "00:09:51"  },
+        {
+          number: 45,
+          name: "الجاثية",
+          nameEn: "Al-Jathiyah",
+          duration: "00:10:50"  },
+        {
+          number: 46,
+          name: "الأحقاف",
+          nameEn: "Al-Ahqaf",
+          duration: "00:15:57"  },
+        {
+          number: 47,
+          name: "محمد",
+          nameEn: "Muhammad",
+          duration: "00:12:17"  },
+        {
+          number: 48,
+          name: "الفتح",
+          nameEn: "Al-Fath",
+          duration: "00:12:01"  },
+        {
+          number: 49,
+          name: "الحجرات",
+          nameEn: "Al-Hujurat",
+          duration: "00:08:35"  },
+        {
+          number: 50,
+          name: "ق",
+          nameEn: "Qaf",
+          duration: "00:09:19"  },
+        {
+          number: 51,
+          name: "الذاريات",
+          nameEn: "Adh-Dhariyat",
+          duration: "00:09:04"  },
+        {
+          number: 52,
+          name: "الطور",
+          nameEn: "At-Tur",
+          duration: "00:08:05"  },
+        {
+          number: 53,
+          name: "النجم",
+          nameEn: "An-Najm",
+          duration: "00:07:41"  },
+        {
+          number: 54,
+          name: "القمر",
+          nameEn: "Al-Qamar",
+          duration: "00:08:02"  },
+        {
+          number: 55,
+          name: "الرحمن",
+          nameEn: "Ar-Rahman",
+          duration: "00:11:19"  },
+        {
+          number: 56,
+          name: "الواقعة",
+          nameEn: "Al-Waqi'ah",
+          duration: "00:11:56"  },
+        {
+          number: 57,
+          name: "الحديد",
+          nameEn: "Al-Hadid",
+          duration: "00:13:42"  },
+        {
+          number: 58,
+          name: "المجادلة",
+          nameEn: "Al-Mujadila",
+          duration: "00:10:13"  },
+        {
+          number: 59,
+          name: "الحشر",
+          nameEn: "Al-Hashr",
+          duration: "00:10:26"  },
+        {
+          number: 60,
+          name: "الممتحنة",
+          nameEn: "Al-Mumtahanah",
+          duration: "00:07:31"  },
+        {
+          number: 61,
+          name: "الصف",
+          nameEn: "As-Saff",
+          duration: "00:04:52"  },
+        {
+          number: 62,
+          name: "الجمعة",
+          nameEn: "Al-Jumu'ah",
+          duration: "00:03:33"  },
+        {
+          number: 63,
+          name: "المنافقون",
+          nameEn: "Al-Munafiqun",
+          duration: "00:04:18"  },
+        {
+          number: 64,
+          name: "التغابن",
+          nameEn: "At-Taghabun",
+          duration: "00:05:24"  },
+        {
+          number: 65,
+          name: "الطلاق",
+          nameEn: "At-Talaq",
+          duration: "00:06:01"  },
+        {
+          number: 66,
+          name: "التحريم",
+          nameEn: "At-Tahrim",
+          duration: "00:06:12"  },
+        {
+          number: 67,
+          name: "الملك",
+          nameEn: "Al-Mulk",
+          duration: "00:07:35"  },
+        {
+          number: 68,
+          name: "القلم",
+          nameEn: "Al-Qalam",
+          duration: "00:07:36"  },
+        {
+          number: 69,
+          name: "الحاقة",
+          nameEn: "Al-Haqqah",
+          duration: "00:06:45"  },
+        {
+          number: 70,
+          name: "المعارج",
+          nameEn: "Al-Ma'arij",
+          duration: "00:05:17"  },
+        {
+          number: 71,
+          name: "نوح",
+          nameEn: "Nuh",
+          duration: "00:04:40"  },
+        {
+          number: 72,
+          name: "الجن",
+          nameEn: "Al-Jinn",
+          duration: "00:05:34"  },
+        {
+          number: 73,
+          name: "المزمل",
+          nameEn: "Al-Muzzammil",
+          duration: "00:04:04"  },
+        {
+          number: 74,
+          name: "المدثر",
+          nameEn: "Al-Muddathir",
+          duration: "00:05:24"  },
+        {
+          number: 75,
+          name: "القيامة",
+          nameEn: "Al-Qiyamah",
+          duration: "00:03:31"  },
+        {
+          number: 76,
+          name: "الإنسان",
+          nameEn: "Al-Insan",
+          duration: "00:05:14"  },
+        {
+          number: 77,
+          name: "المرسلات",
+          nameEn: "Al-Mursalat",
+          duration: "00:04:59"  },
+        {
+          number: 78,
+          name: "النبأ",
+          nameEn: "An-Naba",
+          duration: "00:04:52"  },
+        {
+          number: 79,
+          name: "النازعات",
+          nameEn: "An-Nazi'at",
+          duration: "00:04:16"  },
+        {
+          number: 80,
+          name: "عبس",
+          nameEn: "Abasa",
+          duration: "00:03:40"  },
+        {
+          number: 81,
+          name: "التكوير",
+          nameEn: "At-Takwir",
+          duration: "00:02:38"  },
+        {
+          number: 82,
+          name: "الإنفطار",
+          nameEn: "Al-Infitar",
+          duration: "00:02:16"  },
+        {
+          number: 83,
+          name: "المطففين",
+          nameEn: "Al-Mutaffifin",
+          duration: "00:05:10"  },
+        {
+          number: 84,
+          name: "الإنشقاق",
+          nameEn: "Al-Inshiqaq",
+          duration: "00:02:40"  },
+        {
+          number: 85,
+          name: "البروج",
+          nameEn: "Al-Buruj",
+          duration: "00:03:18"  },
+        {
+          number: 86,
+          name: "الطارق",
+          nameEn: "At-Tariq",
+          duration: "00:01:40"  },
+        {
+          number: 87,
+          name: "الأعلى",
+          nameEn: "Al-A'la",
+          duration: "00:01:47"  },
+        {
+          number: 88,
+          name: "الغاشية",
+          nameEn: "Al-Ghashiyah",
+          duration: "00:02:14"  },
+        {
+          number: 89,
+          name: "الفجر",
+          nameEn: "Al-Fajr",
+          duration: "00:03:32"  },
+        {
+          number: 90,
+          name: "البلد",
+          nameEn: "Al-Balad",
+          duration: "00:02:00"  },
+        {
+          number: 91,
+          name: "الشمس",
+          nameEn: "Ash-Shams",
+          duration: "00:01:24"  },
+        {
+          number: 92,
+          name: "الليل",
+          nameEn: "Al-Lail",
+          duration: "00:01:51"  },
+        {
+          number: 93,
+          name: "الضحى",
+          nameEn: "Ad-Duha",
+          duration: "00:01:05"  },
+        {
+          number: 94,
+          name: "الشرح",
+          nameEn: "Ash-Sharh",
+          duration: "00:00:42"  },
+        {
+          number: 95,
+          name: "التين",
+          nameEn: "At-Tin",
+          duration: "00:01:04"  },
+        {
+          number: 96,
+          name: "العلق",
+          nameEn: "Al-Alaq",
+          duration: "00:01:35"  },
+        {
+          number: 97,
+          name: "القدر",
+          nameEn: "Al-Qadr",
+          duration: "00:00:45"  },
+        {
+          number: 98,
+          name: "البينة",
+          nameEn: "Al-Bayyinah",
+          duration: "00:02:06"  },
+        {
+          number: 99,
+          name: "الزلزلة",
+          nameEn: "Az-Zalzalah",
+          duration: "00:00:59"  },
+        {
+          number: 100,
+          name: "العاديات",
+          nameEn: "Al-Adiyat",
+          duration: "00:01:10"  },
+        {
+          number: 101,
+          name: "القارعة",
+          nameEn: "Al-Qari'ah",
+          duration: "00:01:02"  },
+        {
+          number: 102,
+          name: "التكاثر",
+          nameEn: "At-Takathur",
+          duration: "00:01:02"  },
+        {
+          number: 103,
+          name: "العصر",
+          nameEn: "Al-Asr",
+          duration: "00:00:27"  },
+        {
+          number: 104,
+          name: "الهمزة",
+          nameEn: "Al-Humazah",
+          duration: "00:00:58"  },
+        {
+          number: 105,
+          name: "الفيل",
+          nameEn: "Al-Fil",
+          duration: "00:00:48"  },
+        {
+          number: 106,
+          name: "قريش",
+          nameEn: "Quraish",
+          duration: "00:00:42"  },
+        {
+          number: 107,
+          name: "الماعون",
+          nameEn: "Al-Ma'un",
+          duration: "00:00:57"  },
+        {
+          number: 108,
+          name: "الكوثر",
+          nameEn: "Al-Kawthar",
+          duration: "00:00:24"  },
+        {
+          number: 109,
+          name: "الكافرون",
+          nameEn: "Al-Kafirun",
+          duration: "00:00:54"  },
+        {
+          number: 110,
+          name: "النصر",
+          nameEn: "An-Nasr",
+          duration: "00:00:34"  },
+        {
+          number: 111,
+          name: "المسد",
+          nameEn: "Al-Masad",
+          duration: "00:00:41"  },
+        {
+          number: 112,
+          name: "الإخلاص",
+          nameEn: "Al-Ikhlas",
+          duration: "00:00:21"  },
+        {
+          number: 113,
+          name: "الفلق",
+          nameEn: "Al-Falaq",
+          duration: "00:00:33"  },
+        {
+          number: 114,
+          name: "الناس",
+          nameEn: "An-Nas",
+          duration: "00:00:50"  }
+      ]
+
+    const surahListElement = document.getElementById('surah-list');
+    const noResultsElement = document.getElementById('no-results');
+
+    function renderSurahList(filteredSurahs = surahs) {
+    surahListElement.innerHTML = '';
+    noResultsElement.style.display = 'none';
+
+    if (filteredSurahs.length === 0) {
+        noResultsElement.style.display = 'block';
+        return;
+    }
+
+    filteredSurahs.forEach(surah => {
+        const surahItem = document.createElement('div');
+        surahItem.className = 'surah-item';
+        surahItem.innerHTML = `
+            <div class="surah-number">${surah.number}</div>
+            <div class="surah-name">
+                ${surah.name}
+                <span class="surah-name-en">${surah.nameEn}</span>
+            </div>
+            <div class="surah-duration">${surah.duration}</div>
+            <button class="play-btn" onclick="playSurah(${surah.number})">
+            <i class="fas fa-play"></i>
+          </button>
+          <button class="download-btn" style="margin-left: 10px;" onclick="event.stopPropagation(); window.location.href='1xcjTc3G9W4QavZXG6Cv-R_u_vcYVq8Xh?';">
+        <i class="fas fa-download"></i>
+        </button>
+        <button onclick="downloadAll()" style="display:block; margin: 20px auto; padding: 10px 20px; font-size: 16px; background-color:#8e44ad; color:white; border:none; border-radius:5px;">
+        <i class="fas fa-download"></i> Download All Surahs
+        </button>
+
+        `;
+        surahListElement.appendChild(surahItem);
+      });
+    }
+
+    function playSurah(number) {
+    AndroidBridge.openSurahPage(number);
+}
+document.getElementById('search-input').addEventListener('input', function () {
+    const searchTerm = this.value.toLowerCase();
+
+    if (searchTerm === '') {
+        renderSurahList();
+        return;
+    }
+
+    const filteredSurahs = surahs.filter(surah =>
+        surah.name.toLowerCase().includes(searchTerm) ||
+        surah.nameEn.toLowerCase().includes(searchTerm) ||
+        surah.number.toString().includes(searchTerm)
+    );
+
+    renderSurahList(filteredSurahs);
+});
+
+function downloadAll() {
+    AndroidBridge.downloadAllSurahs();
+}
+
+
+    renderSurahList();
+  </script>
+</body>
+</html>

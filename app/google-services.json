@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "347586441728",
+    "project_id": "quranmp3-2a53e",
+    "storage_bucket": "quranmp3-2a53e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347586441728:android:4122e0d96ebda1a8729ee5",
+        "android_client_info": {
+          "package_name": "example.quranmp3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1D2wrCOGBv2uT_8j5WlhSWxxNcvjRxrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

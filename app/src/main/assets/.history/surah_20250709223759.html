@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Surah Viewer</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      padding: 20px;
+      background-color: #f9faf1;
+      color: #2c3e50;
+      max-width: 800px;
+      margin: auto;
+    }
+    .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            padding-bottom: 100px; /* Space for player */
+    }
+
+    
+    h1 {
+        text-align: center;
+        color: #8e44ad;
+        margin-bottom: 20px;
+        position: relative;
+    }
+
+        h1::after {
+        content: '';
+        display: block;
+        width: 100px;
+        height: 3px;
+        background: linear-gradient(90deg, #8e44ad, #27ae60);
+        margin: 10px auto 0;
+        border-radius: 3px;
+    }
+
+
+    .back-button {
+      display: inline-block;
+      margin-bottom: 1px;
+      color: #8e44ad;
+      font-weight: bold;
+      text-decoration: none;
+      padding: 2px 10px;
+      border: 2px solid #8e44ad;
+      border-radius: 25px;
+      transition: background-color 0.3s, color 0.3s;
+    }
+
+    .back-button:hover {
+      background-color: #8e44ad;
+      color: white;
+    }
+
+    .verse {
+      padding: 15px;
+      margin-bottom: 10px;
+      border-left: 5px solid transparent;
+      border-radius: 4px;
+      background-color: rgb(247, 242, 231);
+      transition: background-color 0.3s, border-left 0.3s;
+    }
+
+    .verse .arabic {
+      font-size: 1.2rem;
+      text-align: right;
+      font-weight: bold;
+      direction: rtl;
+      color: #2c3e50;
+    }
+
+    .verse .english {
+      text-align: right;
+      color: #555;
+      margin-top: 5px;
+      font-style: italic;
+      font-weight: bold;
+    }
+
+    .highlight {
+      background-color: #d1c4e9;
+      border-left: 5px solid #8e44ad;
+    }
+
+    .currently-playing {
+      transform: translateY(100%);
+      transition: transform 0.4s ease;
+      position: fixed;
+      bottom: 0;
+      left: 0%;
+      width: 100%;
+      background-size: 400% 400%;
+      background: linear-gradient(-45deg, #8e44ad, #3498db, #2ecc71, #e74c3c);
+      animation: gradientBG 1s ease infinite;
+      color: white;
+      padding: 10px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 1px;
+    }
+    @keyframes gradientBG {
+        0% { background-position: 0% 50%; }
+        50% { background-position: 100% 50%; }
+        100% { background-position: 0% 50%; }
+    }
+
+    .currently-playing.show {
+      transform: translateY(0);
+      transition: transform 0.4s ease;
+    }
+
+    .progress-container {
+      display: flex;
+      align-items: center;
+      width: 80%;
+      max-width: 500px;
+      gap: 10px;
+    }
+
+    .progress-bar-wrapper {
+      flex-grow: 1;
+      height: 5px;
+      background-color: rgba(255, 255, 255, 0.3);
+      border-radius: 3px;
+      overflow: hidden;
+      position: relative;
+      cursor: pointer;
+    }
+
+    .progress-bar {
+      height: 100%;
+      background-color: white;
+      width: 0%;
+    }
+
+    .player-controls button {
+      background: none;
+      border: none;
+      color: white;
+      font-size: 1.5rem;
+      cursor: pointer;
+    }
+
+    .navigation {
+        display: flex;
+        justify-content: space-between;
+        margin: 20px 0;
+        position: sticky;
+        top: 0;
+        background-color: #f9faf1; /* Match body background */
+        padding: 10px 0;
+        z-index: 10; /* Make sure it stays above verses */
+        border-bottom: 1px solid #e1e1e1;
+        }
+
+    .navigation button {
+      background-color: #8e44ad;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      font-size: 1rem;
+      cursor: pointer;
+      border-radius: 5px;
+    }
+    .close-player {
+      position: absolute;
+      top: 10px;
+      right: 30px;
+      background: none;
+      border: none;
+      color: white;
+      font-size: 1.2rem;
+      cursor: pointer;
+    }
+
+    .navigation button:hover {
+      background-color: #6c3483;
+    }
+
+    @media (max-width: 600px) {
+      .verse .arabic {
+        font-size: 1rem;
+      }
+
+      .verse .english {
+        font-size: 0.8rem;
+      }
+
+      .progress-container {
+        flex-direction: column;
+        gap: 4px;
+        align-items: stretch;
+     }
+
+      .currently-playing {
+        padding: 10px 15px;
+      }
+
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <a href="Test.html" class="back-button">← Back to Surah List</a>
+    <h1 id="surah-title">Surah Viewer</h1>
+
+    <div class="navigation">
+      <button id="prev-surah">← Previous Surah</button>
+      <button id="next-surah">Next Surah →</button>
+    </div>
+
+    <div id="verse-container" style="max-height: 500px; overflow-y: auto;"></div>
+
+    <div class="currently-playing show" id="currently-playing">
+      <div id="now-playing-title">Now Playing</div>
+      <div class="progress-container">
+        <span id="current-time">0:00</span>
+        <div class="progress-bar-wrapper">
+          <div class="progress-bar" id="progress-bar"></div>
+        </div>
+        <span id="total-time">0:00</span>
+      </div>
+      <div class="player-controls">
+        <button id="play-pause-btn"><i class="fas fa-play"></i></button>
+      </div>
+        <button class="close-player" id="close-player" title="Close Player">
+            <i class="fas fa-times"></i>
+    </button>
+    </div>
+  </div>
+
+<audio id="audio-player" preload="auto"></audio>
+
+<script>
+  // Declare globals
+  let surahNumber = parseInt(new URLSearchParams(window.location.search).get('surah')) || 1;
+  
+  const title = document.getElementById("surah-title");
+  const verseContainer = document.getElementById("verse-container");
+  const audioPlayer = document.getElementById("audio-player");
+  const playPauseBtn = document.getElementById("play-pause-btn");
+  const progressBar = document.getElementById("progress-bar");
+  const currentTimeEl = document.getElementById("current-time");
+  const totalTimeEl = document.getElementById("total-time");
+  const nowPlayingTitle = document.getElementById("now-playing-title");
+  const closePlayerBtnElement = document.getElementById('close-player');
+  const currentlyPlayingElement = document.getElementById('currently-playing');
+
+
+  const nextBtn = document.getElementById("next-surah");
+  const prevBtn = document.getElementById("prev-surah");
+
+  let currentSurahData = null;
+  let isPlaying = false;
+  let progressInterval;
+  let allSurahs = {};
+
+  function formatTime(seconds) {
+    const mins = Math.floor(seconds / 60);
+    const secs = Math.floor(seconds % 60);
+    return `${mins}:${secs < 10 ? '0' : ''}${secs}`;
+  }
+
+  function updateProgress() {
+    if (!audioPlayer.duration) return;
+    const percent = (audioPlayer.currentTime / audioPlayer.duration) * 100;
+    progressBar.style.width = `${percent}%`;
+    currentTimeEl.textContent = formatTime(audioPlayer.currentTime);
+    totalTimeEl.textContent = formatTime(audioPlayer.duration);
+  }
+
+  function highlightVerse(currentTime) {
+    if (!currentSurahData?.verses) return;
+    currentSurahData.verses.forEach((v, i) => {
+      const el = document.getElementById(`verse-${i}`);
+      if (!el) return;
+      const nextStart = currentSurahData.verses[i + 1]?.start ?? Infinity;
+      el.classList.toggle("highlight", currentTime >= v.start && currentTime < nextStart);
+    });
+  }
+
+  function togglePlayPause() {
+    if (isPlaying) {
+      audioPlayer.pause();
+      isPlaying = false;
+      playPauseBtn.innerHTML = '<i class="fas fa-play"></i>';
+      clearInterval(progressInterval);
+    } else {
+      audioPlayer.play().then(() => {
+        isPlaying = true;
+        playPauseBtn.innerHTML = '<i class="fas fa-pause"></i>';
+        progressInterval = setInterval(() => {
+          updateProgress();
+          highlightVerse(audioPlayer.currentTime);
+        }, 500);
+      }).catch(err => {
+        console.error("Audio play error:", err);
+        alert("Could not play audio. Please try again.");
+      });
+    }
+  }
+
+  playPauseBtn.addEventListener("click", togglePlayPause);
+
+    closePlayerBtnElement.addEventListener('click', () => {
+    audioPlayer.pause();
+    isPlaying = false;
+    playPauseBtn.innerHTML = '<i class="fas fa-play"></i>';
+    clearInterval(progressInterval);
+    currentlyPlayingElement.classList.remove('show'); // Slide down the player
+  });
+
+  audioPlayer.onerror = function () {
+    alert("Error loading audio. Please check the audio URL.");
+  }
+
+  nextBtn.addEventListener("click", () => {
+    if (allSurahs[surahNumber + 1]) {
+      loadSurah(surahNumber + 1);
+    }
+  });
+
+  prevBtn.addEventListener("click", () => {
+    if (allSurahs[surahNumber - 1]) {
+      loadSurah(surahNumber - 1);
+    }
+  });
+
+  function loadSurahData(jsonString) {
+    try {
+      allSurahs = JSON.parse(jsonString);
+      loadSurah(surahNumber);
+    } catch (e) {
+      console.error("Failed to load Surah data:", e);
+      verseContainer.innerHTML = `<div style="color:red;padding:20px;">Error loading Quran data: ${e.message}</div>`;
+    }
+  }
+
+  function loadSurah(number) {
+    surahNumber = number;
+    const surah = allSurahs[surahNumber];
+    currentSurahData = surah;
+
+    if (!surah) {
+      title.textContent = "Surah Not Found";
+      verseContainer.innerHTML = `<div style="color:red;padding:20px;">Surah ${number} not available</div>`;
+      return;
+    }
+
+    title.textContent = `Surah ${surah.name} (${surah.arabicname})`;
+    verseContainer.innerHTML = "";
+
+    
+    surah.verses.forEach((verse, index) => {
+      const verseEl = document.createElement("div");
+      verseEl.className = "verse";
+      verseEl.id = `verse-${index}`;
+      verseEl.innerHTML = `
+        <div class="arabic">${verse.text || '[No Arabic Text]'}</div>
+        <div class="english">${verse.en || '[No Translation]'}</div>
+      `;
+      verseContainer.appendChild(verseEl);
+    });
+
+    if (surah.audioUrl && typeof surah.audioUrl === 'string') {
+      nowPlayingTitle.textContent = `Surah ${surah.name} (${surah.arabicname})`;
+      audioPlayer.src = surah.audioUrl;
+      audioPlayer.play().then(() => {
+        isPlaying = true;
+        currentlyPlayingElement.classList.remove('hidden');
+        currentlyPlayingElement.classList.add('show');
+        playPauseBtn.innerHTML = '<i class="fas fa-pause"></i>';
+        progressInterval = setInterval(() => {
+          updateProgress();
+          highlightVerse(audioPlayer.currentTime);
+        }, 500);
+      }).catch(err => {
+        console.log("Autoplay blocked: " + err.message);
+      });
+
+      audioPlayer.onloadedmetadata = () => {
+        totalTimeEl.textContent = formatTime(audioPlayer.duration);
+      };
+    } else {
+      console.warn("No valid audio URL found");
+      document.getElementById("currently-playing").style.display = "none";
+    }
+  }
+</script>
+
+</body>
+</html>
