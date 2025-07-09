@@ -58,19 +58,24 @@
     "audioUrl": "https://courageous-syrniki-09c8d1.netlify.app/002-al-baqarah.mp3",
     "verses": [
       {
+        "text": "﻿بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+        "en": "In the name of God, The Most Gracious, The Dispenser of Grace:",
+        "start": 0
+      },
+      {
         "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ الم",
         "en": "Alif. Lam. Mim.",
-        "start": 0
+        "start": 3
       },
       {
         "text": "ذَٰلِكَ الْكِتَابُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِلْمُتَّقِينَ",
         "en": "THIS DIVINE WRIT - let there be no doubt about it is [meant to be] a guidance for all the God-conscious.",
-        "start": 4
+        "start": 10
       },
       {
         "text": "الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ وَيُقِيمُونَ الصَّلَاةَ وَمِمَّا رَزَقْنَاهُمْ يُنْفِقُونَ",
         "en": "Who believe in [the existence of] that which is beyond the reach of human perception, and are constant in prayer, and spend on others out of what We provide for them as sustenance;",
-        "start": 8
+        "start": 15
       },
       {
         "text": "وَالَّذِينَ يُؤْمِنُونَ بِمَا أُنْزِلَ إِلَيْكَ وَمَا أُنْزِلَ مِنْ قَبْلِكَ وَبِالْآخِرَةِ هُمْ يُوقِنُونَ",
@@ -1498,14 +1503,24 @@
     "audioUrl": "https://courageous-syrniki-09c8d1.netlify.app/003-al-imran.mp3",
     "verses": [
       {
+      "text": "أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ",
+      "en": "I seek refuge with Allah from Satan, the accursed.",
+      "start": 0
+      },
+      {
+        "text": "﻿بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+        "en": "In the name of God, The Most Gracious, The Dispenser of Grace:",
+        "start": 6
+      },
+      {
         "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ الم",
         "en": "Alif. Lam. Mim.",
-        "start": 0
+        "start": 8
       },
       {
         "text": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ",
         "en": "GOD - there is no deity save Him, the Ever-Living, the Self-Subsistent Fount of All Being!",
-        "start": 4
+        "start": 15
       },
       {
         "text": "نَزَّلَ عَلَيْكَ الْكِتَابَ بِالْحَقِّ مُصَدِّقًا لِمَا بَيْنَ يَدَيْهِ وَأَنْزَلَ التَّوْرَاةَ وَالْإِنْجِيلَ",
