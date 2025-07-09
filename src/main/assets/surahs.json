@@ -8,9 +8,9 @@
     "audioUrl": "https://courageous-syrniki-09c8d1.netlify.app/001-al-fatihah.mp3",
     "verses": [
       {
-        "text": "Bismillah",
-        "en": "In the name of God, The Most Gracious, The Dispenser of Grace:",
-        "start": 0
+      "text": "أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ",
+      "en": "I seek refuge with Allah from Satan, the accursed.",
+      "start": 0
       },
       {
         "text": "﻿بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
