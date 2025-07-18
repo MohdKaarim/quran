@@ -83,14 +83,6 @@
       font-weight: bold;
     }
 
-    .verse .englishtrans {
-      text-align: right;
-      color: #555;
-      margin-top: 5px;
-      font-style: italic;
-      font-weight: bold;
-    }
-
     .highlight {
       background-color: #d1c4e9;
       border-left: 5px solid #8e44ad;
@@ -198,10 +190,6 @@
       }
 
       .verse .english {
-        font-size: 0.8rem;
-      }
-
-      .verse .englishtrans {
         font-size: 0.8rem;
       }
 
@@ -378,7 +366,7 @@
       verseEl.innerHTML = `
         <div class="arabic">${verse.text || '[No Arabic Text]'}</div>
         <div class="english">${verse.en || '[No Translation]'}</div>
-        <div class="englishtrans">${verse.englishtrans || '[No English Translation]'}</div>
+        <div class="englishtrans">${verse.english || '[No Translation]'}</div>
       `;
       verseContainer.appendChild(verseEl);
     });
