@@ -85,7 +85,6 @@
 
     .verse .englishtrans {
       text-align: right;
-      font-size: 1.8rem;
       color: #555;
       margin-top: 5px;
       font-style: italic;
@@ -378,7 +377,6 @@
       verseEl.id = `verse-${index}`;
       verseEl.innerHTML = `
         <div class="arabic">${verse.text || '[No Arabic Text]'}</div>
-        <div class="englishtrans">${verse.englishtrans || '[No English Translation]'}</div>
         <div class="english">${verse.en || '[No Translation]'}</div>
         
       `;
