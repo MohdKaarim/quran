@@ -19881,531 +19881,443 @@
     "verses": [
       {
         "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ طسم",
-        "englishtrans": "Taseenmeem",
         "en": "Ta. Sin. Mim.",
         "start": 0
       },
       {
         "text": "تِلْكَ آيَاتُ الْكِتَابِ الْمُبِينِ",
-        "englishtrans": "Tilka ayatu alkitabi almubeeni",
         "en": "These are messages of a divine writ clear in itself and clearly showing the truth.",
-        "start": 0
+        "start": 4
       },
       {
         "text": "نَتْلُو عَلَيْكَ مِنْ نَبَإِ مُوسَىٰ وَفِرْعَوْنَ بِالْحَقِّ لِقَوْمٍ يُؤْمِنُونَ",
-        "englishtrans": "Natloo AAalayka min nabai moosa wafirAAawna bialhaqqi liqawmin yuminoona",
         "en": "We [now] convey unto thee some of the story of Moses and Pharaoh, setting forth the truth for [the benefit of] people who will believe.",
-        "start": 0
+        "start": 8
       },
       {
         "text": "إِنَّ فِرْعَوْنَ عَلَا فِي الْأَرْضِ وَجَعَلَ أَهْلَهَا شِيَعًا يَسْتَضْعِفُ طَائِفَةً مِنْهُمْ يُذَبِّحُ أَبْنَاءَهُمْ وَيَسْتَحْيِي نِسَاءَهُمْ ۚ إِنَّهُ كَانَ مِنَ الْمُفْسِدِينَ",
-        "englishtrans": "Inna firAAawna AAala fee alardi wajaAAala ahlaha shiyaAAan yastadAAifu taifatan minhum yuthabbihu abnaahum wayastahyee nisaahum innahu kana mina almufsideena",
         "en": "Behold, Pharaoh exalted himself in the land and divided its people into castes. One group of them he deemed utterly low; he would slaughter their sons and spare (only) their women: for, behold, he was one of those who spread corruption [on earth].",
-        "start": 0
+        "start": 12
       },
       {
         "text": "وَنُرِيدُ أَنْ نَمُنَّ عَلَى الَّذِينَ اسْتُضْعِفُوا فِي الْأَرْضِ وَنَجْعَلَهُمْ أَئِمَّةً وَنَجْعَلَهُمُ الْوَارِثِينَ",
-        "englishtrans": "Wanureedu an namunna AAala allatheena istudAAifoo fee alardi wanajAAalahum aimmatan wanajAAalahumu alwaritheena",
         "en": "But it was Our will to bestow Our favour upon those [very people] who were deemed [so] utterly low in the land, and to make them forerunners in faith. and to make them heirs [to Pharaoh’s glory],",
-        "start": 0
+        "start": 16
       },
       {
         "text": "وَنُمَكِّنَ لَهُمْ فِي الْأَرْضِ وَنُرِيَ فِرْعَوْنَ وَهَامَانَ وَجُنُودَهُمَا مِنْهُمْ مَا كَانُوا يَحْذَرُونَ",
-        "englishtrans": "Wanumakkina lahum fee alardi wanuriya firAAawna wahamana wajunoodahuma minhum ma kanoo yahtharoona",
         "en": "and to establish them securely on earth, and to let Pharaoh and Haman and their hosts experience through those [children of Israel] the very thing against which they sought to protect themselves.",
-        "start": 0
+        "start": 20
       },
       {
         "text": "وَأَوْحَيْنَا إِلَىٰ أُمِّ مُوسَىٰ أَنْ أَرْضِعِيهِ ۖ فَإِذَا خِفْتِ عَلَيْهِ فَأَلْقِيهِ فِي الْيَمِّ وَلَا تَخَافِي وَلَا تَحْزَنِي ۖ إِنَّا رَادُّوهُ إِلَيْكِ وَجَاعِلُوهُ مِنَ الْمُرْسَلِينَ",
-        "englishtrans": "Waawhayna ila ommi moosa an ardiAAeehi faitha khifti AAalayhi faalqeehi fee alyammi wala takhafee wala tahzanee inna raddoohu ilayki wajaAAiloohu mina almursaleena",
         "en": "And so, [when he was born,] We inspired [thus] the mother of Moses: Suckle him [for a time], and then, when thou hast cause to fear for him, cast him into the river, and have no fear and do not grieve - for We shall restore him to thee, and shall make him one of Our message-bearers!”",
-        "start": 0
+        "start": 24
       },
       {
         "text": "فَالْتَقَطَهُ آلُ فِرْعَوْنَ لِيَكُونَ لَهُمْ عَدُوًّا وَحَزَنًا ۗ إِنَّ فِرْعَوْنَ وَهَامَانَ وَجُنُودَهُمَا كَانُوا خَاطِئِينَ",
-        "englishtrans": "Failtaqatahu alu firAAawna liyakoona lahum AAaduwwan wahazanan inna firAAawna wahamana wajunoodahuma kanoo khatieena",
         "en": "And [some of] Pharaoh’s household found [and spared] him: for [We had willed] that he becomes an enemy unto them and [a source of] grief, seeing that Pharaoh and Haman and their hosts were sinners indeed!",
-        "start": 0
+        "start": 28
       },
       {
         "text": "وَقَالَتِ امْرَأَتُ فِرْعَوْنَ قُرَّتُ عَيْنٍ لِي وَلَكَ ۖ لَا تَقْتُلُوهُ عَسَىٰ أَنْ يَنْفَعَنَا أَوْ نَتَّخِذَهُ وَلَدًا وَهُمْ لَا يَشْعُرُونَ",
-        "englishtrans": "Waqalati imraatu firAAawna qurratu AAaynin lee walaka la taqtuloohu AAasa an yanfaAAana aw nattakhithahu waladan wahum la yashAAuroona",
         "en": "Now the wife of Pharaoh said: “A joy to the eye [could this child be] for me and thee! Slay him not: he may well be of use to us, or we may adopt him as a son!” And they had no presentiment [of what he was to become].",
-        "start": 0
+        "start": 32
       },
       {
         "text": "وَأَصْبَحَ فُؤَادُ أُمِّ مُوسَىٰ فَارِغًا ۖ إِنْ كَادَتْ لَتُبْدِي بِهِ لَوْلَا أَنْ رَبَطْنَا عَلَىٰ قَلْبِهَا لِتَكُونَ مِنَ الْمُؤْمِنِينَ",
-        "englishtrans": "Waasbaha fuadu ommi moosa farighan in kadat latubdee bihi lawla an rabatna AAala qalbiha litakoona mina almumineena",
         "en": "On the morrow, however, an aching void grew up in the heart of the mother of Moses, and she would indeed have disclosed all about him had We not endowed her heart with enough strength to keep alive her faith [in Our promise].",
-        "start": 0
+        "start": 36
       },
       {
         "text": "وَقَالَتْ لِأُخْتِهِ قُصِّيهِ ۖ فَبَصُرَتْ بِهِ عَنْ جُنُبٍ وَهُمْ لَا يَشْعُرُونَ",
-        "englishtrans": "Waqalat liokhtihi qusseehi fabasurat bihi AAan junubin wahum la yashAAuroona",
         "en": "And so she said to his sister, “Follow him” - and [the girl] watched him from afar, while they [who had taken him in] were not aware of it,",
-        "start": 0
+        "start": 40
       },
       {
         "text": "۞ وَحَرَّمْنَا عَلَيْهِ الْمَرَاضِعَ مِنْ قَبْلُ فَقَالَتْ هَلْ أَدُلُّكُمْ عَلَىٰ أَهْلِ بَيْتٍ يَكْفُلُونَهُ لَكُمْ وَهُمْ لَهُ نَاصِحُونَ",
-        "englishtrans": "Waharramna AAalayhi almaradiAAa min qablu faqalat hal adullukum AAala ahli baytin yakfuloonahu lakum wahum lahu nasihoona",
         "en": "Now from the very beginning We caused him to refuse the breast of [Egyptian] nurses; and [when his sister came to know this,] she said: “Shall I guide you to a family that might rear him for you, and look after him with good will?”",
-        "start": 0
+        "start": 44
       },
       {
         "text": "فَرَدَدْنَاهُ إِلَىٰ أُمِّهِ كَيْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ وَلِتَعْلَمَ أَنَّ وَعْدَ اللَّهِ حَقٌّ وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
-        "englishtrans": "Faradadnahu ila ommihi kay taqarra AAaynuha wala tahzana walitaAAlama anna waAAda Allahi haqqun walakinna aktharahum la yaAAlamoona",
         "en": "And thus We restored him to his mother, so that her eye might he gladdened, and that she might grieve no longer, and that she might know that God’s promise always comes true - even though most of them know it not!",
-        "start": 0
+        "start": 48
       },
       {
         "text": "وَلَمَّا بَلَغَ أَشُدَّهُ وَاسْتَوَىٰ آتَيْنَاهُ حُكْمًا وَعِلْمًا ۚ وَكَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ",
-        "englishtrans": "Walamma balagha ashuddahu waistawa ataynahu hukman waAAilman wakathalika najzee almuhsineena",
         "en": "Now when [Moses] reached full manhood and had become mature [of mind]. We bestowed upon him the ability to judge [between right and wrong] as well as [innate] knowledge: for thus do We reward the doers of good.",
-        "start": 0
+        "start": 52
       },
       {
         "text": "وَدَخَلَ الْمَدِينَةَ عَلَىٰ حِينِ غَفْلَةٍ مِنْ أَهْلِهَا فَوَجَدَ فِيهَا رَجُلَيْنِ يَقْتَتِلَانِ هَٰذَا مِنْ شِيعَتِهِ وَهَٰذَا مِنْ عَدُوِّهِ ۖ فَاسْتَغَاثَهُ الَّذِي مِنْ شِيعَتِهِ عَلَى الَّذِي مِنْ عَدُوِّهِ فَوَكَزَهُ مُوسَىٰ فَقَضَىٰ عَلَيْهِ ۖ قَالَ هَٰذَا مِنْ عَمَلِ الشَّيْطَانِ ۖ إِنَّهُ عَدُوٌّ مُضِلٌّ مُبِينٌ",
-        "englishtrans": "Wadakhala almadeenata AAala heeni ghaflatin min ahliha fawajada feeha rajulayni yaqtatilani hatha min sheeAAatihi wahatha min AAaduwwihi faistaghathahu allathee min sheeAAatihi AAala allathee min AAaduwwihi fawakazahu moosa faqada AAalayhi qala hatha min AAamali alshshaytani innahu AAaduwwun mudillun mubeenun",
         "en": "And [one day] he entered the city at a time when [most of] its people were [resting in their houses,] unaware of what was going on [in the streets]; and there he encountered two men fighting with one another - one of his own people, and the other of his enemies. And the one who belonged to his own people cried out to him for help against him who was of his enemies - whereupon Moses struck him down with his fist, and [thus] brought about his end. [But then] he said [to himself]: “This is of Satan’s doing! Verily, he is an open foe, leading [man] astray!”",
-        "start": 0
+        "start": 56
       },
       {
         "text": "قَالَ رَبِّ إِنِّي ظَلَمْتُ نَفْسِي فَاغْفِرْ لِي فَغَفَرَ لَهُ ۚ إِنَّهُ هُوَ الْغَفُورُ الرَّحِيمُ",
-        "englishtrans": "Qala rabbi innee thalamtu nafsee faighfir lee faghafara lahu innahu huwa alghafooru alrraheemu",
         "en": "[And] he prayed: O my Sustainer! Verily, I have sinned against myself! Grant me, then, Thy forgiveness!” And He forgave him - for, verily, He alone is truly forgiving, a dispenser of grace.",
-        "start": 0
+        "start": 60
       },
       {
         "text": "قَالَ رَبِّ بِمَا أَنْعَمْتَ عَلَيَّ فَلَنْ أَكُونَ ظَهِيرًا لِلْمُجْرِمِينَ",
-        "englishtrans": "Qala rabbi bima anAAamta AAalayya falan akoona thaheeran lilmujrimeena",
         "en": "Said he: “O my Sustainer! [I vow] by all the blessings which Thou hast bestowed on me: Never­more shall I aid such as are lost in sin!”",
-        "start": 0
+        "start": 64
       },
       {
         "text": "فَأَصْبَحَ فِي الْمَدِينَةِ خَائِفًا يَتَرَقَّبُ فَإِذَا الَّذِي اسْتَنْصَرَهُ بِالْأَمْسِ يَسْتَصْرِخُهُ ۚ قَالَ لَهُ مُوسَىٰ إِنَّكَ لَغَوِيٌّ مُبِينٌ",
-        "englishtrans": "Faasbaha fee almadeenati khaifan yataraqqabu faitha allathee istansarahu bialamsi yastasrikhuhu qala lahu moosa innaka laghawiyyun mubeenun",
         "en": "And next morning he found himself in the city, looking fearfully about him, when lo! the one who had sought his help the day before [once again] cried out to him [for help whereupon] Moses said unto him: “Behold, thou art indeed, most clearly, deeply in the wrong!",
-        "start": 0
+        "start": 68
       },
       {
         "text": "فَلَمَّا أَنْ أَرَادَ أَنْ يَبْطِشَ بِالَّذِي هُوَ عَدُوٌّ لَهُمَا قَالَ يَا مُوسَىٰ أَتُرِيدُ أَنْ تَقْتُلَنِي كَمَا قَتَلْتَ نَفْسًا بِالْأَمْسِ ۖ إِنْ تُرِيدُ إِلَّا أَنْ تَكُونَ جَبَّارًا فِي الْأَرْضِ وَمَا تُرِيدُ أَنْ تَكُونَ مِنَ الْمُصْلِحِينَ",
-        "englishtrans": "Falamma an arada an yabtisha biallathee huwa AAaduwwun lahuma qala ya moosa atureedu an taqtulanee kama qatalta nafsan bialamsi in tureedu illa an takoona jabbaran fee alardi wama tureedu an takoona mina almusliheena",
         "en": "But then as soon as he was about to lay violent hands on the man who was their [common] enemy, the latter exclaimed: “O Moses, dost thou intend to slay me as thou didst slay another man yesterday? Thy sole aim is to become a tyrant in this land, for thou dost not care to be of those who would set things to rights!”",
-        "start": 0
+        "start": 72
       },
       {
         "text": "وَجَاءَ رَجُلٌ مِنْ أَقْصَى الْمَدِينَةِ يَسْعَىٰ قَالَ يَا مُوسَىٰ إِنَّ الْمَلَأَ يَأْتَمِرُونَ بِكَ لِيَقْتُلُوكَ فَاخْرُجْ إِنِّي لَكَ مِنَ النَّاصِحِينَ",
-        "englishtrans": "Wajaa rajulun min aqsa almadeenati yasAAa qala ya moosa inna almalaa yatamiroona bika liyaqtulooka faokhruj innee laka mina alnnasiheena",
         "en": "And [then and there] a man came running from the farthermost end of the city, and said: “O Moses! Behold, the great ones [of the kingdom] are deli­berating upon thy case with a view to killing thee! Begone, then: verily, I am of those who wish thee well!”",
-        "start": 0
+        "start": 76
       },
       {
         "text": "فَخَرَجَ مِنْهَا خَائِفًا يَتَرَقَّبُ ۖ قَالَ رَبِّ نَجِّنِي مِنَ الْقَوْمِ الظَّالِمِينَ",
-        "englishtrans": "Fakharaja minha khaifan yataraqqabu qala rabbi najjinee mina alqawmi alththalimeena",
         "en": "So he went forth from thence, looking fearfully about him, and prayed: “O my Sustainer! Save me from all evildoing folk!”",
-        "start": 0
+        "start": 80
       },
       {
         "text": "وَلَمَّا تَوَجَّهَ تِلْقَاءَ مَدْيَنَ قَالَ عَسَىٰ رَبِّي أَنْ يَهْدِيَنِي سَوَاءَ السَّبِيلِ",
-        "englishtrans": "Walamma tawajjaha tilqaa madyana qala AAasa rabbee an yahdiyanee sawaa alssabeeli",
         "en": "And as he turned his face towards Madyan, he said [to himself]: “It may well be that my Sustainer will [thus] guide me onto the right path”",
-        "start": 0
+        "start": 84
       },
       {
         "text": "وَلَمَّا وَرَدَ مَاءَ مَدْيَنَ وَجَدَ عَلَيْهِ أُمَّةً مِنَ النَّاسِ يَسْقُونَ وَوَجَدَ مِنْ دُونِهِمُ امْرَأَتَيْنِ تَذُودَانِ ۖ قَالَ مَا خَطْبُكُمَا ۖ قَالَتَا لَا نَسْقِي حَتَّىٰ يُصْدِرَ الرِّعَاءُ ۖ وَأَبُونَا شَيْخٌ كَبِيرٌ",
-        "englishtrans": "Walamma warada maa madyana wajada AAalayhi ommatan mina alnnasi yasqoona wawajada min doonihimu imraatayni tathoodani qala ma khatbukuma qalata la nasqee hatta yusdira alrriAAao waaboona shaykhun kabeerun",
         "en": "NOW WHEN he arrived at the wells of Madyan, he found there a large group of men who were watering [their herds and flocks]; and at some distance from them he came upon two women who were keeping back their flock. He asked [them]: “What is the matter with you?” They answered: “We cannot water [our animals] until the herdsmen drive [theirs] home - for [we are weak and] our father is a very old man.”",
-        "start": 0
+        "start": 88
       },
       {
         "text": "فَسَقَىٰ لَهُمَا ثُمَّ تَوَلَّىٰ إِلَى الظِّلِّ فَقَالَ رَبِّ إِنِّي لِمَا أَنْزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ",
-        "englishtrans": "Fasaqa lahuma thumma tawalla ila alththilli faqala rabbi innee lima anzalta ilayya min khayrin faqeerun",
         "en": "So he watered [their flock] for them: and when he withdrew into the shade and prayed: “O my Sus­tainer! Verily, in dire need am I of any good which Thou mayest bestow upon me!”",
-        "start": 0
+        "start": 92
       },
       {
         "text": "فَجَاءَتْهُ إِحْدَاهُمَا تَمْشِي عَلَى اسْتِحْيَاءٍ قَالَتْ إِنَّ أَبِي يَدْعُوكَ لِيَجْزِيَكَ أَجْرَ مَا سَقَيْتَ لَنَا ۚ فَلَمَّا جَاءَهُ وَقَصَّ عَلَيْهِ الْقَصَصَ قَالَ لَا تَخَفْ ۖ نَجَوْتَ مِنَ الْقَوْمِ الظَّالِمِينَ",
-        "englishtrans": "Fajaathu ihdahuma tamshee AAala istihyain qalat inna abee yadAAooka liyajziyaka ajra ma saqayta lana falamma jaahu waqassa AAalayhi alqasasa qala la takhaf najawta mina alqawmi alththalimeena",
         "en": "[Shortly] afterwards, one of the two [maidens] approached him, walking shyly, and said: “Behold, my father invites thee, so that he might duly reward thee for thy having watered [our flock] for us.” And as soon as [Moses] came unto him and told him the story [of his life], he said: “Have no fear! Thou art now safe from those evildoing folk!”",
-        "start": 0
+        "start": 96
       },
       {
         "text": "قَالَتْ إِحْدَاهُمَا يَا أَبَتِ اسْتَأْجِرْهُ ۖ إِنَّ خَيْرَ مَنِ اسْتَأْجَرْتَ الْقَوِيُّ الْأَمِينُ",
-        "englishtrans": "Qalat ihdahuma ya abati istajirhu inna khayra mani istajarta alqawiyyu alameenu",
         "en": "Said one of the two [daughters]: “O my father! Hire him: for, behold, the best [man] that thou couldst hire is one who is [as] strong and worthy of trust [as he]!”",
-        "start": 0
+        "start": 100
       },
       {
         "text": "قَالَ إِنِّي أُرِيدُ أَنْ أُنْكِحَكَ إِحْدَى ابْنَتَيَّ هَاتَيْنِ عَلَىٰ أَنْ تَأْجُرَنِي ثَمَانِيَ حِجَجٍ ۖ فَإِنْ أَتْمَمْتَ عَشْرًا فَمِنْ عِنْدِكَ ۖ وَمَا أُرِيدُ أَنْ أَشُقَّ عَلَيْكَ ۚ سَتَجِدُنِي إِنْ شَاءَ اللَّهُ مِنَ الصَّالِحِينَ",
-        "englishtrans": "Qala innee oreedu an onkihaka ihda ibnatayya hatayni AAala an tajuranee thamaniya hijajin fain atmamta AAashran famin AAindika wama oreedu an ashuqqa AAalayka satajidunee in shaa Allahu mina alssaliheena",
         "en": "[After some time, the father] said: “Behold, I am willing to let thee wed one of these two daughters of mine on the understanding that thou wilt remain eight years in my service; and if thou shouldst com­plete ten [years], that would be [an act of grace] from thee, for I do not want to impose any hardship on thee: [on the contrary,] thou wilt find me, if God so wills, righteous in all my dealings.”",
-        "start": 0
+        "start": 104
       },
       {
         "text": "قَالَ ذَٰلِكَ بَيْنِي وَبَيْنَكَ ۖ أَيَّمَا الْأَجَلَيْنِ قَضَيْتُ فَلَا عُدْوَانَ عَلَيَّ ۖ وَاللَّهُ عَلَىٰ مَا نَقُولُ وَكِيلٌ",
-        "englishtrans": "Qala thalika baynee wabaynaka ayyama alajalayni qadaytu fala AAudwana AAalayya waAllahu AAala ma naqoolu wakeelun",
         "en": "Answered [Moses]: “Thus shall it be between me and thee! Whichever of the two terms I fulfill, let there be no ill will against me. And God be witness to all that we say!”",
-        "start": 0
+        "start": 108
       },
       {
         "text": "۞ فَلَمَّا قَضَىٰ مُوسَى الْأَجَلَ وَسَارَ بِأَهْلِهِ آنَسَ مِنْ جَانِبِ الطُّورِ نَارًا قَالَ لِأَهْلِهِ امْكُثُوا إِنِّي آنَسْتُ نَارًا لَعَلِّي آتِيكُمْ مِنْهَا بِخَبَرٍ أَوْ جَذْوَةٍ مِنَ النَّارِ لَعَلَّكُمْ تَصْطَلُونَ",
-        "englishtrans": "Falamma qada moosaalajala wasara biahlihi anasa min janibi alttoori naran qala liahlihi omkuthoo innee anastu naran laAAallee ateekum minha bikhabarin aw jathwatin mina alnnari laAAallakum tastaloona",
         "en": "And when Moses had fulfilled his term and was wandering with his family [in the desert], he per­ceived a fire on the slope of Mount Sinai; [and so] he said to his family: “Wait here. Behold, I perceive a fire [far away]; perhaps I may bring you from there some tiding, or [at least] a burning brand from the fire, so that you might warm yourselves.",
-        "start": 0
+        "start": 112
       },
       {
         "text": "فَلَمَّا أَتَاهَا نُودِيَ مِنْ شَاطِئِ الْوَادِ الْأَيْمَنِ فِي الْبُقْعَةِ الْمُبَارَكَةِ مِنَ الشَّجَرَةِ أَنْ يَا مُوسَىٰ إِنِّي أَنَا اللَّهُ رَبُّ الْعَالَمِينَ",
-        "englishtrans": "Falamma ataha noodiya min shatii alwadi alaymani fee albuqAAati almubarakati mina alshshajarati an ya moosa innee ana Allahu rabbu alAAalameena",
         "en": "But when he came close to it, a call was sounded from the right-side bank of the valley, out of the tree [burning] on blessed ground: “O Moses! Verily, I am God, the Sustainer of all the worlds!”",
-        "start": 0
+        "start": 116
       },
       {
         "text": "وَأَنْ أَلْقِ عَصَاكَ ۖ فَلَمَّا رَآهَا تَهْتَزُّ كَأَنَّهَا جَانٌّ وَلَّىٰ مُدْبِرًا وَلَمْ يُعَقِّبْ ۚ يَا مُوسَىٰ أَقْبِلْ وَلَا تَخَفْ ۖ إِنَّكَ مِنَ الْآمِنِينَ",
-        "englishtrans": "Waan alqi AAasaka falamma raaha tahtazzu kaannaha jannun walla mudbiran walam yuAAaqqib ya moosa aqbil wala takhaf innaka mina alamineena",
         "en": "And [then He said]: “Throw down thy staff!” But as soon as [Moses] saw it move rapidly, as if it were a snake, he drew back [in terror], and did not [dare to] return. [And God spoke to him again:] “O Moses! Draw near, and have no fear - for, behold, thou art of those who are secure [in this world and in the next]!",
-        "start": 0
+        "start": 120
       },
       {
         "text": "اسْلُكْ يَدَكَ فِي جَيْبِكَ تَخْرُجْ بَيْضَاءَ مِنْ غَيْرِ سُوءٍ وَاضْمُمْ إِلَيْكَ جَنَاحَكَ مِنَ الرَّهْبِ ۖ فَذَانِكَ بُرْهَانَانِ مِنْ رَبِّكَ إِلَىٰ فِرْعَوْنَ وَمَلَئِهِ ۚ إِنَّهُمْ كَانُوا قَوْمًا فَاسِقِينَ",
-        "englishtrans": "Osluk yadaka fee jaybika takhruj baydaa min ghayri sooin waodmum ilayka janahaka mina alrrahbi fathanika burhanani min rabbika ila firAAawna wamalaihi innahum kanoo qawman fasiqeena",
         "en": "“[And now] put thy hand into thy bosom: it will come forth [shining] white, without blemish. And [henceforth] hold thine arm close to thyself, free of all fear. “These, then, shall be the two signs [of thy bearing a message] from thy Sustainer unto Pharaoh and his great ones - for, behold, they are people depraved!”",
-        "start": 0
+        "start": 124
       },
       {
         "text": "قَالَ رَبِّ إِنِّي قَتَلْتُ مِنْهُمْ نَفْسًا فَأَخَافُ أَنْ يَقْتُلُونِ",
-        "englishtrans": "Qala rabbi innee qataltu minhum nafsan faakhafu an yaqtulooni",
         "en": "Said [Moses] “O my Sustainer! I have slain one of them, and so I fear that they will slay me.",
-        "start": 0
+        "start": 128
       },
       {
         "text": "وَأَخِي هَارُونُ هُوَ أَفْصَحُ مِنِّي لِسَانًا فَأَرْسِلْهُ مَعِيَ رِدْءًا يُصَدِّقُنِي ۖ إِنِّي أَخَافُ أَنْ يُكَذِّبُونِ",
-        "englishtrans": "Waakhee haroonu huwa afsahu minnee lisanan faarsilhu maAAiya ridan yusaddiqunee innee akhafu an yukaththibooni",
         "en": "And my brother Aaron - he is far better in speech than I am. Send him, therefore, as a helper, so that he might [more eloquently] bear witness to my speaking the truth: for I fear indeed that they will give me the lie.”",
-        "start": 0
+        "start": 132
       },
       {
         "text": "قَالَ سَنَشُدُّ عَضُدَكَ بِأَخِيكَ وَنَجْعَلُ لَكُمَا سُلْطَانًا فَلَا يَصِلُونَ إِلَيْكُمَا ۚ بِآيَاتِنَا أَنْتُمَا وَمَنِ اتَّبَعَكُمَا الْغَالِبُونَ",
-        "englishtrans": "Qala sanashuddu AAadudaka biakheeka wanajAAalu lakuma sultanan fala yasiloona ilaykuma biayatina antuma wamani ittabaAAakuma alghaliboona",
         "en": "Said He: “We shall strengthen thine arm through thy brother, and endow both of you with power, so that they will not be able to touch you: by virtue of Our messages shall you two, and all who follow you, prevail!”",
-        "start": 0
+        "start": 136
       },
       {
         "text": "فَلَمَّا جَاءَهُمْ مُوسَىٰ بِآيَاتِنَا بَيِّنَاتٍ قَالُوا مَا هَٰذَا إِلَّا سِحْرٌ مُفْتَرًى وَمَا سَمِعْنَا بِهَٰذَا فِي آبَائِنَا الْأَوَّلِينَ",
-        "englishtrans": "Falamma jaahum moosa biayatina bayyinatin qaloo ma hatha illa sihrun muftaran wama samiAAna bihatha fee abaina alawwaleena",
         "en": "But as soon as Moses came unto them with Our clear messages [Pharaoh and his great ones] said: “All this is nothing but spellbinding eloquence devised [by man]: and never did we hear [the like of] this, [nor has it ever been heard of] in the time of our forebears of old!”",
-        "start": 0
+        "start": 140
       },
       {
         "text": "وَقَالَ مُوسَىٰ رَبِّي أَعْلَمُ بِمَنْ جَاءَ بِالْهُدَىٰ مِنْ عِنْدِهِ وَمَنْ تَكُونُ لَهُ عَاقِبَةُ الدَّارِ ۖ إِنَّهُ لَا يُفْلِحُ الظَّالِمُونَ",
-        "englishtrans": "Waqala moosa rabbee aAAlamu biman jaa bialhuda min AAindihi waman takoonu lahu AAaqibatu alddari innahu la yuflihu alththalimoona",
         "en": "And Moses replied: “My Sustainer knows best as to who comes with guidance from Him, and to whom the future belongs! Verily, never will evil­doers attain to a happy state!”",
-        "start": 0
+        "start": 144
       },
       {
         "text": "وَقَالَ فِرْعَوْنُ يَا أَيُّهَا الْمَلَأُ مَا عَلِمْتُ لَكُمْ مِنْ إِلَٰهٍ غَيْرِي فَأَوْقِدْ لِي يَا هَامَانُ عَلَى الطِّينِ فَاجْعَلْ لِي صَرْحًا لَعَلِّي أَطَّلِعُ إِلَىٰ إِلَٰهِ مُوسَىٰ وَإِنِّي لَأَظُنُّهُ مِنَ الْكَاذِبِينَ",
-        "englishtrans": "Waqala firAAawnu ya ayyuha almalao ma AAalimtu lakum min ilahin ghayree faawqid lee ya hamanu AAala altteeni faijAAal lee sarhan laAAallee attaliAAu ila ilahi moosa wainnee laathunnuhu mina alkathibeena",
         "en": "Whereupon Pharaoh said: “O you nobles! I did not know that you could have any deity other than myself Well, then, O Haman, kindle me a fire for [baking bricks of] clay, and then build me a lofty tower, that haply I may have a look at the god of Moses although, behold, I am convinced that he is of those who [always] tell lies!”",
-        "start": 0
+        "start": 148
       },
       {
         "text": "وَاسْتَكْبَرَ هُوَ وَجُنُودُهُ فِي الْأَرْضِ بِغَيْرِ الْحَقِّ وَظَنُّوا أَنَّهُمْ إِلَيْنَا لَا يُرْجَعُونَ",
-        "englishtrans": "Waistakbara huwa wajunooduhu fee alardi bighayri alhaqqi wathannoo annahum ilayna la yurjaAAoona",
         "en": "Thus arrogantly, without the least good sense, did he and his hosts behave on earth - just as if they thought that they would never have to appear before Us [for judgment]!",
-        "start": 0
+        "start": 152
       },
       {
         "text": "فَأَخَذْنَاهُ وَجُنُودَهُ فَنَبَذْنَاهُمْ فِي الْيَمِّ ۖ فَانْظُرْ كَيْفَ كَانَ عَاقِبَةُ الظَّالِمِينَ",
-        "englishtrans": "Faakhathnahu wajunoodahu fanabathnahum fee alyammi faonthur kayfa kana AAaqibatu alththalimeena",
         "en": "And so We seized him and his hosts and cast them into the sea: and behold what happened in the end to those evildoers:",
-        "start": 0
+        "start": 156
       },
       {
         "text": "وَجَعَلْنَاهُمْ أَئِمَّةً يَدْعُونَ إِلَى النَّارِ ۖ وَيَوْمَ الْقِيَامَةِ لَا يُنْصَرُونَ",
-        "englishtrans": "WajaAAalnahum aimmatan yadAAoona ila alnnari wayawma alqiyamati la yunsaroona",
         "en": "[We destroyed them,] and We set them up as archetypes [of evil] that show the way to the fire [of hell]; and [whereas] no succour will come to them on Resurrection Day,",
-        "start": 0
+        "start": 160
       },
       {
         "text": "وَأَتْبَعْنَاهُمْ فِي هَٰذِهِ الدُّنْيَا لَعْنَةً ۖ وَيَوْمَ الْقِيَامَةِ هُمْ مِنَ الْمَقْبُوحِينَ",
-        "englishtrans": "WaatbaAAnahum fee hathihi alddunya laAAnatan wayawma alqiyamati hum mina almaqbooheena",
         "en": "We have caused a curse to follow them in this world as well; and on Resurrection Day they will find themselves among those who are bereft of all good.",
-        "start": 0
+        "start": 164
       },
       {
         "text": "وَلَقَدْ آتَيْنَا مُوسَى الْكِتَابَ مِنْ بَعْدِ مَا أَهْلَكْنَا الْقُرُونَ الْأُولَىٰ بَصَائِرَ لِلنَّاسِ وَهُدًى وَرَحْمَةً لَعَلَّهُمْ يَتَذَكَّرُونَ",
-        "englishtrans": "Walaqad atayna moosa alkitaba min baAAdi ma ahlakna alquroona aloola basaira lilnnasi wahudan warahmatan laAAallahum yatathakkaroona",
         "en": "And [then,] indeed, after We had destroyed those earlier generations [of sinners], We vouchsafed unto Moses [Our] revelation as a means of insight for men, and as a guidance and grace, so that they might bethink themselves [of Us].",
-        "start": 0
+        "start": 168
       },
       {
         "text": "وَمَا كُنْتَ بِجَانِبِ الْغَرْبِيِّ إِذْ قَضَيْنَا إِلَىٰ مُوسَى الْأَمْرَ وَمَا كُنْتَ مِنَ الشَّاهِدِينَ",
-        "englishtrans": "Wama kunta bijanibi algharbiyyi ith qadayna ila moosa alamra wama kunta mina alshshahideena",
         "en": "NOW [as for thee, O Muhammad,] thou wert not present on the sunset slope [of Mount Sinai] when We imposed the Law upon Moses, nor wert thou among those who witnessed [his times]:",
-        "start": 0
+        "start": 172
       },
       {
         "text": "وَلَٰكِنَّا أَنْشَأْنَا قُرُونًا فَتَطَاوَلَ عَلَيْهِمُ الْعُمُرُ ۚ وَمَا كُنْتَ ثَاوِيًا فِي أَهْلِ مَدْيَنَ تَتْلُو عَلَيْهِمْ آيَاتِنَا وَلَٰكِنَّا كُنَّا مُرْسِلِينَ",
-        "englishtrans": "Walakinna anshana quroonan fatatawala AAalayhimu alAAumuru wama kunta thawiyan fee ahli madyana tatloo AAalayhim ayatina walakinna kunna mursileena",
         "en": "nay, but [between them and thee] We brought into being [many] generations, and long was their span of life. And neither didst thou dwell among the people of Madyan, conveying Our messages unto them: nay, but We have [always] been sending [Our message-bearers unto man].",
-        "start": 0
+        "start": 176
       },
       {
         "text": "وَمَا كُنْتَ بِجَانِبِ الطُّورِ إِذْ نَادَيْنَا وَلَٰكِنْ رَحْمَةً مِنْ رَبِّكَ لِتُنْذِرَ قَوْمًا مَا أَتَاهُمْ مِنْ نَذِيرٍ مِنْ قَبْلِكَ لَعَلَّهُمْ يَتَذَكَّرُونَ",
-        "englishtrans": "Wama kunta bijanibi alttoori ith nadayna walakin rahmatan min rabbika litunthira qawman ma atahum min natheerin min qablika laAAallahum yatathakkaroona",
         "en": "And neither wert thou present on the slope of Mount Sinai when We called out [to Moses]: but [thou, too, art sent] as an act of thy Sustainer’s grace, to warn people to whom no warner has come before thee, so that they might bethink themselves [of Us];",
-        "start": 0
+        "start": 180
       },
       {
         "text": "وَلَوْلَا أَنْ تُصِيبَهُمْ مُصِيبَةٌ بِمَا قَدَّمَتْ أَيْدِيهِمْ فَيَقُولُوا رَبَّنَا لَوْلَا أَرْسَلْتَ إِلَيْنَا رَسُولًا فَنَتَّبِعَ آيَاتِكَ وَنَكُونَ مِنَ الْمُؤْمِنِينَ",
-        "englishtrans": "Walawla an tuseebahum museebatun bima qaddamat aydeehim fayaqooloo rabbana lawla arsalta ilayna rasoolan fanattabiAAa ayatika wanakoona mina almumineena",
         "en": "and [We have sent thee] lest they say [on Judg­ment Day], when disaster befalls them as an outcome of what their own hands have wrought, “O our Sus­tainer, if only Thou had sent an apostle unto us, we would have followed Thy messages, and would have been among those who believe!”",
-        "start": 0
+        "start": 184
       },
       {
         "text": "فَلَمَّا جَاءَهُمُ الْحَقُّ مِنْ عِنْدِنَا قَالُوا لَوْلَا أُوتِيَ مِثْلَ مَا أُوتِيَ مُوسَىٰ ۚ أَوَلَمْ يَكْفُرُوا بِمَا أُوتِيَ مُوسَىٰ مِنْ قَبْلُ ۖ قَالُوا سِحْرَانِ تَظَاهَرَا وَقَالُوا إِنَّا بِكُلٍّ كَافِرُونَ",
-        "englishtrans": "Falamma jaahumu alhaqqu min AAindina qaloo lawla ootiya mithla ma ootiya moosa awalam yakfuroo bima ootiya moosa min qablu qaloo sihrani tathahara waqaloo inna bikullin kafiroona",
         "en": "And yet, now that the truth has come unto them from Us, they say, “Why has he not been vouch­safed the like of what Moses was vouchsafed?” But did they not also, before this, deny the truth of what Moses was vouchsafed? [For] they do say, “Two examples of delusion, [seemingly] supporting each other!” And they add, “Behold, we refuse to accept either of them as true!”",
-        "start": 0
+        "start": 188
       },
       {
         "text": "قُلْ فَأْتُوا بِكِتَابٍ مِنْ عِنْدِ اللَّهِ هُوَ أَهْدَىٰ مِنْهُمَا أَتَّبِعْهُ إِنْ كُنْتُمْ صَادِقِينَ",
-        "englishtrans": "Qul fatoo bikitabin min AAindi Allahi huwa ahda minhuma attabiAAhu in kuntum sadiqeena",
         "en": "Say: “Produce, then, [another] revelation from God which would offer better guidance than either of these two [and] I shall follow it, if you speak the truth!”",
-        "start": 0
+        "start": 192
       },
       {
         "text": "فَإِنْ لَمْ يَسْتَجِيبُوا لَكَ فَاعْلَمْ أَنَّمَا يَتَّبِعُونَ أَهْوَاءَهُمْ ۚ وَمَنْ أَضَلُّ مِمَّنِ اتَّبَعَ هَوَاهُ بِغَيْرِ هُدًى مِنَ اللَّهِ ۚ إِنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ",
-        "englishtrans": "Fain lam yastajeeboo laka faiAAlam annama yattabiAAoona ahwaahum waman adallu mimmani ittabaAAa hawahu bighayri hudan mina Allahi inna Allaha la yahdee alqawma alththalimeena",
         "en": "And since they cannot respond to this thy challenge, know that they are following only their own likes and dislikes: and who could be more astray than he who follows [but] his own likes and dislikes without any guidance from God? Verily, God does not grace with His guidance peo­ple who are given to evildoing!",
-        "start": 0
+        "start": 196
       },
       {
         "text": "۞ وَلَقَدْ وَصَّلْنَا لَهُمُ الْقَوْلَ لَعَلَّهُمْ يَتَذَكَّرُونَ",
-        "englishtrans": "Walaqad wassalna lahumu alqawla laAAallahum yatathakkaroona",
         "en": "NOW, INDEED, We have caused this word [of Ours] to reach mankind step by step, so that they might [learn to] keep it in mind.",
-        "start": 0
+        "start": 200
       },
       {
         "text": "الَّذِينَ آتَيْنَاهُمُ الْكِتَابَ مِنْ قَبْلِهِ هُمْ بِهِ يُؤْمِنُونَ",
-        "englishtrans": "Allatheena ataynahumu alkitaba min qablihi hum bihi yuminoona",
         "en": "As for those unto whom We have vouchsafed revelation aforetime - they [are bound to] believe in this one [as well];",
-        "start": 0
+        "start": 204
       },
       {
         "text": "وَإِذَا يُتْلَىٰ عَلَيْهِمْ قَالُوا آمَنَّا بِهِ إِنَّهُ الْحَقُّ مِنْ رَبِّنَا إِنَّا كُنَّا مِنْ قَبْلِهِ مُسْلِمِينَ",
-        "englishtrans": "Waitha yutla AAalayhim qaloo amanna bihi innahu alhaqqu min rabbina inna kunna min qablihi muslimeena",
         "en": "and whenever it is [clearly] conveyed unto them, they [are bound to] profess, “We have come to believe in it, for, behold, it is the truth from our Sustainer - and, verily, even before this have we surrendered ourselves unto Him!”",
-        "start": 0
+        "start": 208
       },
       {
         "text": "أُولَٰئِكَ يُؤْتَوْنَ أَجْرَهُمْ مَرَّتَيْنِ بِمَا صَبَرُوا وَيَدْرَءُونَ بِالْحَسَنَةِ السَّيِّئَةَ وَمِمَّا رَزَقْنَاهُمْ يُنْفِقُونَ",
-        "englishtrans": "Olaika yutawna ajrahum marratayni bima sabaroo wayadraoona bialhasanati alssayyiata wamimma razaqnahum yunfiqoona",
         "en": "These it is that shall receive a twofold reward for having been patient in adversity, and having repelled evil with good, and having spent on others out of what We provided for them as sus­tenance,",
-        "start": 0
+        "start": 212
       },
       {
         "text": "وَإِذَا سَمِعُوا اللَّغْوَ أَعْرَضُوا عَنْهُ وَقَالُوا لَنَا أَعْمَالُنَا وَلَكُمْ أَعْمَالُكُمْ سَلَامٌ عَلَيْكُمْ لَا نَبْتَغِي الْجَاهِلِينَ",
-        "englishtrans": "Waitha samiAAoo allaghwa aAAradoo AAanhu waqaloo lana aAAmaluna walakum aAAmalukum salamun AAalaykum la nabtaghee aljahileena",
         "en": "and, whenever they heard frivolous talk, having turned away from it and said: “Unto us shall be accounted Our deeds, and unto you, your deeds. Peace be upon you - [but] we do not seek out such as are ignorant [of the meaning of right and wrong].”",
-        "start": 0
+        "start": 216
       },
       {
         "text": "إِنَّكَ لَا تَهْدِي مَنْ أَحْبَبْتَ وَلَٰكِنَّ اللَّهَ يَهْدِي مَنْ يَشَاءُ ۚ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ",
-        "englishtrans": "Innaka la tahdee man ahbabta walakinna Allaha yahdee man yashao wahuwa aAAlamu bialmuhtadeena",
         "en": "VERILY, thou canst not guide aright everyone whom thou lovest: but it is God who guides him that wills [to be guided]; and He is fully aware of all who would let themselves be guided.",
-        "start": 0
+        "start": 220
       },
       {
         "text": "وَقَالُوا إِنْ نَتَّبِعِ الْهُدَىٰ مَعَكَ نُتَخَطَّفْ مِنْ أَرْضِنَا ۚ أَوَلَمْ نُمَكِّنْ لَهُمْ حَرَمًا آمِنًا يُجْبَىٰ إِلَيْهِ ثَمَرَاتُ كُلِّ شَيْءٍ رِزْقًا مِنْ لَدُنَّا وَلَٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
-        "englishtrans": "Waqaloo in nattabiAAi alhuda maAAaka nutakhattaf min ardina awalam numakkin lahum haraman aminan yujba ilayhi thamaratu kulli shayin rizqan min ladunna walakinna aktharahum la yaAAlamoona",
         "en": "Now some say, “If we were to follow the guidance to which thou invitest us, we would be torn away from our very soil!” Why - have We not established for them a sanc­tuary secure, to which, as a provision from Us, shall be gathered the fruits of all (good) things? But most of them are unaware [of this truth].",
-        "start": 0
+        "start": 224
       },
       {
         "text": "وَكَمْ أَهْلَكْنَا مِنْ قَرْيَةٍ بَطِرَتْ مَعِيشَتَهَا ۖ فَتِلْكَ مَسَاكِنُهُمْ لَمْ تُسْكَنْ مِنْ بَعْدِهِمْ إِلَّا قَلِيلًا ۖ وَكُنَّا نَحْنُ الْوَارِثِينَ",
-        "englishtrans": "Wakam ahlakna min qaryatin batirat maAAeeshataha fatilka masakinuhum lam tuskan min baAAdihim illa qaleelan wakunna nahnu alwaritheena",
         "en": "And how many a community that [once] exult­ed in its wanton wealth and ease of life have We destroyed, so that those dwelling-places of theirs – all but a few - have never been dwelt-in after them: for it is indeed We alone who shall remain when all else will have passed away!",
-        "start": 0
+        "start": 228
       },
       {
         "text": "وَمَا كَانَ رَبُّكَ مُهْلِكَ الْقُرَىٰ حَتَّىٰ يَبْعَثَ فِي أُمِّهَا رَسُولًا يَتْلُو عَلَيْهِمْ آيَاتِنَا ۚ وَمَا كُنَّا مُهْلِكِي الْقُرَىٰ إِلَّا وَأَهْلُهَا ظَالِمُونَ",
-        "englishtrans": "Wama kana rabbuka muhlika alqura hatta yabAAatha fee ommiha rasoolan yatloo AAalayhim ayatina wama kunna muhlikee alqura illa waahluha thalimoona",
         "en": "Yet, withal, thy Sustainer would never destroy a community without having [first] raised in its midst an apostle who would convey unto them Our mes­sages; and never would We destroy a community unless its people are wont to do wrong [to one another].",
-        "start": 0
+        "start": 232
       },
       {
         "text": "وَمَا أُوتِيتُمْ مِنْ شَيْءٍ فَمَتَاعُ الْحَيَاةِ الدُّنْيَا وَزِينَتُهَا ۚ وَمَا عِنْدَ اللَّهِ خَيْرٌ وَأَبْقَىٰ ۚ أَفَلَا تَعْقِلُونَ",
-        "englishtrans": "Wama ooteetum min shayin famataAAu alhayati alddunya wazeenatuha wama AAinda Allahi khayrun waabqa afala taAAqiloona",
         "en": "And [remember:] whatever you are given [now] is but for the [passing] enjoyment of life in this world, and for its embellishment - whereas that which is with God is [so much] better and more enduring. Will you not, then, use your reason?",
-        "start": 0
+        "start": 236
       },
       {
         "text": "أَفَمَنْ وَعَدْنَاهُ وَعْدًا حَسَنًا فَهُوَ لَاقِيهِ كَمَنْ مَتَّعْنَاهُ مَتَاعَ الْحَيَاةِ الدُّنْيَا ثُمَّ هُوَ يَوْمَ الْقِيَامَةِ مِنَ الْمُحْضَرِينَ",
-        "englishtrans": "Afaman waAAadnahu waAAdan hasanan fahuwa laqeehi kaman mattaAAnahu mataAAa alhayati alddunya thumma huwa yawma alqiyamati mina almuhdareena",
         "en": "Is, then, he to whom We have given that goodly promise which he shall see fulfilled [on his resurrection] comparable to one on whom We have bestowed [all] the enjoyments of this worldly life but who, on Resurrection Day, will find himself among those that shall be arraigned [before Us]?",
-        "start": 0
+        "start": 240
       },
       {
         "text": "وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ أَيْنَ شُرَكَائِيَ الَّذِينَ كُنْتُمْ تَزْعُمُونَ",
-        "englishtrans": "Wayawma yunadeehim fayaqoolu ayna shurakaiya allatheena kuntum tazAAumoona",
         "en": "For, on that Day He will call unto them, and will ask: “Where, now, are those [beings or powers] whom you imagined to have a share in My divinity?”",
-        "start": 0
+        "start": 244
       },
       {
         "text": "قَالَ الَّذِينَ حَقَّ عَلَيْهِمُ الْقَوْلُ رَبَّنَا هَٰؤُلَاءِ الَّذِينَ أَغْوَيْنَا أَغْوَيْنَاهُمْ كَمَا غَوَيْنَا ۖ تَبَرَّأْنَا إِلَيْكَ ۖ مَا كَانُوا إِيَّانَا يَعْبُدُونَ",
-        "englishtrans": "Qala allatheena haqqa AAalayhimu alqawlu rabbana haolai allatheena aghwayna aghwaynahum kama ghawayna tabarrana ilayka ma kanoo iyyana yaAAbudoona",
         "en": "[whereupon] they against whom the word [of truth] shall thus stand revealed will exclaim: O our Sustainer! Those whom we caused to err so grievously, we but caused to err as we our­selves had been erring. We [now] disavow them before Thee: it was not us that they worshipped!”",
-        "start": 0
+        "start": 248
       },
       {
         "text": "وَقِيلَ ادْعُوا شُرَكَاءَكُمْ فَدَعَوْهُمْ فَلَمْ يَسْتَجِيبُوا لَهُمْ وَرَأَوُا الْعَذَابَ ۚ لَوْ أَنَّهُمْ كَانُوا يَهْتَدُونَ",
-        "englishtrans": "Waqeela odAAoo shurakaakum fadaAAawhum falam yastajeeboo lahum waraawoo alAAathaba law annahum kanoo yahtadoona",
         "en": "And [they] will be told: “Call [now] unto those [beings or powers] to whom you were wont to ascribe a share in God’s divinity!” and they will call unto them [for help], but those [fake objects of worship] will not respond to them: whereupon they will see the suffering [that awaits them - the suffering which could have been avoided] if only they had allowed them­selves to be guided!",
-        "start": 0
+        "start": 252
       },
       {
         "text": "وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ مَاذَا أَجَبْتُمُ الْمُرْسَلِينَ",
-        "englishtrans": "Wayawma yunadeehim fayaqoolu matha ajabtumu almursaleena",
         "en": "And on that Day He will call unto them, and will ask: “How did you respond to My message­ bearers?”",
-        "start": 0
+        "start": 256
       },
       {
         "text": "فَعَمِيَتْ عَلَيْهِمُ الْأَنْبَاءُ يَوْمَئِذٍ فَهُمْ لَا يَتَسَاءَلُونَ",
-        "englishtrans": "FaAAamiyat AAalayhimu alanbao yawmaithin fahum la yatasaaloona",
         "en": "but all arguments and excuses will by then have been erased from their minds, and they will not [be able to] obtain any [helpful] answer from one another.",
-        "start": 0
+        "start": 260
       },
       {
         "text": "فَأَمَّا مَنْ تَابَ وَآمَنَ وَعَمِلَ صَالِحًا فَعَسَىٰ أَنْ يَكُونَ مِنَ الْمُفْلِحِينَ",
-        "englishtrans": "Faamma man taba waamana waAAamila salihan faAAasa an yakoona mina almufliheena",
         "en": "But as against this - anyone who repents and attains to faith and does righteous deeds may well [hope to] find himself among those who achieve a happy state [in the life to come].",
-        "start": 0
+        "start": 264
       },
       {
         "text": "وَرَبُّكَ يَخْلُقُ مَا يَشَاءُ وَيَخْتَارُ ۗ مَا كَانَ لَهُمُ الْخِيَرَةُ ۚ سُبْحَانَ اللَّهِ وَتَعَالَىٰ عَمَّا يُشْرِكُونَ",
-        "englishtrans": "Warabbuka yakhluqu ma yashao wayakhtaru ma kana lahumu alkhiyaratu subhana Allahi wataAAala AAamma yushrikoona",
         "en": "AND [thus it is:] thy Sustainer creates whatever He wills; and He chooses [for mankind] whatever is best for them. Limitless is God in His glory, and sub­limely exalted above anything to which they may ascribe a share in His divinity!",
-        "start": 0
+        "start": 268
       },
       {
         "text": "وَرَبُّكَ يَعْلَمُ مَا تُكِنُّ صُدُورُهُمْ وَمَا يُعْلِنُونَ",
-        "englishtrans": "Warabbuka yaAAlamu ma tukinnu sudooruhum wama yuAAlinoona",
         "en": "And thy Sustainer knows all that their hearts conceal as well as all that they bring into the open:",
-        "start": 0
+        "start": 272
       },
       {
         "text": "وَهُوَ اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ ۖ لَهُ الْحَمْدُ فِي الْأُولَىٰ وَالْآخِرَةِ ۖ وَلَهُ الْحُكْمُ وَإِلَيْهِ تُرْجَعُونَ",
-        "englishtrans": "Wahuwa Allahu la ilaha illa huwa lahu alhamdu fee aloola waalakhirati walahu alhukmu wailayhi turjaAAoona",
         "en": "for He is God, save whom there is no deity. Unto Him all praise is due, at the beginning and at the end [of time]; and with Him rests all judgment; and unto Him shall you all be brought back.",
-        "start": 0
+        "start": 276
       },
       {
         "text": "قُلْ أَرَأَيْتُمْ إِنْ جَعَلَ اللَّهُ عَلَيْكُمُ اللَّيْلَ سَرْمَدًا إِلَىٰ يَوْمِ الْقِيَامَةِ مَنْ إِلَٰهٌ غَيْرُ اللَّهِ يَأْتِيكُمْ بِضِيَاءٍ ۖ أَفَلَا تَسْمَعُونَ",
-        "englishtrans": "Qul araaytum in jaAAala Allahu AAalaykumu allayla sarmadan ila yawmi alqiyamati man ilahun ghayru Allahi yateekum bidiyain afala tasmaAAoona",
         "en": "Say: “Have you ever considered [this]: If God had willed that there should always be night about you, without break, until the Day of Resurrection - is there any deity other than God that could bring you light? Will you not, then, listen [to the truth]?”",
-        "start": 0
+        "start": 280
       },
       {
         "text": "قُلْ أَرَأَيْتُمْ إِنْ جَعَلَ اللَّهُ عَلَيْكُمُ النَّهَارَ سَرْمَدًا إِلَىٰ يَوْمِ الْقِيَامَةِ مَنْ إِلَٰهٌ غَيْرُ اللَّهِ يَأْتِيكُمْ بِلَيْلٍ تَسْكُنُونَ فِيهِ ۖ أَفَلَا تُبْصِرُونَ",
-        "englishtrans": "Qul araaytum in jaAAala Allahu AAalaykumu alnnahara sarmadan ila yawmi alqiyamati man ilahun ghayru Allahi yateekum bilaylin taskunoona feehi afala tubsiroona",
         "en": "Say: “Have you ever considered [this]: If God had willed that there should always be daylight about you, without break, until the Day of Resurrection - is there any deity other than God that could bring you [the darkness of] night, wherein you might rest? Will you not, then, see [the truth]?”",
-        "start": 0
+        "start": 284
       },
       {
         "text": "وَمِنْ رَحْمَتِهِ جَعَلَ لَكُمُ اللَّيْلَ وَالنَّهَارَ لِتَسْكُنُوا فِيهِ وَلِتَبْتَغُوا مِنْ فَضْلِهِ وَلَعَلَّكُمْ تَشْكُرُونَ",
-        "englishtrans": "Wamin rahmatihi jaAAala lakumu allayla waalnnahara litaskunoo feehi walitabtaghoo min fadlihi walaAAallakum tashkuroona",
         "en": "For it is out of His grace that He has made for you the night and the day, so that you might rest therein as well as seek to obtain [what you need] of His bounty: and [He gave you all this] so that you might have cause to be grateful.",
-        "start": 0
+        "start": 288
       },
       {
         "text": "وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ أَيْنَ شُرَكَائِيَ الَّذِينَ كُنْتُمْ تَزْعُمُونَ",
-        "englishtrans": "Wayawma yunadeehim fayaqoolu ayna shurakaiya allatheena kuntum tazAAumoona",
         "en": "AND ON THAT DAY He will call unto those [that shall have been arraigned before His judgment seat], and will ask: “Where, now, are those [beings or powers] whom you imagined to have a share in My divinity?”",
-        "start": 0
+        "start": 292
       },
       {
         "text": "وَنَزَعْنَا مِنْ كُلِّ أُمَّةٍ شَهِيدًا فَقُلْنَا هَاتُوا بُرْهَانَكُمْ فَعَلِمُوا أَنَّ الْحَقَّ لِلَّهِ وَضَلَّ عَنْهُمْ مَا كَانُوا يَفْتَرُونَ",
-        "englishtrans": "WanazaAAna min kulli ommatin shaheedan faqulna hatoo burhanakum faAAalimoo anna alhaqqa lillahi wadalla AAanhum ma kanoo yaftaroona",
         "en": "And [they will remain silent: for by then] We will have called forth witnesses from within every community, and will have said [unto the sinners]: “Produce an evidence for what you have been claim­ing!” And so they will come to understand that all truth is God’s [alone]; and all their false imagery will have forsaken them.",
-        "start": 0
+        "start": 296
       },
       {
         "text": "۞ إِنَّ قَارُونَ كَانَ مِنْ قَوْمِ مُوسَىٰ فَبَغَىٰ عَلَيْهِمْ ۖ وَآتَيْنَاهُ مِنَ الْكُنُوزِ مَا إِنَّ مَفَاتِحَهُ لَتَنُوءُ بِالْعُصْبَةِ أُولِي الْقُوَّةِ إِذْ قَالَ لَهُ قَوْمُهُ لَا تَفْرَحْ ۖ إِنَّ اللَّهَ لَا يُحِبُّ الْفَرِحِينَ",
-        "englishtrans": "Inna qaroona kana min qawmi moosa fabagha AAalayhim waataynahu mina alkunoozi ma inna mafatihahu latanooo bialAAusbati olee alquwwati ith qala lahu qawmuhu la tafrah inna Allaha la yuhibbu alfariheena",
         "en": "[NOW,] BEHOLD, Qarun was one of the people of Moses; but he arrogantly exalted himself above them - simply because We had granted him such riches that his treasure-chests alone would surely have been too heavy a burden for a troop of ten men or even more. When [they perceived his arrogance,] his people said unto him: “Exult not [in thy wealth], for, verily, God does not love those who exult [in things vain]!",
-        "start": 0
+        "start": 300
       },
       {
         "text": "وَابْتَغِ فِيمَا آتَاكَ اللَّهُ الدَّارَ الْآخِرَةَ ۖ وَلَا تَنْسَ نَصِيبَكَ مِنَ الدُّنْيَا ۖ وَأَحْسِنْ كَمَا أَحْسَنَ اللَّهُ إِلَيْكَ ۖ وَلَا تَبْغِ الْفَسَادَ فِي الْأَرْضِ ۖ إِنَّ اللَّهَ لَا يُحِبُّ الْمُفْسِدِينَ",
-        "englishtrans": "Waibtaghi feema ataka Allahu alddara alakhirata wala tansa naseebaka mina alddunya waahsin kama ahsana Allahu ilayka wala tabghi alfasada fee alardi inna Allaha la yuhibbu almufsideena",
         "en": "Seek instead, by means of what God has granted thee, [the good of] the life to come, without forget­ting, withal, thine own [rightful] share in this world; and do good [unto others] as God has done good unto thee; and seek not to spread corruption on earth: for, verily, God does not love the spreaders of corruption!”",
-        "start": 0
+        "start": 304
       },
       {
         "text": "قَالَ إِنَّمَا أُوتِيتُهُ عَلَىٰ عِلْمٍ عِنْدِي ۚ أَوَلَمْ يَعْلَمْ أَنَّ اللَّهَ قَدْ أَهْلَكَ مِنْ قَبْلِهِ مِنَ الْقُرُونِ مَنْ هُوَ أَشَدُّ مِنْهُ قُوَّةً وَأَكْثَرُ جَمْعًا ۚ وَلَا يُسْأَلُ عَنْ ذُنُوبِهِمُ الْمُجْرِمُونَ",
-        "englishtrans": "Qala innama ooteetuhu AAala AAilmin AAindee awalam yaAAlam anna Allaha qad ahlaka min qablihi mina alqurooni man huwa ashaddu minhu quwwatan waaktharu jamAAan wala yusalu AAan thunoobihimu almujrimoona",
         "en": "Answered he: “This [wealth] has been given to me only by virtue of the knowledge that is in me!” Did he not know that God had destroyed [the arrogant of] many a generation that preceded him - people who were greater than he in power, and richer in what they had amassed? But such as are lost in sin may not be asked about, their sins.",
-        "start": 0
+        "start": 308
       },
       {
         "text": "فَخَرَجَ عَلَىٰ قَوْمِهِ فِي زِينَتِهِ ۖ قَالَ الَّذِينَ يُرِيدُونَ الْحَيَاةَ الدُّنْيَا يَا لَيْتَ لَنَا مِثْلَ مَا أُوتِيَ قَارُونُ إِنَّهُ لَذُو حَظٍّ عَظِيمٍ",
-        "englishtrans": "Fakharaja AAala qawmihi fee zeenatihi qala allatheena yureedoona alhayata alddunya ya layta lana mithla ma ootiya qaroonu innahu lathoo haththin AAatheemin",
         "en": "And so he went forth before his people in all his pomp; [and] those who cared only for the life of this world would say, “Oh, if we but had the like of what Qarun has been given! Verily, with tremendous good fortune is he endowed!”",
-        "start": 0
+        "start": 312
       },
       {
         "text": "وَقَالَ الَّذِينَ أُوتُوا الْعِلْمَ وَيْلَكُمْ ثَوَابُ اللَّهِ خَيْرٌ لِمَنْ آمَنَ وَعَمِلَ صَالِحًا وَلَا يُلَقَّاهَا إِلَّا الصَّابِرُونَ",
-        "englishtrans": "Waqala allatheena ootoo alAAilma waylakum thawabu Allahi khayrun liman amana waAAamila salihan wala yulaqqaha illa alssabiroona",
         "en": "But those who had been granted true knowl­edge said: “Woe unto you! Merit in the sight of God is by far the best for any who attains to faith and does what is right: but none save the patient in adversity can ever achieve this [blessing].”",
-        "start": 0
+        "start": 316
       },
       {
         "text": "فَخَسَفْنَا بِهِ وَبِدَارِهِ الْأَرْضَ فَمَا كَانَ لَهُ مِنْ فِئَةٍ يَنْصُرُونَهُ مِنْ دُونِ اللَّهِ وَمَا كَانَ مِنَ الْمُنْتَصِرِينَ",
-        "englishtrans": "Fakhasafna bihi wabidarihi alarda fama kana lahu min fiatin yansuroonahu min dooni Allahi wama kana mina almuntasireena",
         "en": "And thereupon We caused the earth to swallow him and his dwelling; and he had none and nothing to succour him against God, nor was he of those who could succour themselves.",
-        "start": 0
+        "start": 320
       },
       {
         "text": "وَأَصْبَحَ الَّذِينَ تَمَنَّوْا مَكَانَهُ بِالْأَمْسِ يَقُولُونَ وَيْكَأَنَّ اللَّهَ يَبْسُطُ الرِّزْقَ لِمَنْ يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ ۖ لَوْلَا أَنْ مَنَّ اللَّهُ عَلَيْنَا لَخَسَفَ بِنَا ۖ وَيْكَأَنَّهُ لَا يُفْلِحُ الْكَافِرُونَ",
-        "englishtrans": "Waasbaha allatheena tamannaw makanahu bialamsi yaqooloona waykaanna Allaha yabsutu alrrizqa liman yashao min AAibadihi wayaqdiru lawla an manna Allahu AAalayna lakhasafa bina waykaannahu la yuflihu alkafiroona",
         "en": "And on the morrow, those who but yesterday had longed to be in his place exclaimed: “Alas [for our not having been aware] that it is indeed God [alone] who grants abundant sustenance, or gives it in scant measure, unto whichever He wills of His crea­tures! Had not God been gracious to us, He might have caused [the earth] to swallow us, too! Alas [for our having forgotten] that those who deny the truth can never attain to a happy state!”",
-        "start": 0
+        "start": 324
       },
       {
         "text": "تِلْكَ الدَّارُ الْآخِرَةُ نَجْعَلُهَا لِلَّذِينَ لَا يُرِيدُونَ عُلُوًّا فِي الْأَرْضِ وَلَا فَسَادًا ۚ وَالْعَاقِبَةُ لِلْمُتَّقِينَ",
-        "englishtrans": "Tilka alddaru alakhiratu najAAaluha lillatheena la yureedoona AAuluwwan fee alardi wala fasadan waalAAaqibatu lilmuttaqeena",
         "en": "As for that [happy] life in the hereafter, We grant it [only] to those who do not seek to exalt themselves on earth, nor yet to spread corruption: for the future belongs to the God-conscious.",
-        "start": 0
+        "start": 328
       },
       {
         "text": "مَنْ جَاءَ بِالْحَسَنَةِ فَلَهُ خَيْرٌ مِنْهَا ۖ وَمَنْ جَاءَ بِالسَّيِّئَةِ فَلَا يُجْزَى الَّذِينَ عَمِلُوا السَّيِّئَاتِ إِلَّا مَا كَانُوا يَعْمَلُونَ",
-        "englishtrans": "Man jaa bialhasanati falahu khayrun minha waman jaa bialssayyiati fala yujza allatheena AAamiloo alssayyiati illa ma kanoo yaAAmaloona",
         "en": "Whosoever shall come [before God] with a good deed will gain [further] good there from; but as for any who shall come with an evil deed - [know that] they who do evil deeds will not be requited with more than [the like of] what they have done.",
-        "start": 0
+        "start": 332
       },
       {
         "text": "إِنَّ الَّذِي فَرَضَ عَلَيْكَ الْقُرْآنَ لَرَادُّكَ إِلَىٰ مَعَادٍ ۚ قُلْ رَبِّي أَعْلَمُ مَنْ جَاءَ بِالْهُدَىٰ وَمَنْ هُوَ فِي ضَلَالٍ مُبِينٍ",
-        "englishtrans": "Inna allathee farada AAalayka alqurana laradduka ila maAAadin qul rabbee aAAlamu man jaa bialhuda waman huwa fee dalalin mubeenin",
         "en": "VERILY, [O believer,] He who has laid down this Qur’an in plain terms, making it binding on thee, will assuredly bring thee back [from death] to a life renewed. Say [unto those who reject the truth]: My Sus­tainer knows best, as to who is right-guided and who is obviously lost in error!”",
-        "start": 0
+        "start": 336
       },
       {
         "text": "وَمَا كُنْتَ تَرْجُو أَنْ يُلْقَىٰ إِلَيْكَ الْكِتَابُ إِلَّا رَحْمَةً مِنْ رَبِّكَ ۖ فَلَا تَكُونَنَّ ظَهِيرًا لِلْكَافِرِينَ",
-        "englishtrans": "Wama kunta tarjoo an yulqa ilayka alkitabu illa rahmatan min rabbika fala takoonanna thaheeran lilkafireena",
         "en": "Now [as for thyself, O believer,] thou couldst never foresee that this divine writ would [one day] be offered to thee: but [it did come to thee] by thy Sustainer’s grace. Hence, never uphold those who deny the truth [of divine guidance],",
-        "start": 0
+        "start": 340
       },
       {
         "text": "وَلَا يَصُدُّنَّكَ عَنْ آيَاتِ اللَّهِ بَعْدَ إِذْ أُنْزِلَتْ إِلَيْكَ ۖ وَادْعُ إِلَىٰ رَبِّكَ ۖ وَلَا تَكُونَنَّ مِنَ الْمُشْرِكِينَ",
-        "englishtrans": "Wala yasuddunnaka AAan ayati Allahi baAAda ith onzilat ilayka waodAAu ila rabbika wala takoonanna mina almushrikeena",
         "en": "and never let them turn thee away from God’s messages after they have been bestowed upon thee from on high: instead summon [all men] to thy Sustainer. And never be of those who ascribe divinity to aught but Him,",
-        "start": 0
+        "start": 344
       },
       {
         "text": "وَلَا تَدْعُ مَعَ اللَّهِ إِلَٰهًا آخَرَ ۘ لَا إِلَٰهَ إِلَّا هُوَ ۚ كُلُّ شَيْءٍ هَالِكٌ إِلَّا وَجْهَهُ ۚ لَهُ الْحُكْمُ وَإِلَيْهِ تُرْجَعُونَ",
-        "englishtrans": "Wala tadAAu maAAa Allahi ilahan akhara la ilaha illa huwa kullu shayin halikun illa wajhahu lahu alhukmu wailayhi turjaAAoona",
         "en": "and never call upon any other deity side by side with God. There is no deity save Him. Everything is bound to perish, save His [eternal] self. With Him rests all judgment; and unto Him shall you all be brought back.",
-        "start": 0
+        "start": 348
       }
     ]
   },
@@ -20419,417 +20331,348 @@
     "verses": [
       {
         "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ الم",
-        "englishtrans": "Aliflammeem",
         "en": "Alif. Lam. Mim.",
         "start": 0
       },
       {
         "text": "أَحَسِبَ النَّاسُ أَنْ يُتْرَكُوا أَنْ يَقُولُوا آمَنَّا وَهُمْ لَا يُفْتَنُونَ",
-        "englishtrans": "Ahasiba alnnasu an yutrakoo an yaqooloo amanna wahum la yuftanoona",
         "en": "DO MEN THINK that on their [mere] saying, “We have attained to faith”, they will be left to themselves, and will not be put to a test?",
-        "start": 0
+        "start": 4
       },
       {
         "text": "وَلَقَدْ فَتَنَّا الَّذِينَ مِنْ قَبْلِهِمْ ۖ فَلَيَعْلَمَنَّ اللَّهُ الَّذِينَ صَدَقُوا وَلَيَعْلَمَنَّ الْكَاذِبِينَ",
-        "englishtrans": "Walaqad fatanna allatheena min qablihim falayaAAlamanna Allahu allatheena sadaqoo walayaAAlamanna alkathibeena",
         "en": "Yea, indeed, We did test those who lived before them; and so, [too, shall be tested the people now living: and] most certainly will God mark out those who prove themselves true, and most certainly will He mark out those who are lying.",
-        "start": 0
+        "start": 8
       },
       {
         "text": "أَمْ حَسِبَ الَّذِينَ يَعْمَلُونَ السَّيِّئَاتِ أَنْ يَسْبِقُونَا ۚ سَاءَ مَا يَحْكُمُونَ",
-        "englishtrans": "Am hasiba allatheena yaAAmaloona alssayyiati an yasbiqoona saa ma yahkumoona",
         "en": "Or do they think - they who do evil deeds [while claiming to have attained to faith] - that they can escape Us? Bad, indeed, is their judgment!",
-        "start": 0
+        "start": 12
       },
       {
         "text": "مَنْ كَانَ يَرْجُو لِقَاءَ اللَّهِ فَإِنَّ أَجَلَ اللَّهِ لَآتٍ ۚ وَهُوَ السَّمِيعُ الْعَلِيمُ",
-        "englishtrans": "Man kana yarjoo liqaa Allahi fainna ajala Allahi laatin wahuwa alssameeAAu alAAaleemu",
         "en": "Whoever looks forward [with hope and awe] to meeting God [on Resurrection Day, let him be ready for it]: for, behold, the end set by God [for every­one’s life] is bound to come - and He alone is all-hearing, all-knowing!",
-        "start": 0
+        "start": 16
       },
       {
         "text": "وَمَنْ جَاهَدَ فَإِنَّمَا يُجَاهِدُ لِنَفْسِهِ ۚ إِنَّ اللَّهَ لَغَنِيٌّ عَنِ الْعَالَمِينَ",
-        "englishtrans": "Waman jahada fainnama yujahidu linafsihi inna Allaha laghaniyyun AAani alAAalameena",
         "en": "Hence, whoever strives hard [in God’s cause] does so only for his own good: for, verily, God does not stand in need of anything in all the worlds!",
-        "start": 0
+        "start": 20
       },
       {
         "text": "وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَنُكَفِّرَنَّ عَنْهُمْ سَيِّئَاتِهِمْ وَلَنَجْزِيَنَّهُمْ أَحْسَنَ الَّذِي كَانُوا يَعْمَلُونَ",
-        "englishtrans": "Waallatheena amanoo waAAamiloo alssalihati lanukaffiranna AAanhum sayyiatihim walanajziyannahum ahsana allathee kanoo yaAAmaloona",
         "en": "And as for those who attain to faith and do righteous deeds, We shall most certainly efface their [previous] bad deeds, and shall most certainly reward them in accordance with the best that they ever did.",
-        "start": 0
+        "start": 24
       },
       {
         "text": "وَوَصَّيْنَا الْإِنْسَانَ بِوَالِدَيْهِ حُسْنًا ۖ وَإِنْ جَاهَدَاكَ لِتُشْرِكَ بِي مَا لَيْسَ لَكَ بِهِ عِلْمٌ فَلَا تُطِعْهُمَا ۚ إِلَيَّ مَرْجِعُكُمْ فَأُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُونَ",
-        "englishtrans": "Wawassayna alinsana biwalidayhi husnan wain jahadaka litushrika bee ma laysa laka bihi AAilmun fala tutiAAhuma ilayya marjiAAukum faonabbiokum bima kuntum taAAmaloona",
         "en": "Now [among the best of righteous deeds which] We have enjoined upon man [is] goodness towards his parents; yet [even so,] should they endeavour to make thee ascribe divinity, side by side with Me, to something which thy mind cannot accept [as divine], obey then, not: [for] it is unto Me that you all must return, whereupon I shall make you [truly] understand [the right and wrong of] all that you were doing [in life].",
-        "start": 0
+        "start": 28
       },
       {
         "text": "وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَنُدْخِلَنَّهُمْ فِي الصَّالِحِينَ",
-        "englishtrans": "Waallatheena amanoo waAAamiloo alssalihati lanudkhilannahum fee alssaliheena",
         "en": "But as for those who have attained to faith and have done righteous deeds, We shall most certainly cause them to join the righteous [in the hereafter as well].",
-        "start": 0
+        "start": 32
       },
       {
         "text": "وَمِنَ النَّاسِ مَنْ يَقُولُ آمَنَّا بِاللَّهِ فَإِذَا أُوذِيَ فِي اللَّهِ جَعَلَ فِتْنَةَ النَّاسِ كَعَذَابِ اللَّهِ وَلَئِنْ جَاءَ نَصْرٌ مِنْ رَبِّكَ لَيَقُولُنَّ إِنَّا كُنَّا مَعَكُمْ ۚ أَوَلَيْسَ اللَّهُ بِأَعْلَمَ بِمَا فِي صُدُورِ الْعَالَمِينَ",
-        "englishtrans": "Wamina alnnasi man yaqoolu amanna biAllahi faitha oothiya fee Allahi jaAAala fitnata alnnasi kaAAathabi Allahi walain jaa nasrun min rabbika layaqoolunna inna kunna maAAakum awalaysa Allahu biaAAlama bima fee sudoori alAAalameena",
         "en": "Now there is among men many a one who says [of himself and of others like him], “We do believe in God” - but whenever he is made to suffer in God’s cause, he thinks that persecution at the hands of man is as [much to be feared, or even more than,] God’s chastisement; whereas, if succour from thy Sustainer comes [to those who truly believe] he is sure to say. “Behold, we have always been with you!” Is not God fully aware of what is in the hearts of all creatures?",
-        "start": 0
+        "start": 36
       },
       {
         "text": "وَلَيَعْلَمَنَّ اللَّهُ الَّذِينَ آمَنُوا وَلَيَعْلَمَنَّ الْمُنَافِقِينَ",
-        "englishtrans": "WalayaAAlamanna Allahu allatheena amanoo walayaAAlamanna almunafiqeena",
         "en": "[Yea-] and most certainly will God mark out those who have [truly] attained to faith, and most certainly will He mark out the hypocrites.",
-        "start": 0
+        "start": 40
       },
       {
         "text": "وَقَالَ الَّذِينَ كَفَرُوا لِلَّذِينَ آمَنُوا اتَّبِعُوا سَبِيلَنَا وَلْنَحْمِلْ خَطَايَاكُمْ وَمَا هُمْ بِحَامِلِينَ مِنْ خَطَايَاهُمْ مِنْ شَيْءٍ ۖ إِنَّهُمْ لَكَاذِبُونَ",
-        "englishtrans": "Waqala allatheena kafaroo lillatheena amanoo ittabiAAoo sabeelana walnahmil khatayakum wama hum bihamileena min khatayahum min shayin innahum lakathiboona",
         "en": "And [He is aware, too, that] they who are bent on denying the truth speak [thus, as it were,] to those who have attained to faith: “Follow our way [of life], and we shall indeed take your sins upon ourselves!” But never could they take upon themselves aught of the sins of those [whom they would thus mislead]: behold, they are liars indeed!",
-        "start": 0
+        "start": 44
       },
       {
         "text": "وَلَيَحْمِلُنَّ أَثْقَالَهُمْ وَأَثْقَالًا مَعَ أَثْقَالِهِمْ ۖ وَلَيُسْأَلُنَّ يَوْمَ الْقِيَامَةِ عَمَّا كَانُوا يَفْتَرُونَ",
-        "englishtrans": "Walayahmilunna athqalahum waathqalan maAAa athqalihim walayusalunna yawma alqiyamati AAamma kanoo yaftaroona",
         "en": "Yet most certainly will they have to bear their own burdens, and other burdens besides their own; and most certainly will they be called to account on Resurrection Day for all their false assertions!",
-        "start": 0
+        "start": 48
       },
       {
         "text": "وَلَقَدْ أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِ فَلَبِثَ فِيهِمْ أَلْفَ سَنَةٍ إِلَّا خَمْسِينَ عَامًا فَأَخَذَهُمُ الطُّوفَانُ وَهُمْ ظَالِمُونَ",
-        "englishtrans": "Walaqad arsalna noohan ila qawmihi falabitha feehim alfa sanatin illa khamseena AAaman faakhathahumu alttoofanu wahum thalimoona",
         "en": "And, indeed, [in times long past] We sent forth Noah unto his people, and he dwelt among them a thousand years bar fifty; and then the floods over­whelmed them while they were still lost in evildoing:",
-        "start": 0
+        "start": 52
       },
       {
         "text": "فَأَنْجَيْنَاهُ وَأَصْحَابَ السَّفِينَةِ وَجَعَلْنَاهَا آيَةً لِلْعَالَمِينَ",
-        "englishtrans": "Faanjaynahu waashaba alssafeenati wajaAAalnaha ayatan lilAAalameena",
         "en": "but We saved him, together with all who were in the ark, which We then set up as a symbol [of Our grace] for all people [to remember].",
-        "start": 0
+        "start": 56
       },
       {
         "text": "وَإِبْرَاهِيمَ إِذْ قَالَ لِقَوْمِهِ اعْبُدُوا اللَّهَ وَاتَّقُوهُ ۖ ذَٰلِكُمْ خَيْرٌ لَكُمْ إِنْ كُنْتُمْ تَعْلَمُونَ",
-        "englishtrans": "Waibraheema ith qala liqawmihi oAAbudoo Allaha waittaqoohu thalikum khayrun lakum in kuntum taAAlamoona",
         "en": "And Abraham, [too, was inspired by Us] when he said unto his people: “Worship God, and be conscious of Him: this is the best for you, if you but knew it!",
-        "start": 0
+        "start": 60
       },
       {
         "text": "إِنَّمَا تَعْبُدُونَ مِنْ دُونِ اللَّهِ أَوْثَانًا وَتَخْلُقُونَ إِفْكًا ۚ إِنَّ الَّذِينَ تَعْبُدُونَ مِنْ دُونِ اللَّهِ لَا يَمْلِكُونَ لَكُمْ رِزْقًا فَابْتَغُوا عِنْدَ اللَّهِ الرِّزْقَ وَاعْبُدُوهُ وَاشْكُرُوا لَهُ ۖ إِلَيْهِ تُرْجَعُونَ",
-        "englishtrans": "Innama taAAbudoona min dooni Allahi awthanan watakhluqoona ifkan inna allatheena taAAbudoona min dooni Allahi la yamlikoona lakum rizqan faibtaghoo AAinda Allahi alrrizqa waoAAbudoohu waoshkuroo lahu ilayhi turjaAAoona",
         "en": "You worship only [lifeless] idols instead of God, and [thus] you give visible shape to a lie! Behold, those [things and beings] that you worship instead of God have it not in their power to provide sustenance for you: seek, then, all [your] sustenance from God, and worship Him [alone] and be grateful to Him: [for] unto Him you shall be brought back!",
-        "start": 0
+        "start": 64
       },
       {
         "text": "وَإِنْ تُكَذِّبُوا فَقَدْ كَذَّبَ أُمَمٌ مِنْ قَبْلِكُمْ ۖ وَمَا عَلَى الرَّسُولِ إِلَّا الْبَلَاغُ الْمُبِينُ",
-        "englishtrans": "Wain tukaththiboo faqad kaththaba omamun min qablikum wama AAala alrrasooli illa albalaghu almubeenu",
         "en": "“And if you give [me] the lie - well, [other] communities have given the lie [to Gods prophets] before your time: but no more is an apostle bound to do than clearly deliver the message [entrusted to him].”",
-        "start": 0
+        "start": 68
       },
       {
         "text": "أَوَلَمْ يَرَوْا كَيْفَ يُبْدِئُ اللَّهُ الْخَلْقَ ثُمَّ يُعِيدُهُ ۚ إِنَّ ذَٰلِكَ عَلَى اللَّهِ يَسِيرٌ",
-        "englishtrans": "Awalam yaraw kayfa yubdio Allahu alkhalqa thumma yuAAeeduhu inna thalika AAala Allahi yaseerun",
         "en": "Are then they [who deny the truth] not aware of how God creates [life] in the first instance, and then brings it forth anew? This, verily, is easy for God!",
-        "start": 0
+        "start": 72
       },
       {
         "text": "قُلْ سِيرُوا فِي الْأَرْضِ فَانْظُرُوا كَيْفَ بَدَأَ الْخَلْقَ ۚ ثُمَّ اللَّهُ يُنْشِئُ النَّشْأَةَ الْآخِرَةَ ۚ إِنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
-        "englishtrans": "Qul seeroo fee alardi faonthuroo kayfa badaa alkhalqa thumma Allahu yunshio alnnashata alakhirata inna Allaha AAala kulli shayin qadeerun",
         "en": "Say: “Go all over the earth and behold how [wondrously] He has created [man] in the first in­stance: and thus, too, will God bring into being your second life for, verily, God has the power to will anything!",
-        "start": 0
+        "start": 76
       },
       {
         "text": "يُعَذِّبُ مَنْ يَشَاءُ وَيَرْحَمُ مَنْ يَشَاءُ ۖ وَإِلَيْهِ تُقْلَبُونَ",
-        "englishtrans": "YuAAaththibu man yashao wayarhamu man yashao wailayhi tuqlaboona",
         "en": "He causes to suffer whomever He wills, and bestows His mercy on whomever He wills; and unto Him you shall be made to return:",
-        "start": 0
+        "start": 80
       },
       {
         "text": "وَمَا أَنْتُمْ بِمُعْجِزِينَ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ ۖ وَمَا لَكُمْ مِنْ دُونِ اللَّهِ مِنْ وَلِيٍّ وَلَا نَصِيرٍ",
-        "englishtrans": "Wama antum bimuAAjizeena fee alardi wala fee alssamai wama lakum min dooni Allahi min waliyyin wala naseerin",
         "en": "and never - not on earth and not in the skies - can you [hope to] elude Him: and you have none to protect you from God, and none to bring you succour.”",
-        "start": 0
+        "start": 84
       },
       {
         "text": "وَالَّذِينَ كَفَرُوا بِآيَاتِ اللَّهِ وَلِقَائِهِ أُولَٰئِكَ يَئِسُوا مِنْ رَحْمَتِي وَأُولَٰئِكَ لَهُمْ عَذَابٌ أَلِيمٌ",
-        "englishtrans": "Waallatheena kafaroo biayati Allahi waliqaihi olaika yaisoo min rahmatee waolaika lahum AAathabun aleemun",
         "en": "And [thus it is:] they who are bent on denying the truth of God’s messages and of their [ultimate] meeting with Him - it is they who abandon all hope of My grace and mercy: and it is they whom grievous suffering awaits [in the life to come].",
-        "start": 0
+        "start": 88
       },
       {
         "text": "فَمَا كَانَ جَوَابَ قَوْمِهِ إِلَّا أَنْ قَالُوا اقْتُلُوهُ أَوْ حَرِّقُوهُ فَأَنْجَاهُ اللَّهُ مِنَ النَّارِ ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يُؤْمِنُونَ",
-        "englishtrans": "Fama kana jawaba qawmihi illa an qaloo oqtuloohu aw harriqoohu faanjahu Allahu mina alnnari inna fee thalika laayatin liqawmin yuminoona",
         "en": "Now [as for Abraham,] his people’s only answer was, “Slay him, or burn him!” – but God saved him from the fire. Behold, in this [story] there are messages indeed for people who will believe!",
-        "start": 0
+        "start": 92
       },
       {
         "text": "وَقَالَ إِنَّمَا اتَّخَذْتُمْ مِنْ دُونِ اللَّهِ أَوْثَانًا مَوَدَّةَ بَيْنِكُمْ فِي الْحَيَاةِ الدُّنْيَا ۖ ثُمَّ يَوْمَ الْقِيَامَةِ يَكْفُرُ بَعْضُكُمْ بِبَعْضٍ وَيَلْعَنُ بَعْضُكُمْ بَعْضًا وَمَأْوَاكُمُ النَّارُ وَمَا لَكُمْ مِنْ نَاصِرِينَ",
-        "englishtrans": "Waqala innama ittakhathtum min dooni Allahi awthanan mawaddata baynikum fee alhayati alddunya thumma yawma alqiyamati yakfuru baAAdukum bibaAAdin wayalAAanu baAAdukum baAAdan wamawakumu alnnaru wama lakum min nasireena",
         "en": "And [Abraham] said: “You have chosen to worship idols instead of God for no other reason than to have a bond of love in the life of this world, between yourselves [and your forebears]: but then, on Resurrection Day, you shall disown one another and curse one another - for the goal of you all will be the fire, and you will have none to succour you.",
-        "start": 0
+        "start": 96
       },
       {
         "text": "۞ فَآمَنَ لَهُ لُوطٌ ۘ وَقَالَ إِنِّي مُهَاجِرٌ إِلَىٰ رَبِّي ۖ إِنَّهُ هُوَ الْعَزِيزُ الْحَكِيمُ",
-        "englishtrans": "Faamana lahu lootun waqala innee muhajirun ila rabbee innahu huwa alAAazeezu alhakeemu",
         "en": "Thereupon [his brother’s son] Lot came to believe in him and said: “Verily, I [too] shall forsake the domain of evil [and turn] to my Sustainer: for, verily, He alone is almighty, truly wise!”",
-        "start": 0
+        "start": 100
       },
       {
         "text": "وَوَهَبْنَا لَهُ إِسْحَاقَ وَيَعْقُوبَ وَجَعَلْنَا فِي ذُرِّيَّتِهِ النُّبُوَّةَ وَالْكِتَابَ وَآتَيْنَاهُ أَجْرَهُ فِي الدُّنْيَا ۖ وَإِنَّهُ فِي الْآخِرَةِ لَمِنَ الصَّالِحِينَ",
-        "englishtrans": "Wawahabna lahu ishaqa wayaAAqooba wajaAAalna fee thurriyyatihi alnnubuwwata waalkitaba waataynahu ajrahu fee alddunya wainnahu fee alakhirati lamina alssaliheena",
         "en": "And [as for Abraham,] We bestowed upon him Isaac and [Isaac’s son] Jacob, and caused pro­phethood and revelation to continue among his offspring. And We vouchsafed him his reward in this world; and, verily, in the life to come [too] he shall find himself among the righteous.",
-        "start": 0
+        "start": 104
       },
       {
         "text": "وَلُوطًا إِذْ قَالَ لِقَوْمِهِ إِنَّكُمْ لَتَأْتُونَ الْفَاحِشَةَ مَا سَبَقَكُمْ بِهَا مِنْ أَحَدٍ مِنَ الْعَالَمِينَ",
-        "englishtrans": "Walootan ith qala liqawmihi innakum latatoona alfahishata ma sabaqakum biha min ahadin mina alAAalameena",
         "en": "And Lot, [too, was inspired by Us] when he said unto his people: “Verily, you commit abominations such as none in all the world has ever committed before you!",
-        "start": 0
+        "start": 108
       },
       {
         "text": "أَئِنَّكُمْ لَتَأْتُونَ الرِّجَالَ وَتَقْطَعُونَ السَّبِيلَ وَتَأْتُونَ فِي نَادِيكُمُ الْمُنْكَرَ ۖ فَمَا كَانَ جَوَابَ قَوْمِهِ إِلَّا أَنْ قَالُوا ائْتِنَا بِعَذَابِ اللَّهِ إِنْ كُنْتَ مِنَ الصَّادِقِينَ",
-        "englishtrans": "Ainnakum latatoona alrrijala wataqtaAAoona alssabeela watatoona fee nadeekumu almunkara fama kana jawaba qawmihi illa an qaloo itina biAAathabi Allahi in kunta mina alssadiqeena",
         "en": "Must you indeed approach men [with lust], and thus cut across the way [of nature]? and must you commit these shameful deeds in your open] assemblies?” But his people’s only answer was, “Bring down upon us God’s chastisement, if thou art a man of truth!”",
-        "start": 0
+        "start": 112
       },
       {
         "text": "قَالَ رَبِّ انْصُرْنِي عَلَى الْقَوْمِ الْمُفْسِدِينَ",
-        "englishtrans": "Qala rabbi onsurnee AAala alqawmi almufsideena",
         "en": "[And] he prayed: “O my Sustainer! Succour Thou me against these people who spread corrup­tion!”",
-        "start": 0
+        "start": 116
       },
       {
         "text": "وَلَمَّا جَاءَتْ رُسُلُنَا إِبْرَاهِيمَ بِالْبُشْرَىٰ قَالُوا إِنَّا مُهْلِكُو أَهْلِ هَٰذِهِ الْقَرْيَةِ ۖ إِنَّ أَهْلَهَا كَانُوا ظَالِمِينَ",
-        "englishtrans": "Walamma jaat rusuluna ibraheema bialbushra qaloo inna muhlikoo ahli hathihi alqaryati inna ahlaha kanoo thalimeena",
         "en": "And so, when Our [heavenly] messengers came to Abraham with the glad tiding [of the birth of Isaac], they [also] said, “Behold, we are about to destroy the people of that land, for its people are truly evildoers!”",
-        "start": 0
+        "start": 120
       },
       {
         "text": "قَالَ إِنَّ فِيهَا لُوطًا ۚ قَالُوا نَحْنُ أَعْلَمُ بِمَنْ فِيهَا ۖ لَنُنَجِّيَنَّهُ وَأَهْلَهُ إِلَّا امْرَأَتَهُ كَانَتْ مِنَ الْغَابِرِينَ",
-        "englishtrans": "Qala inna feeha lootan qaloo nahnu aAAlamu biman feeha lanunajjiyannahu waahlahu illa imraatahu kanat mina alghabireena",
         "en": "[And when Abraham] exclaimed, “But Lot lives there!” - they answered: We know fully well who is there; most certainly we shall save him and his household - all but his wife: she will indeed be among those that stay behind.”",
-        "start": 0
+        "start": 124
       },
       {
         "text": "وَلَمَّا أَنْ جَاءَتْ رُسُلُنَا لُوطًا سِيءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا وَقَالُوا لَا تَخَفْ وَلَا تَحْزَنْ ۖ إِنَّا مُنَجُّوكَ وَأَهْلَكَ إِلَّا امْرَأَتَكَ كَانَتْ مِنَ الْغَابِرِينَ",
-        "englishtrans": "Walamma an jaat rusuluna lootan seea bihim wadaqa bihim tharAAan waqaloo la takhaf wala tahzan inna munajjooka waahlaka illa imraataka kanat mina alghabireena",
         "en": "And when Our messengers came unto Lot, he was sorely grieved on their account, seeing that it was beyond his power to shield them; but they said: “Fear not, and grieve not! Behold, we shall save thee and thy household - all but thy wife: she will indeed be among those that stay behind.",
-        "start": 0
+        "start": 128
       },
       {
         "text": "إِنَّا مُنْزِلُونَ عَلَىٰ أَهْلِ هَٰذِهِ الْقَرْيَةِ رِجْزًا مِنَ السَّمَاءِ بِمَا كَانُوا يَفْسُقُونَ",
-        "englishtrans": "Inna munziloona AAala ahli hathihi alqaryati rijzan mina alssamai bima kanoo yafsuqoona",
         "en": "Verily, we shall bring down upon the people of this land a horror from heaven in requital of all their iniquitous doings!”",
-        "start": 0
+        "start": 132
       },
       {
         "text": "وَلَقَدْ تَرَكْنَا مِنْهَا آيَةً بَيِّنَةً لِقَوْمٍ يَعْقِلُونَ",
-        "englishtrans": "Walaqad tarakna minha ayatan bayyinatan liqawmin yaAAqiloona",
         "en": "And [so it happened; and] thereof, indeed, We have left a clear sign for people who use their reason.",
-        "start": 0
+        "start": 136
       },
       {
         "text": "وَإِلَىٰ مَدْيَنَ أَخَاهُمْ شُعَيْبًا فَقَالَ يَا قَوْمِ اعْبُدُوا اللَّهَ وَارْجُوا الْيَوْمَ الْآخِرَ وَلَا تَعْثَوْا فِي الْأَرْضِ مُفْسِدِينَ",
-        "englishtrans": "Waila madyana akhahum shuAAayban faqala ya qawmi oAAbudoo Allaha waorjoo alyawma alakhira wala taAAthaw fee alardi mufsideena",
         "en": "AND UNTO [the people of] Madyan [We sent] their brother Shu’ayb who thereupon said: “O my peo­ple! Worship God [alone], and look forward to the Last Day, and do not act wickedly on earth by spreading corruption!”",
-        "start": 0
+        "start": 140
       },
       {
         "text": "فَكَذَّبُوهُ فَأَخَذَتْهُمُ الرَّجْفَةُ فَأَصْبَحُوا فِي دَارِهِمْ جَاثِمِينَ",
-        "englishtrans": "Fakaththaboohu faakhathathumu alrrajfatu faasbahoo fee darihim jathimeena",
         "en": "But they gave him the lie. Thereupon an earthquake overtook them: and then they lay lifeless, in their very homes, on the ground.",
-        "start": 0
+        "start": 144
       },
       {
         "text": "وَعَادًا وَثَمُودَ وَقَدْ تَبَيَّنَ لَكُمْ مِنْ مَسَاكِنِهِمْ ۖ وَزَيَّنَ لَهُمُ الشَّيْطَانُ أَعْمَالَهُمْ فَصَدَّهُمْ عَنِ السَّبِيلِ وَكَانُوا مُسْتَبْصِرِينَ",
-        "englishtrans": "WaAAadan wathamooda waqad tabayyana lakum min masakinihim wazayyana lahumu alshshaytanu aAAmalahum fasaddahum AAani alssabeeli wakanoo mustabsireena",
         "en": "AND [the tribes of] Ad and Thamud [too, did We destroy -] as should have become obvious to you from [whatever there remains of] their dwellings. [They perished] because Satan had made their [sinful] doings seem goodly to them, and thus had barred them from the path [of God] despite their having been endowed with the ability to perceive the truth.",
-        "start": 0
+        "start": 148
       },
       {
         "text": "وَقَارُونَ وَفِرْعَوْنَ وَهَامَانَ ۖ وَلَقَدْ جَاءَهُمْ مُوسَىٰ بِالْبَيِّنَاتِ فَاسْتَكْبَرُوا فِي الْأَرْضِ وَمَا كَانُوا سَابِقِينَ",
-        "englishtrans": "Waqaroona wafirAAawna wahamana walaqad jaahum moosa bialbayyinati faistakbaroo fee alardi wama kanoo sabiqeena",
         "en": "And [thus, too, did We deal with] Qarun and Pharaoh, and Haman: to them had come Moses with all evidence of the truth, but they behaved arrogantly on earth [and rejected him]; and withal, they could not escape [Us].",
-        "start": 0
+        "start": 152
       },
       {
         "text": "فَكُلًّا أَخَذْنَا بِذَنْبِهِ ۖ فَمِنْهُمْ مَنْ أَرْسَلْنَا عَلَيْهِ حَاصِبًا وَمِنْهُمْ مَنْ أَخَذَتْهُ الصَّيْحَةُ وَمِنْهُمْ مَنْ خَسَفْنَا بِهِ الْأَرْضَ وَمِنْهُمْ مَنْ أَغْرَقْنَا ۚ وَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَٰكِنْ كَانُوا أَنْفُسَهُمْ يَظْلِمُونَ",
-        "englishtrans": "Fakullan akhathna bithanbihi faminhum man arsalna AAalayhi hasiban waminhum man akhathathu alssayhatu waminhum man khasafna bihi alarda waminhum man aghraqna wama kana Allahu liyathlimahum walakin kanoo anfusahum yathlimoona",
         "en": "For, every one of them, did We take to task for his sin: and so, upon some of them We let loose a deadly storm wind; and some of them were overtaken by a [sudden] blast; and some of them We caused to be swallowed by the earth: and some of them We caused to drown. And it was not God who wronged them, but it was they who had wronged themselves.",
-        "start": 0
+        "start": 156
       },
       {
         "text": "مَثَلُ الَّذِينَ اتَّخَذُوا مِنْ دُونِ اللَّهِ أَوْلِيَاءَ كَمَثَلِ الْعَنْكَبُوتِ اتَّخَذَتْ بَيْتًا ۖ وَإِنَّ أَوْهَنَ الْبُيُوتِ لَبَيْتُ الْعَنْكَبُوتِ ۖ لَوْ كَانُوا يَعْلَمُونَ",
-        "englishtrans": "Mathalu allatheena ittakhathoo min dooni Allahi awliyaa kamathali alAAankabooti ittakhathat baytan wainna awhana albuyooti labaytu alAAankabooti law kanoo yaAAlamoona",
         "en": "The parable of those who take [beings or forces] other than God for their protectors is that of the spider which makes for itself a house: for, behold, the frailest of all houses is the spiders house. Could they but understand this!",
-        "start": 0
+        "start": 160
       },
       {
         "text": "إِنَّ اللَّهَ يَعْلَمُ مَا يَدْعُونَ مِنْ دُونِهِ مِنْ شَيْءٍ ۚ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
-        "englishtrans": "Inna Allaha yaAAlamu ma yadAAoona min doonihi min shayin wahuwa alAAazeezu alhakeemu",
         "en": "Verily, God knows whatever it is that men invoke instead of Him for He alone is almighty, truly wise.",
-        "start": 0
+        "start": 164
       },
       {
         "text": "وَتِلْكَ الْأَمْثَالُ نَضْرِبُهَا لِلنَّاسِ ۖ وَمَا يَعْقِلُهَا إِلَّا الْعَالِمُونَ",
-        "englishtrans": "Watilka alamthalu nadribuha lilnnasi wama yaAAqiluha illa alAAalimoona",
         "en": "And so We propound these parables unto man: but none can grasp their innermost meaning save those who [of Us] are aware",
-        "start": 0
+        "start": 168
       },
       {
         "text": "خَلَقَ اللَّهُ السَّمَاوَاتِ وَالْأَرْضَ بِالْحَقِّ ۚ إِنَّ فِي ذَٰلِكَ لَآيَةً لِلْمُؤْمِنِينَ",
-        "englishtrans": "Khalaqa Allahu alssamawati waalarda bialhaqqi inna fee thalika laayatan lilmumineena",
         "en": "[and hence are certain that] God has created the heavens and the earth in accordance with [an inner] truth: for, behold, in this [very creation] there is a message indeed for all who believe [in Him].",
-        "start": 0
+        "start": 172
       },
       {
         "text": "اتْلُ مَا أُوحِيَ إِلَيْكَ مِنَ الْكِتَابِ وَأَقِمِ الصَّلَاةَ ۖ إِنَّ الصَّلَاةَ تَنْهَىٰ عَنِ الْفَحْشَاءِ وَالْمُنْكَرِ ۗ وَلَذِكْرُ اللَّهِ أَكْبَرُ ۗ وَاللَّهُ يَعْلَمُ مَا تَصْنَعُونَ",
-        "englishtrans": "Otlu ma oohiya ilayka mina alkitabi waaqimi alssalata inna alssalata tanha AAani alfahshai waalmunkari walathikru Allahi akbaru waAllahu yaAAlamu ma tasnaAAoona",
         "en": "CONVEY [unto others] whatever of this divine writ has been revealed unto thee, and be constant in prayer: for, behold, prayer restrains [man] from loathsome deeds and from all that runs counter to reason; and remembrance of God is indeed the greatest [good]. And God knows all that you do.",
-        "start": 0
+        "start": 176
       },
       {
         "text": "۞ وَلَا تُجَادِلُوا أَهْلَ الْكِتَابِ إِلَّا بِالَّتِي هِيَ أَحْسَنُ إِلَّا الَّذِينَ ظَلَمُوا مِنْهُمْ ۖ وَقُولُوا آمَنَّا بِالَّذِي أُنْزِلَ إِلَيْنَا وَأُنْزِلَ إِلَيْكُمْ وَإِلَٰهُنَا وَإِلَٰهُكُمْ وَاحِدٌ وَنَحْنُ لَهُ مُسْلِمُونَ",
-        "englishtrans": "Wala tujadiloo ahla alkitabi illa biallatee hiya ahsanu illa allatheena thalamoo minhum waqooloo amanna biallathee onzila ilayna waonzila ilaykum wailahuna wailahukum wahidun wanahnu lahu muslimoona",
         "en": "And do not argue with the followers of earlier revelation otherwise than in a most kindly manner - unless it be such of them as are bent on evildoing and say: “We believe in that which has been be­stowed from on high upon us, as well as that which has been bestowed upon you: or our God and your God is one and the same, and it is unto Him that We [all] surrender ourselves.”",
-        "start": 0
+        "start": 180
       },
       {
         "text": "وَكَذَٰلِكَ أَنْزَلْنَا إِلَيْكَ الْكِتَابَ ۚ فَالَّذِينَ آتَيْنَاهُمُ الْكِتَابَ يُؤْمِنُونَ بِهِ ۖ وَمِنْ هَٰؤُلَاءِ مَنْ يُؤْمِنُ بِهِ ۚ وَمَا يَجْحَدُ بِآيَاتِنَا إِلَّا الْكَافِرُونَ",
-        "englishtrans": "Wakathalika anzalna ilayka alkitaba faallatheena ataynahumu alkitaba yuminoona bihi wamin haolai man yuminu bihi wama yajhadu biayatina illa alkafiroona",
         "en": "For it is thus that We have bestowed this divine writ from on high upon thee [O Muhammad]. And they to whom we have vouchsafed this divine writ believe in it just as among those [followers of earlier revelation] there are some who believe in it. And none could knowingly reject Our messages unless it be such as would deny [an obvious] truth:",
-        "start": 0
+        "start": 184
       },
       {
         "text": "وَمَا كُنْتَ تَتْلُو مِنْ قَبْلِهِ مِنْ كِتَابٍ وَلَا تَخُطُّهُ بِيَمِينِكَ ۖ إِذًا لَارْتَابَ الْمُبْطِلُونَ",
-        "englishtrans": "Wama kunta tatloo min qablihi min kitabin wala takhuttuhu biyameenika ithan lairtaba almubtiloona",
         "en": "for, [O Muhammad,] thou hast never been able to recite any divine writ ere this one [was revealed], nor didst thou ever transcribe one with your own hand or else, they who try to disprove the truth [of thy revelation] might indeed have had cause to doubt [it].",
-        "start": 0
+        "start": 188
       },
       {
         "text": "بَلْ هُوَ آيَاتٌ بَيِّنَاتٌ فِي صُدُورِ الَّذِينَ أُوتُوا الْعِلْمَ ۚ وَمَا يَجْحَدُ بِآيَاتِنَا إِلَّا الظَّالِمُونَ",
-        "englishtrans": "Bal huwa ayatun bayyinatun fee sudoori allatheena ootoo alAAilma wama yajhadu biayatina illa alththalimoona",
         "en": "Nay, but this [divine writ] consists of messages clear to the hearts of all who are gifted with [innate] knowledge and none could knowingly reject Our messages unless it be such as would do wrong [to themselves].",
-        "start": 0
+        "start": 192
       },
       {
         "text": "وَقَالُوا لَوْلَا أُنْزِلَ عَلَيْهِ آيَاتٌ مِنْ رَبِّهِ ۖ قُلْ إِنَّمَا الْآيَاتُ عِنْدَ اللَّهِ وَإِنَّمَا أَنَا نَذِيرٌ مُبِينٌ",
-        "englishtrans": "Waqaloo lawla onzila AAalayhi ayatun min rabbihi qul innama alayatu AAinda Allahi wainnama ana natheerun mubeenun",
         "en": "And yet they say, “Why have no miraculous signs ever been bestowed upon him from on high by his Sustainer?” Say: “Miracles are in the power of God alone; and as for me - I am but a plain warner.”",
-        "start": 0
+        "start": 196
       },
       {
         "text": "أَوَلَمْ يَكْفِهِمْ أَنَّا أَنْزَلْنَا عَلَيْكَ الْكِتَابَ يُتْلَىٰ عَلَيْهِمْ ۚ إِنَّ فِي ذَٰلِكَ لَرَحْمَةً وَذِكْرَىٰ لِقَوْمٍ يُؤْمِنُونَ",
-        "englishtrans": "Awalam yakfihim anna anzalna AAalayka alkitaba yutla AAalayhim inna fee thalika larahmatan wathikra liqawmin yuminoona",
         "en": "Why - is it not enough for them that We have bestowed this divine writ on thee from on high, to be conveyed [by thee] to them? For, verily, in it is [manifested Our] grace, and a reminder to people who will believe.",
-        "start": 0
+        "start": 200
       },
       {
         "text": "قُلْ كَفَىٰ بِاللَّهِ بَيْنِي وَبَيْنَكُمْ شَهِيدًا ۖ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۗ وَالَّذِينَ آمَنُوا بِالْبَاطِلِ وَكَفَرُوا بِاللَّهِ أُولَٰئِكَ هُمُ الْخَاسِرُونَ",
-        "englishtrans": "Qul kafa biAllahi baynee wabaynakum shaheedan yaAAlamu ma fee alssamawati waalardi waallatheena amanoo bialbatili wakafaroo biAllahi olaika humu alkhasiroona",
         "en": "Say [unto those who will not believe]: “God is witness enough between me and you! He knows all that is in the heavens and on earth; and they who are bent on believing in what is false and vain, and thus on denying God - it is they, they who shall be the losers!”",
-        "start": 0
+        "start": 204
       },
       {
         "text": "وَيَسْتَعْجِلُونَكَ بِالْعَذَابِ ۚ وَلَوْلَا أَجَلٌ مُسَمًّى لَجَاءَهُمُ الْعَذَابُ وَلَيَأْتِيَنَّهُمْ بَغْتَةً وَهُمْ لَا يَشْعُرُونَ",
-        "englishtrans": "WayastaAAjiloonaka bialAAathabi walawla ajalun musamman lajaahumu alAAathabu walayatiyannahum baghtatan wahum la yashAAuroona",
         "en": "Now they challenge thee to hasten the coming upon them of [God’s] chastisement: and indeed, had not a term been set [for it by God], that suffering would already have come upon them! But indeed, it will most certainly come upon them of a sudden, and they will be taken unawares.",
-        "start": 0
+        "start": 208
       },
       {
         "text": "يَسْتَعْجِلُونَكَ بِالْعَذَابِ وَإِنَّ جَهَنَّمَ لَمُحِيطَةٌ بِالْكَافِرِينَ",
-        "englishtrans": "YastaAAjiloonaka bialAAathabi wainna jahannama lamuheetatun bialkafireena",
         "en": "They challenge thee to hasten the coming upon them of [God’s] chastisement: but, verily, hell is bound to encompass all who deny the truth –",
-        "start": 0
+        "start": 212
       },
       {
         "text": "يَوْمَ يَغْشَاهُمُ الْعَذَابُ مِنْ فَوْقِهِمْ وَمِنْ تَحْتِ أَرْجُلِهِمْ وَيَقُولُ ذُوقُوا مَا كُنْتُمْ تَعْمَلُونَ",
-        "englishtrans": "Yawma yaghshahumu alAAathabu min fawqihim wamin tahti arjulihim wayaqoolu thooqoo ma kuntum taAAmaloona",
         "en": "[encompass them] on the Day when suffering will overwhelm them from above them and from beneath their feet, whereupon He shall say: “Taste [now the fruit of] your own doings!”",
-        "start": 0
+        "start": 216
       },
       {
         "text": "يَا عِبَادِيَ الَّذِينَ آمَنُوا إِنَّ أَرْضِي وَاسِعَةٌ فَإِيَّايَ فَاعْبُدُونِ",
-        "englishtrans": "Ya AAibadiya allatheena amanoo inna ardee wasiAAatun faiyyaya faoAAbudooni",
         "en": "O YOU servants of Mine who have attained to faith! Behold, wide is Mine earth: worship Me, then, Me alone!",
-        "start": 0
+        "start": 220
       },
       {
         "text": "كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ ۖ ثُمَّ إِلَيْنَا تُرْجَعُونَ",
-        "englishtrans": "Kullu nafsin thaiqatu almawti thumma ilayna turjaAAoona",
         "en": "Every human being is bound to taste death, [and] in the end unto Us shall all be brought back:",
-        "start": 0
+        "start": 224
       },
       {
         "text": "وَالَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَنُبَوِّئَنَّهُمْ مِنَ الْجَنَّةِ غُرَفًا تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا ۚ نِعْمَ أَجْرُ الْعَامِلِينَ",
-        "englishtrans": "Waallatheena amanoo waAAamiloo alssalihati lanubawwiannahum mina aljannati ghurafan tajree min tahtiha alanharu khalideena feeha niAAma ajru alAAamileena",
         "en": "whereupon unto those who have attained to faith and wrought good works We shall most certainly assign mansions in that paradise through which run­ning waters flow, therein to abide: how excellent a reward for those who labour –",
-        "start": 0
+        "start": 228
       },
       {
         "text": "الَّذِينَ صَبَرُوا وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
-        "englishtrans": "Allatheena sabaroo waAAala rabbihim yatawakkaloona",
         "en": "those who are patient in adversity and in their Sustainer place their trust!",
-        "start": 0
+        "start": 232
       },
       {
         "text": "وَكَأَيِّنْ مِنْ دَابَّةٍ لَا تَحْمِلُ رِزْقَهَا اللَّهُ يَرْزُقُهَا وَإِيَّاكُمْ ۚ وَهُوَ السَّمِيعُ الْعَلِيمُ",
-        "englishtrans": "Wakaayyin min dabbatin la tahmilu rizqaha Allahu yarzuquha waiyyakum wahuwa alssameeAAu alAAaleemu",
         "en": "And how many a living creature is there that takes no thought of its own sustenance; [the while] God provides for it as [He provides] for you - since He alone is all-hearing, all-knowing.",
-        "start": 0
+        "start": 236
       },
       {
         "text": "وَلَئِنْ سَأَلْتَهُمْ مَنْ خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ لَيَقُولُنَّ اللَّهُ ۖ فَأَنَّىٰ يُؤْفَكُونَ",
-        "englishtrans": "Walain saaltahum man khalaqa alssamawati waalarda wasakhkhara alshshamsa waalqamara layaqoolunna Allahu faanna yufakoona",
         "en": "And thus it is [with most people]: if thou ask them, “Who is it that has created the heavens and the earth, and made the sun and the moon subservi­ent [to His laws]?” - they will surely answer, “God.” How perverted, then, are their minds!",
-        "start": 0
+        "start": 240
       },
       {
         "text": "اللَّهُ يَبْسُطُ الرِّزْقَ لِمَنْ يَشَاءُ مِنْ عِبَادِهِ وَيَقْدِرُ لَهُ ۚ إِنَّ اللَّهَ بِكُلِّ شَيْءٍ عَلِيمٌ",
-        "englishtrans": "Allahu yabsutu alrrizqa liman yashao min AAibadihi wayaqdiru lahu inna Allaha bikulli shayin AAaleemun",
         "en": "God grants abundant sustenance, or gives it in scant measure, to whichever He wills of His crea­tures: for, behold, God has full knowledge of every­thing.",
-        "start": 0
+        "start": 244
       },
       {
         "text": "وَلَئِنْ سَأَلْتَهُمْ مَنْ نَزَّلَ مِنَ السَّمَاءِ مَاءً فَأَحْيَا بِهِ الْأَرْضَ مِنْ بَعْدِ مَوْتِهَا لَيَقُولُنَّ اللَّهُ ۚ قُلِ الْحَمْدُ لِلَّهِ ۚ بَلْ أَكْثَرُهُمْ لَا يَعْقِلُونَ",
-        "englishtrans": "Walain saaltahum man nazzala mina alssamai maan faahya bihi alarda min baAAdi mawtiha layaqoolunna Allahu quli alhamdu lillahi bal aktharuhum la yaAAqiloona",
         "en": "And thus it is: if thou ask them, “Who is it that sends down water from the skies, giving life thereby to the earth after it had been lifeless?” - they will surely answer, “God.” Say thou: “[Since this is so,] all praise is due to God [alone]!” But most of them will not use their reason:",
-        "start": 0
+        "start": 248
       },
       {
         "text": "وَمَا هَٰذِهِ الْحَيَاةُ الدُّنْيَا إِلَّا لَهْوٌ وَلَعِبٌ ۚ وَإِنَّ الدَّارَ الْآخِرَةَ لَهِيَ الْحَيَوَانُ ۚ لَوْ كَانُوا يَعْلَمُونَ",
-        "englishtrans": "Wama hathihi alhayatu alddunya illa lahwun walaAAibun wainna alddara alakhirata lahiya alhayawanu law kanoo yaAAlamoona",
         "en": "for, [if they did, they would know that] the life of this world is nothing but a passing delight and a play - whereas, behold, the life in the hereafter is indeed the only [true] life: if they but knew this!",
-        "start": 0
+        "start": 252
       },
       {
         "text": "فَإِذَا رَكِبُوا فِي الْفُلْكِ دَعَوُا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ فَلَمَّا نَجَّاهُمْ إِلَى الْبَرِّ إِذَا هُمْ يُشْرِكُونَ",
-        "englishtrans": "Faitha rakiboo fee alfulki daAAawoo Allaha mukhliseena lahu alddeena falamma najjahum ila albarri itha hum yushrikoona",
         "en": "And so, when they embark on a ship [and find themselves in danger], they call unto God, [at that moment] sincere in their faith in Him alone; but as soon as He has brought them safe ashore, they [begin to] ascribe to imaginary powers a share in His divinity:",
-        "start": 0
+        "start": 256
       },
       {
         "text": "لِيَكْفُرُوا بِمَا آتَيْنَاهُمْ وَلِيَتَمَتَّعُوا ۖ فَسَوْفَ يَعْلَمُونَ",
-        "englishtrans": "Liyakfuroo bima ataynahum waliyatamattaAAoo fasawfa yaAAlamoona",
         "en": "and thus they show utter ingratitude for all that We have vouchsafed them, and go on [thoughtlessly] enjoying their worldly life.",
-        "start": 0
+        "start": 260
       },
       {
         "text": "أَوَلَمْ يَرَوْا أَنَّا جَعَلْنَا حَرَمًا آمِنًا وَيُتَخَطَّفُ النَّاسُ مِنْ حَوْلِهِمْ ۚ أَفَبِالْبَاطِلِ يُؤْمِنُونَ وَبِنِعْمَةِ اللَّهِ يَكْفُرُونَ",
-        "englishtrans": "Awalam yaraw anna jaAAalna haraman aminan wayutakhattafu alnnasu min hawlihim afabialbatili yuminoona wabiniAAmati Allahi yakfuroona",
         "en": "Are they, then, not aware that We have set up a sanctuary secure [for those who believe in Us], the while all around them men are being carried away [by fear and despair]? Will they, then, [continue to] believe in things false and vain, and thus deny God’s blessings.",
-        "start": 0
+        "start": 264
       },
       {
         "text": "وَمَنْ أَظْلَمُ مِمَّنِ افْتَرَىٰ عَلَى اللَّهِ كَذِبًا أَوْ كَذَّبَ بِالْحَقِّ لَمَّا جَاءَهُ ۚ أَلَيْسَ فِي جَهَنَّمَ مَثْوًى لِلْكَافِرِينَ",
-        "englishtrans": "Waman athlamu mimmani iftara AAala Allahi kathiban aw kaththaba bialhaqqi lamma jaahu alaysa fee jahannama mathwan lilkafireena",
         "en": "And who could be more wicked than he who attributes his own lying inventions to God, or gives the lie to the truth when it comes unto him [through revelation]? Is not hell the [proper] abode for all who [thus] deny the truth?",
-        "start": 0
+        "start": 268
       },
       {
         "text": "وَالَّذِينَ جَاهَدُوا فِينَا لَنَهْدِيَنَّهُمْ سُبُلَنَا ۚ وَإِنَّ اللَّهَ لَمَعَ الْمُحْسِنِينَ",
-        "englishtrans": "Waallatheena jahadoo feena lanahdiyannahum subulana wainna Allaha lamaAAa almuhsineena",
         "en": "But as for those who strive hard in Our cause -We shall most certainly guide them onto paths that lead unto Us: for, behold, God is indeed with the doers of good.",
-        "start": 0
+        "start": 272
       }
     ]
   },
@@ -20843,363 +20686,303 @@
     "verses": [
       {
         "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ الم",
-        "englishtrans": "Aliflammeem",
         "en": "Alif. Lam. Mim.",
         "start": 0
       },
       {
         "text": "غُلِبَتِ الرُّومُ",
-        "englishtrans": "Ghulibati alrroomu",
         "en": "Defeated have been the Byzantines",
-        "start": 0
+        "start": 4
       },
       {
         "text": "فِي أَدْنَى الْأَرْضِ وَهُمْ مِنْ بَعْدِ غَلَبِهِمْ سَيَغْلِبُونَ",
-        "englishtrans": "Fee adna alardi wahum min baAAdi ghalabihim sayaghliboona",
         "en": "in the lands close-by; yet it is they who, notwithstanding this their defeat, shall be victorious",
-        "start": 0
+        "start": 8
       },
       {
         "text": "فِي بِضْعِ سِنِينَ ۗ لِلَّهِ الْأَمْرُ مِنْ قَبْلُ وَمِنْ بَعْدُ ۚ وَيَوْمَئِذٍ يَفْرَحُ الْمُؤْمِنُونَ",
-        "englishtrans": "Fee bidAAi sineena lillahi alamru min qablu wamin baAAdu wayawmaithin yafrahu almuminoona",
         "en": "within a few years: [for] with God rests all power of decision, first and last. And on that day will the believers [too, have cause to] rejoice",
-        "start": 0
+        "start": 12
       },
       {
         "text": "بِنَصْرِ اللَّهِ ۚ يَنْصُرُ مَنْ يَشَاءُ ۖ وَهُوَ الْعَزِيزُ الرَّحِيمُ",
-        "englishtrans": "Binasri Allahi yansuru man yashao wahuwa alAAazeezu alrraheemu",
         "en": "in God’s succour: [for] He gives suc­cour to whomever He wills, since He alone is almighty, a dispenser of grace.",
-        "start": 0
+        "start": 16
       },
       {
         "text": "وَعْدَ اللَّهِ ۖ لَا يُخْلِفُ اللَّهُ وَعْدَهُ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
-        "englishtrans": "WaAAda Allahi la yukhlifu Allahu waAAdahu walakinna akthara alnnasi la yaAAlamoona",
         "en": "[This is] God’s promise. Never does God fail to fulfill His promise - but most people know [it] not:",
-        "start": 0
+        "start": 20
       },
       {
         "text": "يَعْلَمُونَ ظَاهِرًا مِنَ الْحَيَاةِ الدُّنْيَا وَهُمْ عَنِ الْآخِرَةِ هُمْ غَافِلُونَ",
-        "englishtrans": "YaAAlamoona thahiran mina alhayati alddunya wahum AAani alakhirati hum ghafiloona",
         "en": "they know but the outer surface of this world’s life, whereas of the ultimate things they are utterly un­aware.",
-        "start": 0
+        "start": 24
       },
       {
         "text": "أَوَلَمْ يَتَفَكَّرُوا فِي أَنْفُسِهِمْ ۗ مَا خَلَقَ اللَّهُ السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا إِلَّا بِالْحَقِّ وَأَجَلٍ مُسَمًّى ۗ وَإِنَّ كَثِيرًا مِنَ النَّاسِ بِلِقَاءِ رَبِّهِمْ لَكَافِرُونَ",
-        "englishtrans": "Awalam yatafakkaroo fee anfusihim ma khalaqa Allahu alssamawati waalarda wama baynahuma illa bialhaqqi waajalin musamman wainna katheeran mina alnnasi biliqai rabbihim lakafiroona",
         "en": "Have they never learned to think for them­selves? God has not created the heavens and the earth and all that is between them without [an inner] truth and a term set [by Him]: and yet, behold, there are many people who stubbornly deny the truth that they are destined to meet their Sustainer!",
-        "start": 0
+        "start": 28
       },
       {
         "text": "أَوَلَمْ يَسِيرُوا فِي الْأَرْضِ فَيَنْظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِنْ قَبْلِهِمْ ۚ كَانُوا أَشَدَّ مِنْهُمْ قُوَّةً وَأَثَارُوا الْأَرْضَ وَعَمَرُوهَا أَكْثَرَ مِمَّا عَمَرُوهَا وَجَاءَتْهُمْ رُسُلُهُمْ بِالْبَيِّنَاتِ ۖ فَمَا كَانَ اللَّهُ لِيَظْلِمَهُمْ وَلَٰكِنْ كَانُوا أَنْفُسَهُمْ يَظْلِمُونَ",
-        "englishtrans": "Awalam yaseeroo fee alardi fayanthuroo kayfa kana AAaqibatu allatheena min qablihim kanoo ashadda minhum quwwatan waatharoo alarda waAAamarooha akthara mimma AAamarooha wajaathum rusuluhum bialbayyinati fama kana Allahu liyathlimahum walakin kanoo anfusahum yathlimoona",
         "en": "Have they, then, never journeyed about the earth and beheld what happened in the end to those [deniers of the truth] who lived before their time? Greater were they in power than they are; and they left a stronger impact on the earth, and built it up even better than these [are doing]; and to them [too] came their apostles with all evidence of the truth: and so, [when they rejected the truth and thereupon perished,] it was not God who wronged them, but it was they who had wronged themselves.",
-        "start": 0
+        "start": 32
       },
       {
         "text": "ثُمَّ كَانَ عَاقِبَةَ الَّذِينَ أَسَاءُوا السُّوأَىٰ أَنْ كَذَّبُوا بِآيَاتِ اللَّهِ وَكَانُوا بِهَا يَسْتَهْزِئُونَ",
-        "englishtrans": "Thumma kana AAaqibata allatheena asaoo alssooa an kaththaboo biayati Allahi wakanoo biha yastahzioona",
         "en": "And once again: evil is bound to be the end of those who do evil by giving the lie to God’s messages and deriding them.",
-        "start": 0
+        "start": 36
       },
       {
         "text": "اللَّهُ يَبْدَأُ الْخَلْقَ ثُمَّ يُعِيدُهُ ثُمَّ إِلَيْهِ تُرْجَعُونَ",
-        "englishtrans": "Allahu yabdao alkhalqa thumma yuAAeeduhu thumma ilayhi turjaAAoona",
         "en": "GOD CREATES [man] in the first instance, and then brings him forth anew: and, in the end, unto Him you all will be brought back.",
-        "start": 0
+        "start": 40
       },
       {
         "text": "وَيَوْمَ تَقُومُ السَّاعَةُ يُبْلِسُ الْمُجْرِمُونَ",
-        "englishtrans": "Wayawma taqoomu alssaAAatu yublisu almujrimoona",
         "en": "And when the last Hour dawns, those who were lost in sin will be broken in spirit",
-        "start": 0
+        "start": 44
       },
       {
         "text": "وَلَمْ يَكُنْ لَهُمْ مِنْ شُرَكَائِهِمْ شُفَعَاءُ وَكَانُوا بِشُرَكَائِهِمْ كَافِرِينَ",
-        "englishtrans": "Walam yakun lahum min shurakaihim shufaAAao wakanoo bishurakaihim kafireena",
         "en": "for they will have no intercessors in the beings to whom they were wont to ascribe a share in God’s divinity, seeing that [by then] they themselves will have ceased to believe in their erstwhile blasphemous fancies.",
-        "start": 0
+        "start": 48
       },
       {
         "text": "وَيَوْمَ تَقُومُ السَّاعَةُ يَوْمَئِذٍ يَتَفَرَّقُونَ",
-        "englishtrans": "Wayawma taqoomu alssaAAatu yawmaithin yatafarraqoona",
         "en": "And when the Last Hour dawns - on that Day will all [men] be sorted out:",
-        "start": 0
+        "start": 52
       },
       {
         "text": "فَأَمَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَهُمْ فِي رَوْضَةٍ يُحْبَرُونَ",
-        "englishtrans": "Faamma allatheena amanoo waAAamiloo alssalihati fahum fee rawdatin yuhbaroona",
         "en": "as for those who attained to faith and did righteous deeds, they shall be made happy in a garden of delight;",
-        "start": 0
+        "start": 56
       },
       {
         "text": "وَأَمَّا الَّذِينَ كَفَرُوا وَكَذَّبُوا بِآيَاتِنَا وَلِقَاءِ الْآخِرَةِ فَأُولَٰئِكَ فِي الْعَذَابِ مُحْضَرُونَ",
-        "englishtrans": "Waamma allatheena kafaroo wakaththaboo biayatina waliqai alakhirati faolaika fee alAAathabi muhdaroona",
         "en": "but as for those who refused to acknowledge the truth and gave the lie to Our messages - and (thus) to the announce­ment of a life to come - they will be given over to suffering.",
-        "start": 0
+        "start": 60
       },
       {
         "text": "فَسُبْحَانَ اللَّهِ حِينَ تُمْسُونَ وَحِينَ تُصْبِحُونَ",
-        "englishtrans": "Fasubhana Allahi heena tumsoona waheena tusbihoona",
         "en": "EXTOL, then, God’s limitless glory when you enter upon the evening hours, and when you rise at morn;",
-        "start": 0
+        "start": 64
       },
       {
         "text": "وَلَهُ الْحَمْدُ فِي السَّمَاوَاتِ وَالْأَرْضِ وَعَشِيًّا وَحِينَ تُظْهِرُونَ",
-        "englishtrans": "Walahu alhamdu fee alssamawati waalardi waAAashiyyan waheena tuthhiroona",
         "en": "and [seeing that] unto Him is due all praise in the heavens and on earth, [glorify Him] in the afternoon as well, and when you enter upon the hour of noon.",
-        "start": 0
+        "start": 68
       },
       {
         "text": "يُخْرِجُ الْحَيَّ مِنَ الْمَيِّتِ وَيُخْرِجُ الْمَيِّتَ مِنَ الْحَيِّ وَيُحْيِي الْأَرْضَ بَعْدَ مَوْتِهَا ۚ وَكَذَٰلِكَ تُخْرَجُونَ",
-        "englishtrans": "Yukhriju alhayya mina almayyiti wayukhriju almayyita mina alhayyi wayuhyee alarda baAAda mawtiha wakathalika tukhrajoona",
         "en": "He [it is who] brings forth the living out of that which is dead, and brings forth the dead out of that which is alive, and gives life to the earth after it had been lifeless: and even thus will you be brought forth [from death to life]",
-        "start": 0
+        "start": 72
       },
       {
         "text": "وَمِنْ آيَاتِهِ أَنْ خَلَقَكُمْ مِنْ تُرَابٍ ثُمَّ إِذَا أَنْتُمْ بَشَرٌ تَنْتَشِرُونَ",
-        "englishtrans": "Wamin ayatihi an khalaqakum min turabin thumma itha antum basharun tantashiroona",
         "en": "And among His wonders is this: He creates you out of dust – and then, lo! you become human beings ranging far and wide!",
-        "start": 0
+        "start": 76
       },
       {
         "text": "وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُمْ مِنْ أَنْفُسِكُمْ أَزْوَاجًا لِتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُمْ مَوَدَّةً وَرَحْمَةً ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يَتَفَكَّرُونَ",
-        "englishtrans": "Wamin ayatihi an khalaqa lakum min anfusikum azwajan litaskunoo ilayha wajaAAala baynakum mawaddatan warahmatan inna fee thalika laayatin liqawmin yatafakkaroona",
         "en": "And among His wonders is this: He creates for you mates out of your own kind. so that you might incline towards them, and He engenders love and tenderness between you: in this, behold, there are messages indeed for people who think!",
-        "start": 0
+        "start": 80
       },
       {
         "text": "وَمِنْ آيَاتِهِ خَلْقُ السَّمَاوَاتِ وَالْأَرْضِ وَاخْتِلَافُ أَلْسِنَتِكُمْ وَأَلْوَانِكُمْ ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِلْعَالِمِينَ",
-        "englishtrans": "Wamin ayatihi khalqu alssamawati waalardi waikhtilafu alsinatikum waalwanikum inna fee thalika laayatin lilAAalimeena",
         "en": "And among his wonders is the creation of the heavens and the earth, and the diversity of your tongues and colours: for in this, behold, there are messages indeed for all who are possessed of [innate] knowledge!",
-        "start": 0
+        "start": 84
       },
       {
         "text": "وَمِنْ آيَاتِهِ مَنَامُكُمْ بِاللَّيْلِ وَالنَّهَارِ وَابْتِغَاؤُكُمْ مِنْ فَضْلِهِ ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يَسْمَعُونَ",
-        "englishtrans": "Wamin ayatihi manamukum biallayli waalnnahari waibtighaokum min fadlihi inna fee thalika laayatin liqawmin yasmaAAoona",
         "en": "And among His wonders is your sleep, at night or in daytime, as well as your [ability to go about in] quest of some of His bounties: in this, behold, there are messages indeed for people who [are willing to] listen!",
-        "start": 0
+        "start": 88
       },
       {
         "text": "وَمِنْ آيَاتِهِ يُرِيكُمُ الْبَرْقَ خَوْفًا وَطَمَعًا وَيُنَزِّلُ مِنَ السَّمَاءِ مَاءً فَيُحْيِي بِهِ الْأَرْضَ بَعْدَ مَوْتِهَا ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يَعْقِلُونَ",
-        "englishtrans": "Wamin ayatihi yureekumu albarqa khawfan watamaAAan wayunazzilu mina alssamai maan fayuhyee bihi alarda baAAda mawtiha inna fee thalika laayatin liqawmin yaAAqiloona",
         "en": "And among His wonders is this: He displays before you the lightning, giving rise to [both] fear and hope, and sends down water from the skies, giving life thereby to the earth after it had been lifeless: in this, behold, there are messages indeed for people who use their reason!",
-        "start": 0
+        "start": 92
       },
       {
         "text": "وَمِنْ آيَاتِهِ أَنْ تَقُومَ السَّمَاءُ وَالْأَرْضُ بِأَمْرِهِ ۚ ثُمَّ إِذَا دَعَاكُمْ دَعْوَةً مِنَ الْأَرْضِ إِذَا أَنْتُمْ تَخْرُجُونَ",
-        "englishtrans": "Wamin ayatihi an taqooma alssamao waalardu biamrihi thumma itha daAAakum daAAwatan mina alardi itha antum takhrujoona",
         "en": "And among His wonders is this: the skies and the earth stand firm at His behest. [Remember all this: for] in the end, when He will call you forth from the earth with a single call - lo! you will [all] emerge [for judgment].",
-        "start": 0
+        "start": 96
       },
       {
         "text": "وَلَهُ مَنْ فِي السَّمَاوَاتِ وَالْأَرْضِ ۖ كُلٌّ لَهُ قَانِتُونَ",
-        "englishtrans": "Walahu man fee alssamawati waalardi kullun lahu qanitoona",
         "en": "For, unto Him belongs every being that is in the heavens and on earth; all things devoutly obey His will.",
-        "start": 0
+        "start": 100
       },
       {
         "text": "وَهُوَ الَّذِي يَبْدَأُ الْخَلْقَ ثُمَّ يُعِيدُهُ وَهُوَ أَهْوَنُ عَلَيْهِ ۚ وَلَهُ الْمَثَلُ الْأَعْلَىٰ فِي السَّمَاوَاتِ وَالْأَرْضِ ۚ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
-        "englishtrans": "Wahuwa allathee yabdao alkhalqa thumma yuAAeeduhu wahuwa ahwanu AAalayhi walahu almathalu alaAAla fee alssamawati waalardi wahuwa alAAazeezu alhakeemu",
         "en": "And He it is who creates [all life] in the first instance, and then brings it forth anew: and most easy is this for Him, since His is the essence of all that is most sublime in the heavens and on earth, and He alone is almighty, truly wise.",
-        "start": 0
+        "start": 104
       },
       {
         "text": "ضَرَبَ لَكُمْ مَثَلًا مِنْ أَنْفُسِكُمْ ۖ هَلْ لَكُمْ مِنْ مَا مَلَكَتْ أَيْمَانُكُمْ مِنْ شُرَكَاءَ فِي مَا رَزَقْنَاكُمْ فَأَنْتُمْ فِيهِ سَوَاءٌ تَخَافُونَهُمْ كَخِيفَتِكُمْ أَنْفُسَكُمْ ۚ كَذَٰلِكَ نُفَصِّلُ الْآيَاتِ لِقَوْمٍ يَعْقِلُونَ",
-        "englishtrans": "Daraba lakum mathalan min anfusikum hal lakum mi mma malakat aymanukum min shurakaa fee ma razaqnakum faantum feehi sawaon takhafoonahum kakheefatikum anfusakum kathalika nufassilu alayati liqawmin yaAAqiloona",
         "en": "He propounds unto you a parable drawn from your own life: Would you [agree to] have some of those whom your right hands possess as [full-fledged] partners in whatever We may have bestowed upon you as sustenance, so that you [and they] would have equal shares in it, and you would fear [to make use of it without consulting] them, just as you might fear [the more powerful of] your equals? Thus clearly do We spell out these messages unto people who use their reason.",
-        "start": 0
+        "start": 108
       },
       {
         "text": "بَلِ اتَّبَعَ الَّذِينَ ظَلَمُوا أَهْوَاءَهُمْ بِغَيْرِ عِلْمٍ ۖ فَمَنْ يَهْدِي مَنْ أَضَلَّ اللَّهُ ۖ وَمَا لَهُمْ مِنْ نَاصِرِينَ",
-        "englishtrans": "Bali ittabaAAa allatheena thalamoo ahwaahum bighayri AAilmin faman yahdee man adalla Allahu wama lahum min nasireena",
         "en": "But nay - they who are bent on evildoing fol­low but their own desires, without having any knowl­edge (of the truth). And who could guide those whom God has [thus] let go astray, and who (thereupon) have none to succour them?",
-        "start": 0
+        "start": 112
       },
       {
         "text": "فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا ۚ فِطْرَتَ اللَّهِ الَّتِي فَطَرَ النَّاسَ عَلَيْهَا ۚ لَا تَبْدِيلَ لِخَلْقِ اللَّهِ ۚ ذَٰلِكَ الدِّينُ الْقَيِّمُ وَلَٰكِنَّ أَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
-        "englishtrans": "Faaqim wajhaka lilddeeni haneefan fitrata Allahi allatee fatara alnnasa AAalayha la tabdeela likhalqi Allahi thalika alddeenu alqayyimu walakinna akthara alnnasi la yaAAlamoona",
         "en": "AND SO, set thy face steadfastly towards the [one ever-true] faith, turning away from all that is false, in accordance with the natural disposition which God has instilled into man: [for,] not to allow any change to corrupt what God has thus created this is the [purpose of the one] ever-true faith; but most people know it not.",
-        "start": 0
+        "start": 116
       },
       {
         "text": "۞ مُنِيبِينَ إِلَيْهِ وَاتَّقُوهُ وَأَقِيمُوا الصَّلَاةَ وَلَا تَكُونُوا مِنَ الْمُشْرِكِينَ",
-        "englishtrans": "Muneebeena ilayhi waittaqoohu waaqeemoo alssalata wala takoonoo mina almushrikeena",
         "en": "[Turn, then, away from all that is false,] turn­ing unto Him [alone]; and remain conscious of Him, and be constant in prayer, and be not among those who ascribe divinity to aught beside Him,",
-        "start": 0
+        "start": 120
       },
       {
         "text": "مِنَ الَّذِينَ فَرَّقُوا دِينَهُمْ وَكَانُوا شِيَعًا ۖ كُلُّ حِزْبٍ بِمَا لَدَيْهِمْ فَرِحُونَ",
-        "englishtrans": "Mina allatheena farraqoo deenahum wakanoo shiyaAAan kullu hizbin bima ladayhim farihoona",
         "en": "[or] among those who have broken the unity of their faith and have become sects, each group delighting in but what they themselves hold [by way of tenets].",
-        "start": 0
+        "start": 124
       },
       {
         "text": "وَإِذَا مَسَّ النَّاسَ ضُرٌّ دَعَوْا رَبَّهُمْ مُنِيبِينَ إِلَيْهِ ثُمَّ إِذَا أَذَاقَهُمْ مِنْهُ رَحْمَةً إِذَا فَرِيقٌ مِنْهُمْ بِرَبِّهِمْ يُشْرِكُونَ",
-        "englishtrans": "Waitha massa alnnasa durrun daAAaw rabbahum muneebeena ilayhi thumma itha athaqahum minhu rahmatan itha fareequn minhum birabbihim yushrikoona",
         "en": "NOW [thus it is:] when affliction befalls men, they cry out unto their Sustainer, turning unto Him [for help]; but as soon as He lets them taste of His grace, lo! some of them [begin to] ascribe to other powers a share in their Sustainer’s divinity,",
-        "start": 0
+        "start": 128
       },
       {
         "text": "لِيَكْفُرُوا بِمَا آتَيْنَاهُمْ ۚ فَتَمَتَّعُوا فَسَوْفَ تَعْلَمُونَ",
-        "englishtrans": "Liyakfuroo bima ataynahum fatamattaAAoo fasawfa taAAlamoona",
         "en": "[as if] to prove their ingratitude for all that We have granted them! Enjoy, then, your [brief] life: but in time you will come to know [the truth]!",
-        "start": 0
+        "start": 132
       },
       {
         "text": "أَمْ أَنْزَلْنَا عَلَيْهِمْ سُلْطَانًا فَهُوَ يَتَكَلَّمُ بِمَا كَانُوا بِهِ يُشْرِكُونَ",
-        "englishtrans": "Am anzalna AAalayhim sultanan fahuwa yatakallamu bima kanoo bihi yushrikoona",
         "en": "Have We ever bestowed upon them from on high a divine writ which would speak [with appro­val] of their worshipping aught beside Us?",
-        "start": 0
+        "start": 136
       },
       {
         "text": "وَإِذَا أَذَقْنَا النَّاسَ رَحْمَةً فَرِحُوا بِهَا ۖ وَإِنْ تُصِبْهُمْ سَيِّئَةٌ بِمَا قَدَّمَتْ أَيْدِيهِمْ إِذَا هُمْ يَقْنَطُونَ",
-        "englishtrans": "Waitha athaqna alnnasa rahmatan farihoo biha wain tusibhum sayyiatun bima qaddamat aydeehim itha hum yaqnatoona",
         "en": "And [thus it is:] when we let men taste [Our] grace, they rejoice in it; but if evil befalls them as an outcome of what their own hands have wrought lo! they lose all hope!",
-        "start": 0
+        "start": 140
       },
       {
         "text": "أَوَلَمْ يَرَوْا أَنَّ اللَّهَ يَبْسُطُ الرِّزْقَ لِمَنْ يَشَاءُ وَيَقْدِرُ ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِقَوْمٍ يُؤْمِنُونَ",
-        "englishtrans": "Awalam yaraw anna Allaha yabsutu alrrizqa liman yashao wayaqdiru inna fee thalika laayatin liqawmin yuminoona",
         "en": "Are they, then, not aware that it is God who grants abundant sustenance, or gives it in scant measure, unto whomever He wills? In this, behold, there are messages indeed for peo­ple who will believe!",
-        "start": 0
+        "start": 144
       },
       {
         "text": "فَآتِ ذَا الْقُرْبَىٰ حَقَّهُ وَالْمِسْكِينَ وَابْنَ السَّبِيلِ ۚ ذَٰلِكَ خَيْرٌ لِلَّذِينَ يُرِيدُونَ وَجْهَ اللَّهِ ۖ وَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ",
-        "englishtrans": "Faati tha alqurba haqqahu waalmiskeena waibna alssabeeli thalika khayrun lillatheena yureedoona wajha Allahi waolaika humu almuflihoona",
         "en": "Hence, give his due to the near of kin, as well as to the needy and the wayfarer; this is best for all who seek God’s countenance: for it is they, they that shall attain to a happy state!",
-        "start": 0
+        "start": 148
       },
       {
         "text": "وَمَا آتَيْتُمْ مِنْ رِبًا لِيَرْبُوَ فِي أَمْوَالِ النَّاسِ فَلَا يَرْبُو عِنْدَ اللَّهِ ۖ وَمَا آتَيْتُمْ مِنْ زَكَاةٍ تُرِيدُونَ وَجْهَ اللَّهِ فَأُولَٰئِكَ هُمُ الْمُضْعِفُونَ",
-        "englishtrans": "Wama ataytum min riban liyarbuwa fee amwali alnnasi fala yarboo AAinda Allahi wama ataytum min zakatin tureedoona wajha Allahi faolaika humu almudAAifoona",
         "en": "And [remember:] whatever you may give out in usury so that it might increase through [other] people’s possessions will bring [you] no increase in the sight of God whereas all that you give out in charity, seeking God’s countenance, [will be blessed by Him:] for it is they, they [who thus seek His countenance] that shall have their recompense mul­tiplied!",
-        "start": 0
+        "start": 152
       },
       {
         "text": "اللَّهُ الَّذِي خَلَقَكُمْ ثُمَّ رَزَقَكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يُحْيِيكُمْ ۖ هَلْ مِنْ شُرَكَائِكُمْ مَنْ يَفْعَلُ مِنْ ذَٰلِكُمْ مِنْ شَيْءٍ ۚ سُبْحَانَهُ وَتَعَالَىٰ عَمَّا يُشْرِكُونَ",
-        "englishtrans": "Allahu allathee khalaqakum thumma razaqakum thumma yumeetukum thumma yuhyeekum hal min shurakaikum man yafAAalu min thalikum min shayin subhanahu wataAAala AAamma yushrikoona",
         "en": "IT IS GOD who has created you, and then has provided you with sustenance, and then will cause you to die, and then will bring you to life again. Can any of those beings or powers to whom you ascribe a share in His divinity do any of these things? Limitless is He in His glory, and sublimely exalted above anything to which men may ascribe a share in His divinity!",
-        "start": 0
+        "start": 156
       },
       {
         "text": "ظَهَرَ الْفَسَادُ فِي الْبَرِّ وَالْبَحْرِ بِمَا كَسَبَتْ أَيْدِي النَّاسِ لِيُذِيقَهُمْ بَعْضَ الَّذِي عَمِلُوا لَعَلَّهُمْ يَرْجِعُونَ",
-        "englishtrans": "Thahara alfasadu fee albarri waalbahri bima kasabat aydee alnnasi liyutheeqahum baAAda allathee AAamiloo laAAallahum yarjiAAoona",
         "en": "[Since they have become oblivious of God,] corruption has appeared on land and in the sea as an outcome of what men’s hands have wrought: and so He will let them taste [the evil of] some of their doings, so that they might return [to the right path].",
-        "start": 0
+        "start": 160
       },
       {
         "text": "قُلْ سِيرُوا فِي الْأَرْضِ فَانْظُرُوا كَيْفَ كَانَ عَاقِبَةُ الَّذِينَ مِنْ قَبْلُ ۚ كَانَ أَكْثَرُهُمْ مُشْرِكِينَ",
-        "englishtrans": "Qul seeroo fee alardi faonthuroo kayfa kana AAaqibatu allatheena min qablu kana aktharuhum mushrikeena",
         "en": "Say: “Go all over the earth, and behold what happened in the end to those [sinners] who lived before [you]: most of them were wont to ascribe divine qualities to things or beings other than God.”",
-        "start": 0
+        "start": 164
       },
       {
         "text": "فَأَقِمْ وَجْهَكَ لِلدِّينِ الْقَيِّمِ مِنْ قَبْلِ أَنْ يَأْتِيَ يَوْمٌ لَا مَرَدَّ لَهُ مِنَ اللَّهِ ۖ يَوْمَئِذٍ يَصَّدَّعُونَ",
-        "englishtrans": "Faaqim wajhaka lilddeeni alqayyimi min qabli an yatiya yawmun la maradda lahu mina Allahi yawmaithin yassaddaAAoona",
         "en": "Set, then, thy face steadfastly towards the one ever-true faith, ere there come from God a Day [of reckoning - the Day] which cannot be averted. On that Day all will be sundered:",
-        "start": 0
+        "start": 168
       },
       {
         "text": "مَنْ كَفَرَ فَعَلَيْهِ كُفْرُهُ ۖ وَمَنْ عَمِلَ صَالِحًا فَلِأَنْفُسِهِمْ يَمْهَدُونَ",
-        "englishtrans": "Man kafara faAAalayhi kufruhu waman AAamila salihan falianfusihim yamhadoona",
         "en": "he who has denied the truth will have to bear [the burden of] his denial, whereas all who did what is right and just will have made goodly provision for themselves,",
-        "start": 0
+        "start": 172
       },
       {
         "text": "لِيَجْزِيَ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ مِنْ فَضْلِهِ ۚ إِنَّهُ لَا يُحِبُّ الْكَافِرِينَ",
-        "englishtrans": "Liyajziya allatheena amanoo waAAamiloo alssalihati min fadlihi innahu la yuhibbu alkafireena",
         "en": "so that He might reward, out of His bounty, those who have attained to faith and done righteous deeds. Verily, He does not love those who refuse to acknowledge the truth –",
-        "start": 0
+        "start": 176
       },
       {
         "text": "وَمِنْ آيَاتِهِ أَنْ يُرْسِلَ الرِّيَاحَ مُبَشِّرَاتٍ وَلِيُذِيقَكُمْ مِنْ رَحْمَتِهِ وَلِتَجْرِيَ الْفُلْكُ بِأَمْرِهِ وَلِتَبْتَغُوا مِنْ فَضْلِهِ وَلَعَلَّكُمْ تَشْكُرُونَ",
-        "englishtrans": "Wamin ayatihi an yursila alrriyaha mubashshiratin waliyutheeqakum min rahmatihi walitajriya alfulku biamrihi walitabtaghoo min fadlihi walaAAallakum tashkuroona",
         "en": "for among His wonders is this: He sends forth [His messages as He sends forth] the winds that bear glad tidings, so that He might give you a taste of His grace [through life-giving rains], and that ships might sail at His behest, and that you might go about in quest of some of His bounties, and that you might have cause to be grateful.",
-        "start": 0
+        "start": 180
       },
       {
         "text": "وَلَقَدْ أَرْسَلْنَا مِنْ قَبْلِكَ رُسُلًا إِلَىٰ قَوْمِهِمْ فَجَاءُوهُمْ بِالْبَيِّنَاتِ فَانْتَقَمْنَا مِنَ الَّذِينَ أَجْرَمُوا ۖ وَكَانَ حَقًّا عَلَيْنَا نَصْرُ الْمُؤْمِنِينَ",
-        "englishtrans": "Walaqad arsalna min qablika rusulan ila qawmihim fajaoohum bialbayyinati faintaqamna mina allatheena ajramoo wakana haqqan AAalayna nasru almumineena",
         "en": "And indeed, [O Muhammad, even] before thee did We send forth apostles - each one unto his own people and they brought them all evidence of the truth: and then, [by causing the believers to triumph,] We inflicted Our retribution upon those who [de­liberately] did evil: for We had willed it upon Our­selves to succour the believers.",
-        "start": 0
+        "start": 184
       },
       {
         "text": "اللَّهُ الَّذِي يُرْسِلُ الرِّيَاحَ فَتُثِيرُ سَحَابًا فَيَبْسُطُهُ فِي السَّمَاءِ كَيْفَ يَشَاءُ وَيَجْعَلُهُ كِسَفًا فَتَرَى الْوَدْقَ يَخْرُجُ مِنْ خِلَالِهِ ۖ فَإِذَا أَصَابَ بِهِ مَنْ يَشَاءُ مِنْ عِبَادِهِ إِذَا هُمْ يَسْتَبْشِرُونَ",
-        "englishtrans": "Allahu allathee yursilu alrriyaha fatutheeru sahaban fayabsutuhu fee alssamai kayfa yashao wayajAAaluhu kisafan fatara alwadqa yakhruju min khilalihi faitha asaba bihi man yashao min AAibadihi itha hum yastabshiroona",
         "en": "It is God who sends forth the winds [of hope], so that they raise a cloud - whereupon He spreads it over the skies as He wills, and causes it to break up so that thou seest rain issue from within it: and as soon as He causes it to fall upon whomever He wills of His servants - lo! they rejoice,",
-        "start": 0
+        "start": 188
       },
       {
         "text": "وَإِنْ كَانُوا مِنْ قَبْلِ أَنْ يُنَزَّلَ عَلَيْهِمْ مِنْ قَبْلِهِ لَمُبْلِسِينَ",
-        "englishtrans": "Wain kanoo min qabli an yunazzala AAalayhim min qablihi lamubliseena",
         "en": "even though a short while ago, [just] before it was sent down upon them, they had abandoned all hope!",
-        "start": 0
+        "start": 192
       },
       {
         "text": "فَانْظُرْ إِلَىٰ آثَارِ رَحْمَتِ اللَّهِ كَيْفَ يُحْيِي الْأَرْضَ بَعْدَ مَوْتِهَا ۚ إِنَّ ذَٰلِكَ لَمُحْيِي الْمَوْتَىٰ ۖ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
-        "englishtrans": "Faonthur ila athari rahmati Allahi kayfa yuhyee alarda baAAda mawtiha inna thalika lamuhyee almawta wahuwa AAala kulli shayin qadeerun",
         "en": "Behold, then, [O man,] these signs of God’s grace - how He gives life to the earth after it had been lifeless! Verily, this Selfsame [God] is indeed the One that can bring the dead back to life: for He has the power to will anything!",
-        "start": 0
+        "start": 196
       },
       {
         "text": "وَلَئِنْ أَرْسَلْنَا رِيحًا فَرَأَوْهُ مُصْفَرًّا لَظَلُّوا مِنْ بَعْدِهِ يَكْفُرُونَ",
-        "englishtrans": "Walain arsalna reehan faraawhu musfarran lathalloo min baAAdihi yakfuroona",
         "en": "But thus it is: if We send a wind [that scorches their land], and they see it turn yellow, they begin, after that [erstwhile joy], to deny the truth [of Our almightiness and grace]!",
-        "start": 0
+        "start": 200
       },
       {
         "text": "فَإِنَّكَ لَا تُسْمِعُ الْمَوْتَىٰ وَلَا تُسْمِعُ الصُّمَّ الدُّعَاءَ إِذَا وَلَّوْا مُدْبِرِينَ",
-        "englishtrans": "Fainnaka la tusmiAAu almawta wala tusmiAAu alssumma aldduAAaa itha wallaw mudbireena",
         "en": "And, verily, thou canst not make the dead hear: and [so, too,] thou canst not make the deaf [of heart] hear this call when they turn their backs [on thee] and go away,",
-        "start": 0
+        "start": 204
       },
       {
         "text": "وَمَا أَنْتَ بِهَادِ الْعُمْيِ عَنْ ضَلَالَتِهِمْ ۖ إِنْ تُسْمِعُ إِلَّا مَنْ يُؤْمِنُ بِآيَاتِنَا فَهُمْ مُسْلِمُونَ",
-        "englishtrans": "Wama anta bihadi alAAumyi AAan dalalatihim in tusmiAAu illa man yuminu biayatina fahum muslimoona",
         "en": "just as thou canst not lead the blind [of heart] out of their error: none canst thou make hear [thy call] save such as [are willing to] believe in Our messages, and thus surrender them­selves unto Us.",
-        "start": 0
+        "start": 208
       },
       {
         "text": "۞ اللَّهُ الَّذِي خَلَقَكُمْ مِنْ ضَعْفٍ ثُمَّ جَعَلَ مِنْ بَعْدِ ضَعْفٍ قُوَّةً ثُمَّ جَعَلَ مِنْ بَعْدِ قُوَّةٍ ضَعْفًا وَشَيْبَةً ۚ يَخْلُقُ مَا يَشَاءُ ۖ وَهُوَ الْعَلِيمُ الْقَدِيرُ",
-        "englishtrans": "Allahu allathee khalaqakum min daAAfin thumma jaAAala min baAAdi daAAfin quwwatan thumma jaAAala min baAAdi quwwatin daAAfan washaybatan yakhluqu ma yashao wahuwa alAAaleemu alqadeeru",
         "en": "IT IS GOD who creates you [all in a states of weak­ness, and then, after weakness, ordains strength [for you], and then, after [a period of] strength, ordains [old-age] weakness and grey hair. He creates what He wills; and He alone is all-knowing, infinite in His power.",
-        "start": 0
+        "start": 212
       },
       {
         "text": "وَيَوْمَ تَقُومُ السَّاعَةُ يُقْسِمُ الْمُجْرِمُونَ مَا لَبِثُوا غَيْرَ سَاعَةٍ ۚ كَذَٰلِكَ كَانُوا يُؤْفَكُونَ",
-        "englishtrans": "Wayawma taqoomu alssaAAatu yuqsimu almujrimoona ma labithoo ghayra saAAatin kathalika kanoo yufakoona",
         "en": "[He it is who will cause you to die, and in time will resurrect you.] And when the Last Hour dawns, those who had been lost in sin will swear that they had not tarried [on earth] longer than an hour: thus were they wont to delude themselves [all their lives]!",
-        "start": 0
+        "start": 216
       },
       {
         "text": "وَقَالَ الَّذِينَ أُوتُوا الْعِلْمَ وَالْإِيمَانَ لَقَدْ لَبِثْتُمْ فِي كِتَابِ اللَّهِ إِلَىٰ يَوْمِ الْبَعْثِ ۖ فَهَٰذَا يَوْمُ الْبَعْثِ وَلَٰكِنَّكُمْ كُنْتُمْ لَا تَعْلَمُونَ",
-        "englishtrans": "Waqala allatheena ootoo alAAilma waaleemana laqad labithtum fee kitabi Allahi ila yawmi albaAAthi fahatha yawmu albaAAthi walakinnakum kuntum la taAAlamoona",
         "en": "But those who [in their lifetime] were endowed with knowledge and faith will say: “Indeed, you have been tardy in [accepting as true] what God has revealed, [and you have waited] until the Day of Resurrection: this, then, is the Day of Resurrection: but you - you were determined not to know it!",
-        "start": 0
+        "start": 220
       },
       {
         "text": "فَيَوْمَئِذٍ لَا يَنْفَعُ الَّذِينَ ظَلَمُوا مَعْذِرَتُهُمْ وَلَا هُمْ يُسْتَعْتَبُونَ",
-        "englishtrans": "Fayawmaithin la yanfaAAu allatheena thalamoo maAAthiratuhum wala hum yustaAAtaboona",
         "en": "And so, on that Day their excuse will be of no avail to those who were bent on evildoing, nor will they be allowed to make amends.",
-        "start": 0
+        "start": 224
       },
       {
         "text": "وَلَقَدْ ضَرَبْنَا لِلنَّاسِ فِي هَٰذَا الْقُرْآنِ مِنْ كُلِّ مَثَلٍ ۚ وَلَئِنْ جِئْتَهُمْ بِآيَةٍ لَيَقُولَنَّ الَّذِينَ كَفَرُوا إِنْ أَنْتُمْ إِلَّا مُبْطِلُونَ",
-        "englishtrans": "Walaqad darabna lilnnasi fee hatha alqurani min kulli mathalin walain jitahum biayatin layaqoolanna allatheena kafaroo in antum illa mubtiloona",
         "en": "AND, INDEED, We have propounded unto men all kinds of parables in this Qur’an. But thus it is: if thou approach them with any [such] message, those who are bent on denying the truth are sure to say, “You are but making false claims!”",
-        "start": 0
+        "start": 228
       },
       {
         "text": "كَذَٰلِكَ يَطْبَعُ اللَّهُ عَلَىٰ قُلُوبِ الَّذِينَ لَا يَعْلَمُونَ",
-        "englishtrans": "Kathalika yatbaAAu Allahu AAala quloobi allatheena la yaAAlamoona",
         "en": "In this way does God seal the hearts of those who do not [want to] know [the truth].",
-        "start": 0
+        "start": 232
       },
       {
         "text": "فَاصْبِرْ إِنَّ وَعْدَ اللَّهِ حَقٌّ ۖ وَلَا يَسْتَخِفَّنَّكَ الَّذِينَ لَا يُوقِنُونَ",
-        "englishtrans": "Faisbir inna waAAda Allahi haqqun wala yastakhiffannaka allatheena la yooqinoona",
         "en": "Remain, then, patient in adversity: verily, Gods promise [of resurrection] is true indeed - so let not those who are devoid of all inner certainty disquiet thy mind!",
-        "start": 0
+        "start": 236
       }
     ]
   },
