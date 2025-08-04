@@ -303,7 +303,8 @@
       const nextStart = currentSurahData.verses[i + 1]?.start ?? Infinity;
       const startSec = timeStringToSeconds(v.start);
       const nextSec = timeStringToSeconds(nextStart);
-      el.classList.toggle("highlight", currentTime >= startSec && currentTime < nextSec);
+el.classList.toggle("highlight", currentTime >= startSec && currentTime < nextSec);
+
     });
   }
 
