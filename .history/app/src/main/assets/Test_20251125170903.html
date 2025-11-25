@@ -890,7 +890,7 @@
         downloadBtn.title = 'Downloading...';
         
         // Call Android bridge to download file
-        AndroidBridge.downloadSurah(number);
+        AndroidBridge.downloadSurah(number, `downloadCallback${number}`);
     }
     
     function isFileDownloaded(number) {

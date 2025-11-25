@@ -338,6 +338,10 @@
     currentlyPlayingElement.classList.remove('show'); // Slide down the player
   });
 
+  audioPlayer.onerror = function () {
+    alert("Error loading audio. Please check the audio URL.");
+  }
+
   nextBtn.addEventListener("click", () => {
     if (allSurahs[surahNumber + 1]) {
       loadSurah(surahNumber + 1);

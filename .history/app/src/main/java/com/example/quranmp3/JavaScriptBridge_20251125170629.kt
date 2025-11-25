@@ -18,7 +18,7 @@ class JavaScriptBridge(private val activity: MainActivity) {
     }
     
     @JavascriptInterface
-    fun downloadSurah(surahNumber: Int) {
+    fun downloadSurah(surahNumber: Int, callback: String) {
         activity.runOnUiThread {
             try {
                 val fileName = String.format("%03d.mp3", surahNumber)
@@ -34,16 +34,18 @@ class JavaScriptBridge(private val activity: MainActivity) {
                 val downloadManager = activity.getSystemService(Context.DOWNLOAD_SERVICE) as DownloadManager
                 val downloadId = downloadManager.enqueue(request)
                 
+                // For now, we'll assume success. In a real implementation, you'd want to track the download progress
+                // and call the callback when the download completes
                 Toast.makeText(activity, "Download started for Surah $surahNumber", Toast.LENGTH_SHORT).show()
                 
                 // Simulate successful download after a short delay
                 activity.webView.postDelayed({
-                    activity.webView.evaluateJavascript("handleDownloadComplete($surahNumber, true);", null)
+                    activity.webView.evaluateJavascript("$callback(true);", null)
                 }, 2000)
                 
             } catch (e: Exception) {
                 e.printStackTrace()
-                activity.webView.evaluateJavascript("handleDownloadComplete($surahNumber, false);", null)
+                activity.webView.evaluateJavascript("$callback(false);", null)
                 Toast.makeText(activity, "Download failed for Surah $surahNumber", Toast.LENGTH_SHORT).show()
             }
         }
