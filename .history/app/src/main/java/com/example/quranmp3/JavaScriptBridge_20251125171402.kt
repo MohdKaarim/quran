@@ -3,7 +3,6 @@ package com.example.quranmp3
 import android.app.DownloadManager
 import android.content.Context
 import android.net.Uri
-import android.os.Build
 import android.os.Environment
 import android.webkit.JavascriptInterface
 import android.widget.Toast
@@ -18,17 +17,6 @@ class JavaScriptBridge(private val activity: MainActivity) {
         }
     }
     
-    private fun getQuranStorageDirectory(): File {
-        // Use external storage directory under Android folder for better access
-        return if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.Q) {
-            // For Android 10+ use app-specific external storage
-            File(activity.getExternalFilesDir(null), "QuranAudio")
-        } else {
-            // For older versions, use public external storage
-            File(Environment.getExternalStorageDirectory(), "Android/data/${activity.packageName}/files/QuranAudio")
-        }
-    }
-    
     @JavascriptInterface
     fun downloadSurah(surahNumber: Int) {
         activity.runOnUiThread {
@@ -36,19 +24,11 @@ class JavaScriptBridge(private val activity: MainActivity) {
                 val fileName = String.format("%03d.mp3", surahNumber)
                 val url = "https://server.mp3quran.net/obasfr/$fileName"
                 
-                // Ensure directory exists
-                val storageDir = getQuranStorageDirectory()
-                if (!storageDir.exists()) {
-                    storageDir.mkdirs()
-                }
-                
                 val request = DownloadManager.Request(Uri.parse(url))
                 request.setTitle("Surah $surahNumber")
                 request.setDescription("Downloading Quran Surah...")
                 request.setNotificationVisibility(DownloadManager.Request.VISIBILITY_VISIBLE_NOTIFY_COMPLETED)
-                
-                // Set destination to the QuranAudio directory
-                request.setDestinationUri(Uri.fromFile(File(storageDir, fileName)))
+                request.setDestinationInExternalFilesDir(activity, Environment.DIRECTORY_MUSIC, fileName)
                 request.allowScanningByMediaScanner()
                 
                 val downloadManager = activity.getSystemService(Context.DOWNLOAD_SERVICE) as DownloadManager
@@ -59,12 +39,12 @@ class JavaScriptBridge(private val activity: MainActivity) {
                 // Simulate successful download after a short delay
                 activity.webView.postDelayed({
                     activity.webView.evaluateJavascript("handleDownloadComplete($surahNumber, true);", null)
-                }, 3000) // Increased delay to allow for actual download
+                }, 2000)
                 
             } catch (e: Exception) {
                 e.printStackTrace()
                 activity.webView.evaluateJavascript("handleDownloadComplete($surahNumber, false);", null)
-                Toast.makeText(activity, "Download failed for Surah $surahNumber: ${e.message}", Toast.LENGTH_SHORT).show()
+                Toast.makeText(activity, "Download failed for Surah $surahNumber", Toast.LENGTH_SHORT).show()
             }
         }
     }
@@ -73,8 +53,7 @@ class JavaScriptBridge(private val activity: MainActivity) {
     fun playLocalSurah(surahNumber: Int) {
         activity.runOnUiThread {
             val fileName = String.format("%03d.mp3", surahNumber)
-            val storageDir = getQuranStorageDirectory()
-            val file = File(storageDir, fileName)
+            val file = File(activity.getExternalFilesDir(Environment.DIRECTORY_MUSIC), fileName)
             
             if (file.exists()) {
                 // Play from local file
@@ -84,7 +63,7 @@ class JavaScriptBridge(private val activity: MainActivity) {
             } else {
                 // Fallback to server if local file doesn't exist
                 openSurahPage(surahNumber)
-                Toast.makeText(activity, "Local file not found at ${file.absolutePath}, playing from server", Toast.LENGTH_LONG).show()
+                Toast.makeText(activity, "Local file not found, playing from server", Toast.LENGTH_SHORT).show()
             }
         }
     }
@@ -92,13 +71,7 @@ class JavaScriptBridge(private val activity: MainActivity) {
     @JavascriptInterface
     fun isFileDownloaded(surahNumber: Int): Boolean {
         val fileName = String.format("%03d.mp3", surahNumber)
-        val storageDir = getQuranStorageDirectory()
-        val file = File(storageDir, fileName)
-        return file.exists() && file.length() > 0
-    }
-    
-    @JavascriptInterface
-    fun getStoragePath(): String {
-        return getQuranStorageDirectory().absolutePath
+        val file = File(activity.getExternalFilesDir(Environment.DIRECTORY_MUSIC), fileName)
+        return file.exists()
     }
 }

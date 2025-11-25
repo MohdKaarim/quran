@@ -216,7 +216,6 @@
   <header>
   <h1>Al Quran</h1>
   <div class="header-decoration"></div>
-  <p id="storage-path" style="font-size: 0.8rem; color: #666; margin-top: 10px;"></p>
     </header>
 
   <div class="search-container">
@@ -896,34 +895,7 @@
     
     function isFileDownloaded(number) {
         const downloadedFiles = JSON.parse(localStorage.getItem('downloadedSurahs') || '[]');
-        const isInLocalStorage = downloadedFiles.includes(number);
-        
-        // Also check with Android bridge for actual file existence
-        try {
-            const actuallyExists = AndroidBridge.isFileDownloaded(number);
-            // Sync localStorage with actual file status
-            if (actuallyExists && !isInLocalStorage) {
-                markFileAsDownloaded(number);
-                return true;
-            } else if (!actuallyExists && isInLocalStorage) {
-                removeDownloadedFile(number);
-                return false;
-            }
-            return actuallyExists;
-        } catch (e) {
-            console.log('Android bridge not available, using localStorage only');
-            return isInLocalStorage;
-        }
-    }
-    
-    // Debug function to show storage path
-    function showStoragePath() {
-        try {
-            const path = AndroidBridge.getStoragePath();
-            alert('Storage path: ' + path);
-        } catch (e) {
-            alert('Android bridge not available');
-        }
+        return downloadedFiles.includes(number);
     }
     
     function markFileAsDownloaded(number) {
@@ -964,15 +936,6 @@ document.getElementById('search-input').addEventListener('input', function () {
 });
 
     renderSurahList();
-    
-    // Display storage path and initialize storage status
-    try {
-        const storagePath = AndroidBridge.getStoragePath();
-        document.getElementById('storage-path').textContent = `Storage: ${storagePath}`;
-    } catch (e) {
-        document.getElementById('storage-path').textContent = 'Android bridge not available';
-        console.log('Android bridge not available for storage path');
-    }
   </script>
 </body>
 </html>

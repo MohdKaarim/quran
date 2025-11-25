@@ -964,15 +964,6 @@ document.getElementById('search-input').addEventListener('input', function () {
 });
 
     renderSurahList();
-    
-    // Display storage path and initialize storage status
-    try {
-        const storagePath = AndroidBridge.getStoragePath();
-        document.getElementById('storage-path').textContent = `Storage: ${storagePath}`;
-    } catch (e) {
-        document.getElementById('storage-path').textContent = 'Android bridge not available';
-        console.log('Android bridge not available for storage path');
-    }
   </script>
 </body>
 </html>
