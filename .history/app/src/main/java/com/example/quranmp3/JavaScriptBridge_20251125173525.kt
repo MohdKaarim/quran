@@ -142,7 +142,7 @@ class JavaScriptBridge(private val activity: MainActivity) {
             
             Toast.makeText(activity, "Checking local file: ${file.absolutePath}", Toast.LENGTH_SHORT).show()
             
-            if (file.exists() && file.length() > 50000) { // Audio file should be at least 50KB
+            if (file.exists() && file.length() > 1000) { // File exists and has content
                 try {
                     // Play from local file
                     val localUrl = "file://${file.absolutePath}"
@@ -170,7 +170,7 @@ class JavaScriptBridge(private val activity: MainActivity) {
         val fileName = String.format("%03d.mp3", surahNumber)
         val storageDir = getQuranStorageDirectory()
         val file = File(storageDir, fileName)
-        val exists = file.exists() && file.length() > 50000 // Audio files should be at least 50KB
+        val exists = file.exists() && file.length() > 1000
         
         if (exists) {
             activity.runOnUiThread {

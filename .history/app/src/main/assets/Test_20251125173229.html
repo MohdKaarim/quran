@@ -864,7 +864,7 @@
             markFileAsDownloaded(number);
             downloadBtn.classList.add('downloaded');
             icon.className = 'fas fa-check';
-            downloadBtn.title = 'Downloaded - Click play to listen offline';
+            downloadBtn.title = 'Downloaded';
             
             // Double-check file existence after a short delay
             setTimeout(() => {
@@ -873,25 +873,17 @@
                     // File check failed, reset button
                     downloadBtn.classList.remove('downloaded');
                     icon.className = 'fas fa-download';
-                    downloadBtn.title = 'File validation failed - try again';
+                    downloadBtn.title = 'Download';
                     removeDownloadedFileFromStorage(number);
-                    setTimeout(() => {
-                        downloadBtn.title = 'Download';
-                    }, 3000);
                 }
-            }, 2000);
+            }, 1000);
         } else {
-            // Reset button on failure and add retry mechanism
-            icon.className = 'fas fa-exclamation-triangle';
-            downloadBtn.title = 'Download failed - click to retry';
-            downloadBtn.style.color = '#e74c3c'; // Red color for error
-            
-            // Reset to normal state after 5 seconds
+            // Reset button on failure
+            icon.className = 'fas fa-download';
+            downloadBtn.title = 'Download failed, try again';
             setTimeout(() => {
-                icon.className = 'fas fa-download';
                 downloadBtn.title = 'Download';
-                downloadBtn.style.color = ''; // Reset color
-            }, 5000);
+            }, 3000);
         }
     }
     
@@ -904,28 +896,13 @@
             return;
         }
         
-        // Check if already downloading
-        if (downloadBtn.classList.contains('downloading')) {
-            return;
-        }
-        
         // Update button to show downloading state
         downloadBtn.classList.add('downloading');
         icon.className = 'fas fa-spinner fa-spin';
         downloadBtn.title = 'Downloading...';
         
         // Call Android bridge to download file
-        try {
-            AndroidBridge.downloadSurah(number);
-        } catch (e) {
-            // Handle case where Android bridge is not available
-            downloadBtn.classList.remove('downloading');
-            icon.className = 'fas fa-download';
-            downloadBtn.title = 'Android bridge not available';
-            setTimeout(() => {
-                downloadBtn.title = 'Download';
-            }, 3000);
-        }
+        AndroidBridge.downloadSurah(number);
     }
     
     function isFileDownloaded(number) {

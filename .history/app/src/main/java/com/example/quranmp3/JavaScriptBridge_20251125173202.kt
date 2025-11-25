@@ -34,13 +34,7 @@ class JavaScriptBridge(private val activity: MainActivity) {
         activity.runOnUiThread {
             try {
                 val fileName = String.format("%03d.mp3", surahNumber)
-                
-                // Try multiple server URLs for better success rate
-                val serverUrls = listOf(
-                    "https://www.everyayah.com/data/Abdul_Basit_Murattal_192kbps/$fileName",
-                    "https://download.quranicaudio.com/quran/abdul_basit_murattal/$fileName",
-                    "https://server.mp3quran.net/obasfr/$fileName"
-                )
+                val url = "https://server.mp3quran.net/obasfr/$fileName"
                 
                 // Ensure directory exists
                 val storageDir = getQuranStorageDirectory()
@@ -55,75 +49,35 @@ class JavaScriptBridge(private val activity: MainActivity) {
                 
                 val destinationFile = File(storageDir, fileName)
                 
-                // Check if file already exists and is valid (at least 50KB for audio)
-                if (destinationFile.exists() && destinationFile.length() > 50000) {
-                    Toast.makeText(activity, "Surah $surahNumber already downloaded (${destinationFile.length()} bytes)", Toast.LENGTH_SHORT).show()
+                // Check if file already exists
+                if (destinationFile.exists() && destinationFile.length() > 0) {
+                    Toast.makeText(activity, "Surah $surahNumber already downloaded", Toast.LENGTH_SHORT).show()
                     activity.webView.evaluateJavascript("handleDownloadComplete($surahNumber, true);", null)
                     return@runOnUiThread
                 }
                 
-                // Delete incomplete file if exists
-                if (destinationFile.exists()) {
-                    destinationFile.delete()
-                }
-                
-                // Try downloading from the primary server
-                val url = serverUrls[0] // everyayah.com is more reliable
-                
                 val request = DownloadManager.Request(Uri.parse(url))
                 request.setTitle("Surah $surahNumber - Holy Quran")
-                request.setDescription("Downloading from ${Uri.parse(url).host}...")
+                request.setDescription("Downloading Quran Surah $fileName...")
                 request.setNotificationVisibility(DownloadManager.Request.VISIBILITY_VISIBLE_NOTIFY_COMPLETED)
                 request.setDestinationUri(Uri.fromFile(destinationFile))
                 request.allowScanningByMediaScanner()
-                request.setAllowedNetworkTypes(DownloadManager.Request.NETWORK_WIFI or DownloadManager.Request.NETWORK_MOBILE)
-                request.setAllowedOverRoaming(false)
                 
                 val downloadManager = activity.getSystemService(Context.DOWNLOAD_SERVICE) as DownloadManager
                 val downloadId = downloadManager.enqueue(request)
                 
-                Toast.makeText(activity, "Starting download for Surah $surahNumber\nServer: ${Uri.parse(url).host}", Toast.LENGTH_LONG).show()
+                Toast.makeText(activity, "Download started for Surah $surahNumber\nSaving to: ${destinationFile.absolutePath}", Toast.LENGTH_LONG).show()
                 
-                // Progressive download checking
-                var checkCount = 0
-                val maxChecks = 30 // Check for up to 1.5 minutes
-                
-                fun checkDownloadProgress() {
-                    checkCount++
-                    val currentSize = if (destinationFile.exists()) destinationFile.length() else 0
-                    
-                    if (currentSize > 50000) {
-                        // Download successful - audio files should be at least 50KB
+                // Check download completion after a delay
+                activity.webView.postDelayed({
+                    if (destinationFile.exists() && destinationFile.length() > 1000) { // File should be at least 1KB
                         activity.webView.evaluateJavascript("handleDownloadComplete($surahNumber, true);", null)
-                        Toast.makeText(activity, "Surah $surahNumber downloaded successfully (${currentSize} bytes)", Toast.LENGTH_SHORT).show()
-                    } else if (checkCount < maxChecks) {
-                        // Continue checking
-                        if (checkCount % 5 == 0 && currentSize > 0) {
-                            Toast.makeText(activity, "Downloading... ${currentSize} bytes", Toast.LENGTH_SHORT).show()
-                        }
-                        activity.webView.postDelayed({ checkDownloadProgress() }, 3000)
+                        Toast.makeText(activity, "Surah $surahNumber downloaded successfully", Toast.LENGTH_SHORT).show()
                     } else {
-                        // Download failed or taking too long
                         activity.webView.evaluateJavascript("handleDownloadComplete($surahNumber, false);", null)
-                        Toast.makeText(activity, "Download timeout. File size: ${currentSize} bytes. Please try again.", Toast.LENGTH_LONG).show()
-                        
-                        // Clean up failed download
-                        if (destinationFile.exists()) {
-                            destinationFile.delete()
-                        }
+                        Toast.makeText(activity, "Download failed or file is empty", Toast.LENGTH_SHORT).show()
                     }
-                }
-                
-                // Start checking after 3 seconds
-                activity.webView.postDelayed({ checkDownloadProgress() }, 3000)
-                
-            } catch (e: Exception) {
-                e.printStackTrace()
-                activity.webView.evaluateJavascript("handleDownloadComplete($surahNumber, false);", null)
-                Toast.makeText(activity, "Download error: ${e.message}", Toast.LENGTH_LONG).show()
-            }
-        }
-    }
+                }, 5000) // Increased delay to allow download completion
                 
             } catch (e: Exception) {
                 e.printStackTrace()
@@ -142,7 +96,7 @@ class JavaScriptBridge(private val activity: MainActivity) {
             
             Toast.makeText(activity, "Checking local file: ${file.absolutePath}", Toast.LENGTH_SHORT).show()
             
-            if (file.exists() && file.length() > 50000) { // Audio file should be at least 50KB
+            if (file.exists() && file.length() > 1000) { // File exists and has content
                 try {
                     // Play from local file
                     val localUrl = "file://${file.absolutePath}"
@@ -170,7 +124,7 @@ class JavaScriptBridge(private val activity: MainActivity) {
         val fileName = String.format("%03d.mp3", surahNumber)
         val storageDir = getQuranStorageDirectory()
         val file = File(storageDir, fileName)
-        val exists = file.exists() && file.length() > 50000 // Audio files should be at least 50KB
+        val exists = file.exists() && file.length() > 1000
         
         if (exists) {
             activity.runOnUiThread {

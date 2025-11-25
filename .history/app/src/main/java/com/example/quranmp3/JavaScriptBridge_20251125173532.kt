@@ -170,7 +170,7 @@ class JavaScriptBridge(private val activity: MainActivity) {
         val fileName = String.format("%03d.mp3", surahNumber)
         val storageDir = getQuranStorageDirectory()
         val file = File(storageDir, fileName)
-        val exists = file.exists() && file.length() > 50000 // Audio files should be at least 50KB
+        val exists = file.exists() && file.length() > 1000
         
         if (exists) {
             activity.runOnUiThread {
